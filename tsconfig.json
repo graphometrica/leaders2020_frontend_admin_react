@@ -1,0 +1,48 @@
+{
+    "compilerOptions": {
+      "allowJs": true,      
+      "outDir": "./", 
+      "rootDir": "./", 
+      "module": "commonjs",
+      "target": "es5",
+      "lib": ["es5", "dom", "es2015"],
+      "sourceMap": true,
+      "inlineSourceMap": false,
+      "inlineSources": false,
+      "experimentalDecorators": true,
+      "noEmit": true,
+      "noUnusedParameters": true,
+      "noUnusedLocals": true,
+      "jsx": "react",
+      "moduleResolution": "node",
+      "esModuleInterop": true,
+      "baseUrl": "./",
+      
+      "paths": {
+            "@components/*": ["src/app/common/components/*"],
+            "@containers/*": ["src/app/common/containers/*"],
+            "@helpers/*": ["src/app/common/helpers/*"],            
+            "@routes/*": ["src/app/routes/*"],
+            "@pages/*": ["src/app/pages/*"],
+            "@models/*": ["src/app/common/models/*"],            
+            "@appConfig": ["config/default.js"],
+      
+            "@domain/*": ["src/app/domain/*"],
+
+            "@const": ["src/app/common/constants/index.js"],
+
+            "@uikit": ["src/app/uikit/index.js"],
+            "@tokens": ["src/app/uikit/tokens/index.js"],
+            
+            "@images": ["src/assets/images"],
+            "@fonts": ["src/assets/fonts"],
+            "@assets": ["src/assets"],
+            "@styles": ["src/assets/styles"]            
+        }  
+    },    
+    "exclude": [
+      "node_modules",
+      "build"
+    ]
+  }
+  
