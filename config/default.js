@@ -53,7 +53,7 @@ const config = {
   ENV: () => ({
     version: "1.00.00",
     mode: mode,
-    demoApiEndpoint: devOrProd('http://localhost:3001/api/admin/', 'http://loccalhost:9080')
+    animalsEndpoint: devOrProd('http://localhost:3001/api/animals', 'http://localhost:9080')
   }),
   contentBasePublicPath: "",
 };

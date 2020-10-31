@@ -4,14 +4,16 @@ import browserPlugin from 'router5-plugin-browser'
 import routes from './routes'
 
 import {DemoPage} from '@domain/Demo/pages/DemoPage'
+import {AnimalCardsPage} from '@domain/Animal/pages/AnimalCardsPage'
 
 const routesContent = {
-    'DemoPage': DemoPage
+    'DemoPage': DemoPage,
+    'AnimalCardsPage': AnimalCardsPage,
 }
 
 const configureRouter = () => {
     const router = createRouter(routes, {
-        defaultRoute: 'DemoPage'
+        defaultRoute: 'AnimalCardsPage'
     })
 
     router.usePlugin(loggerPlugin)

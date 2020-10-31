@@ -1,6 +1,8 @@
 import React from "react";
 import { routesContent } from "@routes/configureRouter";
 
+import { Row, Col, Divider } from 'antd';
+
 import {NavigationHeader} from '@containers/NavigationHeader';
 
 
@@ -32,9 +34,17 @@ const App = (props) => {
   return (
     <div>
       <NavigationHeader />
-      <div className="container is-fluid">
-        {React.createElement(routePageComponent, props)}
-      </div>
+
+      <Row>
+          <Col flex="25px">&nbsp;</Col>
+          <Col flex="auto" style={{marginTop: '25px'}}>
+            {React.createElement(routePageComponent, props)}
+          </Col>
+          <Col flex="25px">&nbsp;</Col>
+      </Row>
+      {/* <div className="container is-fluid">
+        
+      </div> */}
       
     </div>
   )

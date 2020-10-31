@@ -9,6 +9,8 @@ import appConfig from '@appConfig'
 import '@styles/common.scss'
 import '@styles/bulma.scss'
 
+import 'antd/dist/antd.css';
+
 import App from './app/App';
 
 const router = configureRouter();
@@ -19,7 +21,7 @@ if (appConfig.ENV().mode == 'development') {
 
 
 ReactDOM.render(
-  <React.StrictMode>
+  
     <RouterProvider router={router}>
       <HelmetProvider>
           <Helmet {...appConfig.app.head}/>          
@@ -30,6 +32,6 @@ ReactDOM.render(
           
       </HelmetProvider>
     </RouterProvider>      
-  </React.StrictMode>,
+  ,
   document.getElementById('app')
 );

@@ -1,12 +1,12 @@
 {
-  "name": "react-boilerplate",
+  "name": "leaders2020_frontend_admin_react",
   "version": "1.0.0",
-  "description": "react-boilerplate",
+  "description": "leaders2020_frontend_admin_react",
   "main": "index.js",
   "private": true,
   "repository": {
     "type": "http",
-    "url": "https://github.com/AToutLeMonde/react-boilerplate.git"
+    "url": "https://github.com/graphometrica/leaders2020_frontend_admin_react.git"
   },
   "scripts": {
     "build:dev": "cross-env NODE_ENV=development webpack --mode development",
@@ -70,6 +70,7 @@
   "dependencies": {
     "@babel/polyfill": "^7.12.1",
     "@rehooks/local-storage": "^2.4.0",
+    "antd": "^4.7.3",
     "axios": "^0.20.0",
     "bulma": "^0.9.1",
     "chart.js": "^2.9.4",

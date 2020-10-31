@@ -1,0 +1,21 @@
+{
+    "jumpToAliasFile.alias": {
+        "@components": "/Users/ruamand/Documents/GitHub/leaders2020_frontend_admin_react/src/app/common/components",
+        "@containers": "/Users/ruamand/Documents/GitHub/leaders2020_frontend_admin_react/src/app/common/containers",
+        "@helpers": "/Users/ruamand/Documents/GitHub/leaders2020_frontend_admin_react/src/app/common/helpers",
+        "@routes": "/Users/ruamand/Documents/GitHub/leaders2020_frontend_admin_react/src/app/routes",
+        "@pages": "/Users/ruamand/Documents/GitHub/leaders2020_frontend_admin_react/src/app/pages",
+        "@models": "/Users/ruamand/Documents/GitHub/leaders2020_frontend_admin_react/src/app/common/models",
+        "@domain": [
+            "src/app/domain"
+        ],
+        "@appConfig": "/Users/ruamand/Documents/GitHub/leaders2020_frontend_admin_react/config/default.js",
+        "@const": "/Users/ruamand/Documents/GitHub/leaders2020_frontend_admin_react/src/app/common/constants/index.js",
+        "@tokens": "/Users/ruamand/Documents/GitHub/leaders2020_frontend_admin_react/src/app/uikit/tokens/index.js",
+        "@uikit": "/Users/ruamand/Documents/GitHub/leaders2020_frontend_admin_react/src/app/uikit/index.js",
+        "@images": "/Users/ruamand/Documents/GitHub/leaders2020_frontend_admin_react/src/assets/images",
+        "@fonts": "/Users/ruamand/Documents/GitHub/leaders2020_frontend_admin_react/src/assets/fonts",
+        "@assets": "/Users/ruamand/Documents/GitHub/leaders2020_frontend_admin_react/src/assets",
+        "@styles": "/Users/ruamand/Documents/GitHub/leaders2020_frontend_admin_react/src/assets/styles"
+    }
+}
