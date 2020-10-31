@@ -161,7 +161,7 @@ import {
                     value={values.generalInfo.nickname}
                     onChange={(e) => {
                         let newValues =  JSON.parse(JSON.stringify(values));
-                        newValues.generalInfo.nicknameы = e.target.value;
+                        newValues.generalInfo.nickname = e.target.value;
                         changeValues(newValues);
                     }}
                     placeholder="Введите значение" />
