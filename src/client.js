@@ -20,6 +20,13 @@ if (appConfig.ENV().mode == 'development') {
 }
 
 
+const Guard = ({route, previousRoute, router}) => {
+  return (<>
+
+  </>)
+}
+
+
 ReactDOM.render(
   
     <RouterProvider router={router}>

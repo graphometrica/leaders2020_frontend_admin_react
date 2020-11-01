@@ -1,6 +1,7 @@
 const path = require('path')
 const express = require('express');
 const fileUpload = require('express-fileupload');
+const cookieParser = require('cookie-parser')
 
 const webpack = require('webpack');
 const webpackDevMiddleware = require('webpack-dev-middleware');
@@ -26,6 +27,7 @@ app.use(bodyParser.json());
 app.use(bodyParser.raw());
 app.use(express.static(__dirname + '../build'));
 app.use(fileUpload());
+app.use(cookieParser())
 
 app.listen(config.devServer.port, function () {
   const logmsg = ` - app is listening on port ${config.devServer.port}!\n`;

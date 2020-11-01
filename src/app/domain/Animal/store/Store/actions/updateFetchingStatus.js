@@ -1,15 +1,15 @@
 import {
-    Store,
+    
     createAsyncAction,
     errorResult,
     successResult,
   } from "pullstate";
 
-import {AnimalStore} from "@domain/Animal/store/AnimalStore"
-import { animalsApi } from "@domain/Animal/services/animalsApi";
+import {Store} from "@Store"
+import { backend } from "@backend";
 
 const updateFetchingStatus = (value) => {
-    AnimalStore.update((s) => {
+    Store.update((s) => {
         s.isFetching = value;
       });
 }

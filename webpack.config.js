@@ -47,8 +47,11 @@ module.exports = {
       "@domain": ["src/app/domain"],
 
       "@appConfig": path.resolve(DIR, "config/default.js"),
+      "@Store": path.resolve(DIR, "src/app/domain/Animal/store/Store/index.js"),
+      "@Animal": path.resolve(DIR, "src/app/domain/Animal"),
 
-            
+      "@backend": path.resolve(DIR, "src/app/domain/Animal/services/backend.js"),
+                        
       "@const": path.resolve(DIR, "src/app/common/constants/index.js"),
 
       "@tokens": path.resolve(DIR, "src/app/uikit/tokens/index.js"),

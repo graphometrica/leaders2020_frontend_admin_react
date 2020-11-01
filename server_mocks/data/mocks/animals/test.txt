@@ -1,0 +1,254 @@
+shelters
+-id
+-name
+-address
+-phone
+-operating_organization_id
+-district_id
+-boss_employee_id
+
+
+
+operating_organizations
+-names
+-address
+-boss_employee_id
+-district_id
+
+animal_types
+-id
+-name
+
+genders
+-id
+-name
+
+breeds
+-id
+-name
+
+colors
+-id
+-name
+
+wool_types
+-id
+-name
+
+ear_types
+-id
+-name
+
+tail_types
+-id
+-name
+
+death_reasons
+-id
+-name
+
+shelter_exit_reasons
+-id
+-name
+
+euthanasia_types
+-id
+-name
+
+
+employees
+-id
+-name
+-position_name
+-shelter_id
+-district_id
+-operating_organization_id
+
+
+
+animals
+-id
+-card_number
+-animal_type_id
+-district_id
+-operating_organization_id
+-shelter_id
+-year
+-weight
+-nickname
+-gender_id
+-breed_id
+-color_id
+-wool_type_id
+-ear_type_id
+-tail_type_id
+-size (double)
+-special_signs
+-aviary
+-identificationMark
+-care_employee_id
+-is_sterilized
+-sterilization_date
+-sterilization_comment
+-veterinarian_employee_id
+-is_socialized
+-catch_act_number
+-catch_act_date
+-catch_order_number
+-catch_order_date
+-catch_address_value
+-catch_address_latitude
+-catch_address_longitude
+-catch_video
+
+-address_value
+-address_fias
+-address_latitude
+-address_longitude
+-new_owner_type
+-new_owner_pe_name
+-new_owner_pe_pass_number
+-new_owner_pe_pass_serial
+-new_owner_pe_pass_issued_by
+-new_owner_pe_pass_issue_date
+-new_owner_pe_registration_address
+-new_owner_contact
+-new_owner_le_name
+-new_owner_le_phone
+-new_owner_le_address
+-new_owner_guardians
+-animal_movement_id
+
+
+endoparasites
+-animal_id
+-position
+-date
+-medication_name
+-serial_number
+
+
+vaccinations
+-animal_id
+-position
+-date
+-medication_name
+-serial_number
+
+health_checks
+-animal_id
+-date
+-weight
+-anamnesis
+
+
+
+animal_movements
+-id
+-movement_type
+-animal_id
+-admission_date
+-admission_act_number
+-shelter_exit_date
+-shelter_exit_act_number
+-shelter_exit_reason_id
+-death_reason_id
+-euthanasia_type_id
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+-new_owner_doc_number
+
+
+animal_card_curators
+-animal_card_id
+-curator_id
+-curator_name
+
+
+        "newOwner": {
+            "id": "c184211e-aa8f-4f07-b4c7-f3fd251f731f",
+            "type": "юридическое лицо",
+            "name": "ООО Добро Вместе",
+            "documentNumber": "12(2)",
+            "curators": [
+                {
+                    "id": "4d68edaa-9193-4c55-935c-5b911db1d4da",
+                    "name": "Иванова Анна",
+                    "type": "куратор"
+                }
+            ]
+        },
+        "animalMovements": [
+            {
+                "id": "4d68edaa-9193-4c55-935c-5b911db1d4da",
+                "date": "2020-10-19",
+                "type": "Выбытие из приюта",
+                "documentNumber": "179з-20(подк.)",
+                "additional": "смерть"
+            },
+            {
+                "id": "4d68edaa-9193-4c55-935c-5b911db1d4dc",
+                "date": "2020-05-11",
+                "type": "Поступление животного в приют",
+                "documentNumber": "17з-20(подк.)",
+                "additional": ""
+            }
+        ],
+        "shelter": {
+            "id": "fe3c61e2-60c3-4fd3-8dda-b63271e279f8",
+            "address": {
+                "unparsed": "Пятницкое ш., 37",
+                "FIASCode": "",
+                "latitude": "",
+                "longitude": ""
+            },
+            "serviceOrganization": "ГБУ Доринвест",
+            "bossEmployee": {
+                "id": "9e635e5f-09b0-4f04-918e-e0f837cd3ec2",
+                "name": "Игнатов А.В."
+            },
+            "careEmployee": {
+                "id": "9e635e5f-09b0-4f04-918e-e0f837cd3ec2",
+                "name": "Работник 1 "
+            }
+        },
+        "endoparasites": [
+            {
+                "id": "f332f833-d7a3-4632-b4ff-57253ae1e96a",
+                "position": "1",
+                "date": "2020-02-04",
+                "medicationName": "Азинокс",
+                "dose": "2.5 мл"
+            }
+        ],
+        "vaccinations": [
+            {
+                "id": "a332f833-d7a3-4632-b4ff-57253ae1e96b",
+                "position": "1",
+                "date": "2020-02-04",
+                "medicationName": "Бешенство Мультикан-6",
+                "serialNumber": ""
+            }
+        ],
+        "healthInfo": [
+            {
+                "id": "44cc31ac-4957-489c-ad2e-b8e85e36d1a12",
+                "date": "2020-09-28",
+                "anamnesis": "удовлетворительно"
+            }
+        ]
+    }
+  ]

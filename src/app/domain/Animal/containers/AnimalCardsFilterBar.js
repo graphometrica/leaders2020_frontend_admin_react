@@ -1,119 +1,114 @@
 import React from "react";
 
-import { Row, Col, Divider, Select, Form } from "antd";
+import { Row, Col, Divider, Select, Form,
+    Button, Tooltip, Alert, Input
+} from "antd";
+
+import { FilterOutlined, CloseOutlined } from '@ant-design/icons';
+
+import {Store, getAllAnimals, setAdvFilter, applyFilters, updateSearch} from '@Store'
+import {SearchModal} from '@domain/Animal/containers/Search/SearchModal';
 
 const { Option } = Select;
-
-const children = [
-    <Option key="1">кошка</Option>,
-    <Option key="2">собака</Option>
-
-];
 
 function handleChange(value) {
   console.log(`selected ${value}`);
 }
 
-import animalData from "@domain/Animal/data/animal_card.json";
+const getFilterText = ({type, filter}) => {
+
+    let result = '';
+    if (type === "1") result = "по № карточки";
+    if (type === "2") result = "по № идентификационной метки";
+    if (type === "3") result = "по кличке";
+    if (type === "4") result = "по административному округу";
+    if (type === "5") result = "по приюту";
+    if (type === "6") result = "по периоду регистрации карточки";
+    if (type === "7") result = "по виду животного";
+    if (type === "8") result = "по возрасту";
+    if (type === "9") result = "по размеру";
+    if (type === "10") result = "по причине выбытия";
+    if (type === "11") result = "по статусу животного";
+    
+
+    return `(${result}): "${filter}"`;
+}
 
 const AnimalCardsFilterBar = ({ data }) => {
+    const { search, advFilter } = Store.useState((s) => ({
+        advFilter:s.advFilter,
+        search: s.search
+      }));
+
+      
+      
+    const [visible, setVisible] = React.useState(false);
+
+    const [filters, setFilters] = React.useState();
+
+    const [searchString, setSearchString] = React.useState();
+
+    const updateFiltersHandler = (values) => {
+        if ((values.filter || '').length > 0 ) {
+            setFilters(values);
+            setAdvFilter(values);
+        }
+        
+        setVisible(false)
+    }
+
+    const closeHandler = () => {        
+        setVisible(false)
+    }    
+
   return (
     <>
+    <SearchModal visible={visible} close={closeHandler} updateFilters={updateFiltersHandler} />
       <Row gutter={16}>
-        <Col className="gutter-row" span={6}>
-
-            <Form.Item
-                label="Вид животных"
-                rules={[{ required: true, message: "Поле обязательное" }]}
-            >
-                <Select
-                mode="multiple"
-                allowClear
-                style={{ width: "100%" }}   
-                placeholder="Вид животных"
-                defaultValue={["собака", "кошка"]}
-                onChange={handleChange}
-            >
-                {children}
-            </Select>
-            </Form.Item>
-          
+        <Col className="gutter-row" span={3}>
+                <Tooltip title="Фильтр по карточкам животных">
+                    <Button type="info" onClick={() => setVisible(true)}  icon={<FilterOutlined />}>Фильтр по карточкам</Button>
+                </Tooltip>                      
         </Col>
 
-        <Col className="gutter-row" span={1}>
+    {!!filters ? (
+        <>
+        <Col className="gutter-row" span={10}>
+            <Alert message={`Включен фильтр ${getFilterText(filters)}`} type="warning" />
+            
+        </Col>
+        <Col className="gutter-row" span={2}>
+            <Tooltip title="Сбросить фильтр">
+                <Button onClick={() => {
+                    setFilters(null);
+                }} type="outline"  icon={<CloseOutlined />} shape="circle"></Button>
+            </Tooltip>
         </Col>
 
-        <Col className="gutter-row" span={6}>
-
-            <Form.Item
-                label="Возраст"             
-            >
-                <Select
-                mode="multiple"
-                allowClear
-                style={{ width: "100%" }}   
-                placeholder="Возраст"
-                defaultValue={["11", "22", "3"]}
-                onChange={handleChange}
-            >
-                {[
-                    <Option key="11">3</Option>,
-                    <Option key="22">5</Option>,
-                    <Option key="3">7</Option>
-
-                ]}
-            </Select>
-            </Form.Item>
-          
-        </Col>
-
-        <Col className="gutter-row" span={1}>
-        </Col>
-
-        <Col className="gutter-row" span={6}>
-
-            <Form.Item
-                label="Возраст"             
-            >
-                <Select
-                mode="multiple"
-                allowClear
-                style={{ width: "100%" }}   
-                placeholder="Вольер"
-                defaultValue={["11", "3"]}
-                onChange={handleChange}
-            >
-                {[
-                    <Option key="11">1</Option>,
-                    <Option key="22">2</Option>,
-                    <Option key="3">3</Option>
-
-                ]}
-            </Select>
-            </Form.Item>
-          
-        </Col>
+        
+        </>
+    ): undefined}
+        
+            <Col span={9}>
+            <Input
+            value={search}
+            onChange={ (e) => updateSearch(e.target.value)}
+                size="large"
+                placeholder="Введите строку для поиска" />
+            </Col>
+        
 
       </Row>
     </>
   );
 };
 
-
-          {/* собака/кошка
-        возраст
-        пол
-        цвет
-        шерсть
-        уши
-        хвост
-        размер
-        вольер */}
+        
 
 const AnimalCardsFilterBarWrapper = (props) => {
   const isFetching = false;
 
-  return <AnimalCardsFilterBar data={{}} isFetching={isFetching} />;
+  return <AnimalCardsFilterBar />;
 };
 
 export { AnimalCardsFilterBarWrapper as AnimalCardsFilterBar };

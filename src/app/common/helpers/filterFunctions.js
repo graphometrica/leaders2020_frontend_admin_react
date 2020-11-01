@@ -30,7 +30,7 @@ const filterArrayByString = (data, filterValue, fields) => {
             })
         }else {
             result = data.filter(i=> {
-                if (typeof i === 'object' && i ) {
+                if (typeof i === 'object' && i ) {                    
                     return findBySubstring(i, filterValue)
                 }
                 

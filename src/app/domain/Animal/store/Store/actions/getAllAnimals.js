@@ -1,24 +1,26 @@
 import {
-    Store,
+    
     createAsyncAction,
     errorResult,
     successResult,
   } from "pullstate";
 
-import {AnimalStore} from "@domain/Animal/store/AnimalStore/AnimalStore"
-import { animalsApi } from "@domain/Animal/services/animalsApi";
+import {Store} from "@Store"
+import { backend } from "@backend";
 import { updateFetchingStatus } from './updateFetchingStatus'
 
+import { applyFilters} from "./applyFilters"
 
-const getAll = createAsyncAction(
+
+const getAllAnimals = createAsyncAction(
     async ({ value }) => {                
-      const result = await animalsApi.getAll();    
+      const result = await backend.getAllAnimals();    
       if (result.status === 200) return successResult(result.data);
       return errorResult([], `Status code: ${result.status}`);
     },
     {      
       shortCircuitHook: ({args}) => {
-        if (!args.doNotBlock) {
+        if (args && !args.doNotBlock) {
           updateFetchingStatus(true);
         }        
         return false;
@@ -28,13 +30,15 @@ const getAll = createAsyncAction(
         
         updateFetchingStatus(false);      
         if (!result.error) {
-          AnimalStore.update((s) => {
+          Store.update((s) => {
             s.data = result.payload;            
-          });
+          });          
         }
-        //filterPreviewData(AnimalStore.currentState.searchFilter);        
+
+        applyFilters()
+        
       },
     }
   );
 
-  export {getAll}
+  export {getAllAnimals}

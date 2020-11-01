@@ -4,6 +4,9 @@ import { Row, Col, Divider, Table } from "antd";
 
 import {AnimalModal} from '@domain/Animal/containers/AnimalModal/AnimalModal';
 
+import {Store, getAllAnimals} from '@Store'
+
+import './AnimalCardsTable.scoped.scss'
   
   const columns = [
     {
@@ -79,6 +82,7 @@ import {AnimalModal} from '@domain/Animal/containers/AnimalModal/AnimalModal';
   ];
 
 const mapToTableData = (data) => {
+    if (!data) return [];
     let result = data.map(i=> {
         const {generalInfo} = i;
         return {
@@ -126,7 +130,7 @@ const AnimalCardsTable = ({ initialData, mappedData }) => {
       <Row gutter={16} style={{marginTop: '12px'}}>
         <Col className="gutter-row" span={24}>
           
-            <Table
+            <Table rowClassName="animals-table"
             onRow={(record, rowIndex) => {
                 return {
                   onClick: event => rowClickHandler(record, rowIndex),
@@ -145,10 +149,11 @@ const AnimalCardsTable = ({ initialData, mappedData }) => {
   );
 };
 
-const AnimalCardsTableWrapper = (props) => {  
-  let {data} = props;
-
-  const mappedData = mapToTableData(data);
+const AnimalCardsTableWrapper = ({ dataUnderFilter, data}) => {  
+    
+console.log('wtf', dataUnderFilter)
+    
+  const mappedData = mapToTableData(dataUnderFilter);
 
   return <AnimalCardsTable initialData={data} mappedData={mappedData} />;
 };

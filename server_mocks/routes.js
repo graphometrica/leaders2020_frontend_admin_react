@@ -30,6 +30,19 @@ module.exports = async (app) => {
     }
   });
 
+  app.get("/whoami", function (req, res) {
+    console.log(req.cookie)
+    res.status(200).json({
+      "id": "e76d360e-b06a-454a-b0f9-bd5186c7da35",
+      "login": "shelter1",
+      "fullName": null,
+      "secret": "{SHA-256}a665a45920422f9d417e4867efdc4fb8a04a1f3fff1fa07e998e86f7f7a27ae3",
+      "level": "SHELTER",
+      "levelAccess": "8d6485f2-355c-4755-a950-8d8b02c8619e"
+  });          
+    
+  });
+
   app.get("/api/:entity/:id", function (req, res) {
     console.log("HEADERS", req.headers);    
     console.log('path', `${req.params.entity}/${req.params.id}`);

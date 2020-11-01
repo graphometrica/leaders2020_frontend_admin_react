@@ -31,6 +31,10 @@
 
             "@const": ["src/app/common/constants/index.js"],
 
+            "@Store": ["src/app/domain/Animal/store/Store/index.js"],
+            "@backend": ["src/app/domain/Animal/services/backend.js"],
+            "@Animal": ["src/app/domain/Animal/*"],
+
             "@uikit": ["src/app/uikit/index.js"],
             "@tokens": ["src/app/uikit/tokens/index.js"],
             

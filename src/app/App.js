@@ -1,9 +1,10 @@
 import React from "react";
 import { routesContent } from "@routes/configureRouter";
 
-import { Row, Col, Divider } from 'antd';
+import { Row, Col, Divider,Spin, Space } from 'antd';
 
 import {NavigationHeader} from '@containers/NavigationHeader';
+import {Store, whoami} from '@Store';
 
 
 import {stylesheet} from "typestyle";
@@ -25,6 +26,27 @@ const NoRoute = () => {
 const App = (props) => {
   const { route, router } = props;
 
+  const { isFetching, userInfo } = Store.useState((s) => ({
+    userInfo: s.userInfo,    
+    isFetching: s.isFetching    
+  }));
+
+  React.useEffect( () => {
+    if (!isFetching) {
+      whoami.run()
+    }
+  }, [isFetching])
+  
+  // const [downloadFinished, downloadResult] = whoami.useBeckon();
+  
+  // if (!downloadFinished || isFetching) {    
+  //   return <div><Spin size="large" /></div>;
+  // }
+
+  // if (downloadResult.error) {
+  //   return <div>Ошибка: {downloadResult.message}</div>;
+  // }
+
   if (!route) return <NoRoute />;
 
   const routePageComponent = routesContent[route.name];
@@ -33,7 +55,7 @@ const App = (props) => {
 
   return (
     <div>
-      <NavigationHeader />
+      <NavigationHeader route={route} router={router}  />
 
       <Row>
           <Col flex="25px">&nbsp;</Col>
