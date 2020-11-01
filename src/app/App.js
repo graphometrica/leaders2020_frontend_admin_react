@@ -4,7 +4,7 @@ import { routesContent } from "@routes/configureRouter";
 import { Row, Col, Divider,Spin, Space } from 'antd';
 
 import {NavigationHeader} from '@containers/NavigationHeader';
-import {Store, whoami} from '@Store';
+import {Store, whoami, downloadDicts} from '@Store';
 
 
 import {stylesheet} from "typestyle";
@@ -26,16 +26,24 @@ const NoRoute = () => {
 const App = (props) => {
   const { route, router } = props;
 
+  
+
   const { isFetching, userInfo } = Store.useState((s) => ({
     userInfo: s.userInfo,    
     isFetching: s.isFetching    
   }));
 
-  React.useEffect( () => {
-    if (!isFetching) {
-      whoami.run()
-    }
-  }, [isFetching])
+  // const [checking, setChecking] = React.useState(false)
+
+  // React.useEffect( () => {
+  //   if (!userInfo) {
+  //     setChecking(true);
+  //   }
+  // }, [userInfo])
+
+
+
+ 
   
   // const [downloadFinished, downloadResult] = whoami.useBeckon();
   

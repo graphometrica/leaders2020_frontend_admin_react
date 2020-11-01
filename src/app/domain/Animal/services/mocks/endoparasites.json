@@ -1,0 +1,3886 @@
+{
+    "_embedded": {
+        "endoparasites": [
+            {
+                "animalId": "4cfab324-adb5-4e8a-9b1c-a360d9df9bd7",
+                "position": "1.0",
+                "date": "2020-07-29T00:00:00.000+00:00",
+                "medicationName": "азинокс",
+                "serialNumber": null,
+                "dose": 2.5,
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/endoparasites/25d10154-703d-40d3-862c-b40a378c5965"
+                    },
+                    "endoparasitesEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/endoparasites/25d10154-703d-40d3-862c-b40a378c5965"
+                    }
+                }
+            },
+            {
+                "animalId": "2dfbb239-c688-481e-be0a-f461925e7d0e",
+                "position": "1.0",
+                "date": "2020-07-20T00:00:00.000+00:00",
+                "medicationName": "азинокс",
+                "serialNumber": null,
+                "dose": 2.0,
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/endoparasites/3c24459c-6381-4819-8e1d-077cd310e50f"
+                    },
+                    "endoparasitesEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/endoparasites/3c24459c-6381-4819-8e1d-077cd310e50f"
+                    }
+                }
+            },
+            {
+                "animalId": "1a51f0a9-024a-4251-9d51-d0df3785fd37",
+                "position": "1.0",
+                "date": "2020-03-19T00:00:00.000+00:00",
+                "medicationName": "азинокс",
+                "serialNumber": null,
+                "dose": 2.0,
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/endoparasites/8ba46fad-e00c-4da5-81ee-a391c0200694"
+                    },
+                    "endoparasitesEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/endoparasites/8ba46fad-e00c-4da5-81ee-a391c0200694"
+                    }
+                }
+            },
+            {
+                "animalId": "b64f3583-4a77-4e97-b783-e7cbfe465a9f",
+                "position": "1.0",
+                "date": "2020-08-10T00:00:00.000+00:00",
+                "medicationName": "азинокс",
+                "serialNumber": null,
+                "dose": 3.0,
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/endoparasites/f90f01e8-84f5-435b-9b98-e766c4073090"
+                    },
+                    "endoparasitesEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/endoparasites/f90f01e8-84f5-435b-9b98-e766c4073090"
+                    }
+                }
+            },
+            {
+                "animalId": "fc9523e5-4d02-4e39-b9da-d16991961503",
+                "position": "1.0",
+                "date": "2020-07-29T00:00:00.000+00:00",
+                "medicationName": "азинокс",
+                "serialNumber": null,
+                "dose": 5.0,
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/endoparasites/cc98a2fc-1333-4dcb-9f72-6054235622b7"
+                    },
+                    "endoparasitesEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/endoparasites/cc98a2fc-1333-4dcb-9f72-6054235622b7"
+                    }
+                }
+            },
+            {
+                "animalId": "3113fa0d-6680-4dd2-ba84-74bb53b28d63",
+                "position": "1.0",
+                "date": "2020-03-19T00:00:00.000+00:00",
+                "medicationName": "азинокс",
+                "serialNumber": null,
+                "dose": 2.0,
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/endoparasites/82f5f263-46bf-4401-8644-a5e2d389e72b"
+                    },
+                    "endoparasitesEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/endoparasites/82f5f263-46bf-4401-8644-a5e2d389e72b"
+                    }
+                }
+            },
+            {
+                "animalId": "1c533be5-3d38-4d16-ae32-307d04decf80",
+                "position": "1.0",
+                "date": "2020-03-24T00:00:00.000+00:00",
+                "medicationName": "азинокс",
+                "serialNumber": null,
+                "dose": 2.0,
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/endoparasites/f461069a-b7d3-4c82-a428-cc3cc5165316"
+                    },
+                    "endoparasitesEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/endoparasites/f461069a-b7d3-4c82-a428-cc3cc5165316"
+                    }
+                }
+            },
+            {
+                "animalId": "033894c6-fa6e-4b47-aa17-25c71e6deebe",
+                "position": "1.0",
+                "date": "2020-03-29T00:00:00.000+00:00",
+                "medicationName": "паразицид-суспензия",
+                "serialNumber": null,
+                "dose": 1.0,
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/endoparasites/a79e7326-446d-4866-8731-bb0a26938ca9"
+                    },
+                    "endoparasitesEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/endoparasites/a79e7326-446d-4866-8731-bb0a26938ca9"
+                    }
+                }
+            },
+            {
+                "animalId": "3b95e4e5-0f31-4cb3-96de-e3f14a5f5071",
+                "position": "1.0",
+                "date": "2020-03-29T00:00:00.000+00:00",
+                "medicationName": "паразицид-суспензия",
+                "serialNumber": null,
+                "dose": 1.0,
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/endoparasites/477032d3-25e4-4dbf-8125-3aedf3245237"
+                    },
+                    "endoparasitesEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/endoparasites/477032d3-25e4-4dbf-8125-3aedf3245237"
+                    }
+                }
+            },
+            {
+                "animalId": "6a06d88d-7b14-498c-8252-9fcce0d7eb6d",
+                "position": "1.0",
+                "date": "2020-03-27T00:00:00.000+00:00",
+                "medicationName": "азинокс",
+                "serialNumber": null,
+                "dose": 2.0,
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/endoparasites/15e84414-39ce-4d81-996c-962e0bcd09cc"
+                    },
+                    "endoparasitesEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/endoparasites/15e84414-39ce-4d81-996c-962e0bcd09cc"
+                    }
+                }
+            },
+            {
+                "animalId": "3b961659-4fa0-4401-8ea8-8907200402b6",
+                "position": "1.0",
+                "date": "2020-03-19T00:00:00.000+00:00",
+                "medicationName": "азинокс",
+                "serialNumber": null,
+                "dose": 2.0,
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/endoparasites/6b1c958d-bedd-4188-be83-c14eac9cd20a"
+                    },
+                    "endoparasitesEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/endoparasites/6b1c958d-bedd-4188-be83-c14eac9cd20a"
+                    }
+                }
+            },
+            {
+                "animalId": "2b5e12aa-6c7e-4e36-8442-40b244bda5d7",
+                "position": "1.0",
+                "date": "2020-01-21T00:00:00.000+00:00",
+                "medicationName": "азинокс",
+                "serialNumber": null,
+                "dose": 3.0,
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/endoparasites/354e99df-c9dc-405a-bf4c-2903df11ff37"
+                    },
+                    "endoparasitesEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/endoparasites/354e99df-c9dc-405a-bf4c-2903df11ff37"
+                    }
+                }
+            },
+            {
+                "animalId": "affebffd-9c9b-4058-af4e-01e7f46ef07d",
+                "position": "1.0",
+                "date": "2020-01-21T00:00:00.000+00:00",
+                "medicationName": "азинокс",
+                "serialNumber": null,
+                "dose": 2.0,
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/endoparasites/9bbebb61-cc81-4bf9-bf4d-8d8b11c85ee5"
+                    },
+                    "endoparasitesEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/endoparasites/9bbebb61-cc81-4bf9-bf4d-8d8b11c85ee5"
+                    }
+                }
+            },
+            {
+                "animalId": "4b89b920-2250-4e43-b530-0341885977d9",
+                "position": "1.0",
+                "date": "2020-03-24T00:00:00.000+00:00",
+                "medicationName": "азинокс",
+                "serialNumber": null,
+                "dose": 2.0,
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/endoparasites/7f6057f1-a002-4cf1-b530-4ae75d59f256"
+                    },
+                    "endoparasitesEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/endoparasites/7f6057f1-a002-4cf1-b530-4ae75d59f256"
+                    }
+                }
+            },
+            {
+                "animalId": "9f353985-0a84-40a9-a6f9-da061cf7119f",
+                "position": "1.0",
+                "date": "2020-03-03T00:00:00.000+00:00",
+                "medicationName": "азинокс",
+                "serialNumber": null,
+                "dose": 2.0,
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/endoparasites/084f1943-eada-4068-8d2c-3c5f8387bc7f"
+                    },
+                    "endoparasitesEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/endoparasites/084f1943-eada-4068-8d2c-3c5f8387bc7f"
+                    }
+                }
+            },
+            {
+                "animalId": "eb366c2d-2d58-4c7d-8304-2bd03b6b73c8",
+                "position": "1.0",
+                "date": "2020-01-11T00:00:00.000+00:00",
+                "medicationName": "азинокс",
+                "serialNumber": null,
+                "dose": 2.0,
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/endoparasites/f3e9a492-d7b7-4de4-960c-1ce6841ab7be"
+                    },
+                    "endoparasitesEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/endoparasites/f3e9a492-d7b7-4de4-960c-1ce6841ab7be"
+                    }
+                }
+            },
+            {
+                "animalId": "1f82496d-1a16-439a-a337-b97a8f4658b6",
+                "position": "1.0",
+                "date": "2020-06-09T00:00:00.000+00:00",
+                "medicationName": "паразицид-суспензия",
+                "serialNumber": null,
+                "dose": 3.0,
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/endoparasites/17194452-05cc-4f52-b0a7-a4bb6653edf9"
+                    },
+                    "endoparasitesEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/endoparasites/17194452-05cc-4f52-b0a7-a4bb6653edf9"
+                    }
+                }
+            },
+            {
+                "animalId": "854391ff-1986-4208-ba43-ce793adfed0a",
+                "position": "1.0",
+                "date": "2020-07-15T00:00:00.000+00:00",
+                "medicationName": "паразицид-суспензия",
+                "serialNumber": null,
+                "dose": 1.0,
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/endoparasites/0b5be06e-dacc-4ec8-8ae8-b6bde10b5ad9"
+                    },
+                    "endoparasitesEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/endoparasites/0b5be06e-dacc-4ec8-8ae8-b6bde10b5ad9"
+                    }
+                }
+            },
+            {
+                "animalId": "a1623947-0ae3-4284-ac6a-ac0be441e29d",
+                "position": "1.0",
+                "date": "2020-03-03T00:00:00.000+00:00",
+                "medicationName": "азинокс",
+                "serialNumber": null,
+                "dose": 2.0,
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/endoparasites/624ff149-d2e5-45a4-9cd6-0fd69f7371c7"
+                    },
+                    "endoparasitesEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/endoparasites/624ff149-d2e5-45a4-9cd6-0fd69f7371c7"
+                    }
+                }
+            },
+            {
+                "animalId": "c6536287-063e-4e01-a667-7e8e4454af8f",
+                "position": "1.0",
+                "date": "2020-02-29T00:00:00.000+00:00",
+                "medicationName": "азинокс",
+                "serialNumber": null,
+                "dose": 3.0,
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/endoparasites/ad80ca03-998f-4b01-ae26-e814fc249036"
+                    },
+                    "endoparasitesEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/endoparasites/ad80ca03-998f-4b01-ae26-e814fc249036"
+                    }
+                }
+            },
+            {
+                "animalId": "4ca176b8-e359-4e6b-9b7b-ab92013c9bd4",
+                "position": "1.0",
+                "date": "2020-06-29T00:00:00.000+00:00",
+                "medicationName": "азинокс",
+                "serialNumber": null,
+                "dose": 0.5,
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/endoparasites/0a0b10c4-bae6-4d71-87ff-16dee1d66c85"
+                    },
+                    "endoparasitesEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/endoparasites/0a0b10c4-bae6-4d71-87ff-16dee1d66c85"
+                    }
+                }
+            },
+            {
+                "animalId": "9d7b5ec4-cf4e-4214-8a0e-468dc18c1c7d",
+                "position": "1.0",
+                "date": "2020-06-29T00:00:00.000+00:00",
+                "medicationName": "азинокс",
+                "serialNumber": null,
+                "dose": 0.5,
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/endoparasites/e6ab272a-7afd-4283-8bf8-81b2fa7c8a3b"
+                    },
+                    "endoparasitesEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/endoparasites/e6ab272a-7afd-4283-8bf8-81b2fa7c8a3b"
+                    }
+                }
+            },
+            {
+                "animalId": "4f7c75ac-abb9-4c58-8251-cb171e9ea6ad",
+                "position": "1.0",
+                "date": "2020-09-19T00:00:00.000+00:00",
+                "medicationName": "стронгхолд",
+                "serialNumber": null,
+                "dose": null,
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/endoparasites/a591e450-ba28-4db7-bfd8-c6cf9b139686"
+                    },
+                    "endoparasitesEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/endoparasites/a591e450-ba28-4db7-bfd8-c6cf9b139686"
+                    }
+                }
+            },
+            {
+                "animalId": "6ecefd40-b069-4b87-afcf-5d995fbbd4dd",
+                "position": "1.0",
+                "date": "2020-09-19T00:00:00.000+00:00",
+                "medicationName": "стронгхолд",
+                "serialNumber": null,
+                "dose": null,
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/endoparasites/fa3a43bf-f85b-46f6-a7f1-cc936ba9711c"
+                    },
+                    "endoparasitesEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/endoparasites/fa3a43bf-f85b-46f6-a7f1-cc936ba9711c"
+                    }
+                }
+            },
+            {
+                "animalId": "27880341-676f-42ff-a000-6b874f9f98ae",
+                "position": "1.0",
+                "date": "2020-09-19T00:00:00.000+00:00",
+                "medicationName": "стронгхолд",
+                "serialNumber": null,
+                "dose": null,
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/endoparasites/db175ec7-8e17-4c57-a9c6-7ebc9bfb1f3a"
+                    },
+                    "endoparasitesEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/endoparasites/db175ec7-8e17-4c57-a9c6-7ebc9bfb1f3a"
+                    }
+                }
+            },
+            {
+                "animalId": "368208fd-2d72-4043-ab38-5f66147f48d4",
+                "position": "1.0",
+                "date": "2020-09-19T00:00:00.000+00:00",
+                "medicationName": "стронгхолд",
+                "serialNumber": null,
+                "dose": null,
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/endoparasites/3630d158-cc27-44d6-89ee-37ce03dcaa91"
+                    },
+                    "endoparasitesEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/endoparasites/3630d158-cc27-44d6-89ee-37ce03dcaa91"
+                    }
+                }
+            },
+            {
+                "animalId": "fd42b030-2c83-4cf0-8e3e-088d8124ca6b",
+                "position": "1.0",
+                "date": "2020-09-19T00:00:00.000+00:00",
+                "medicationName": "стронгхолд",
+                "serialNumber": null,
+                "dose": null,
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/endoparasites/e5c26fcb-65fe-4f63-b8c4-edfe175e08a9"
+                    },
+                    "endoparasitesEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/endoparasites/e5c26fcb-65fe-4f63-b8c4-edfe175e08a9"
+                    }
+                }
+            },
+            {
+                "animalId": "c039696c-d8c3-4697-8195-4e60de7334e0",
+                "position": "1.0",
+                "date": "2020-08-01T00:00:00.000+00:00",
+                "medicationName": "стронгхолд",
+                "serialNumber": null,
+                "dose": null,
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/endoparasites/59cf9041-4c36-4dc1-bb93-d9bb2af32d23"
+                    },
+                    "endoparasitesEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/endoparasites/59cf9041-4c36-4dc1-bb93-d9bb2af32d23"
+                    }
+                }
+            },
+            {
+                "animalId": "e6f5b79e-b999-4fdb-a204-65c912b72fc2",
+                "position": "1.0",
+                "date": "2020-08-01T00:00:00.000+00:00",
+                "medicationName": "стронгхолд",
+                "serialNumber": null,
+                "dose": null,
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/endoparasites/b08decbe-32fa-407a-a331-b9bfdd80e5b7"
+                    },
+                    "endoparasitesEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/endoparasites/b08decbe-32fa-407a-a331-b9bfdd80e5b7"
+                    }
+                }
+            },
+            {
+                "animalId": "07e541d1-febd-457a-90af-4afa72b7c804",
+                "position": "1.0",
+                "date": "2020-08-01T00:00:00.000+00:00",
+                "medicationName": "стронгхолд",
+                "serialNumber": null,
+                "dose": null,
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/endoparasites/4ad679ec-b55d-4480-a167-d86ccd991af4"
+                    },
+                    "endoparasitesEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/endoparasites/4ad679ec-b55d-4480-a167-d86ccd991af4"
+                    }
+                }
+            },
+            {
+                "animalId": "23946a3d-f5dc-47ba-af1c-335854e6ec25",
+                "position": "1.0",
+                "date": "2020-05-23T00:00:00.000+00:00",
+                "medicationName": "стронгхолд",
+                "serialNumber": null,
+                "dose": null,
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/endoparasites/de8140f6-6f4a-427a-baf8-9521d8cb5147"
+                    },
+                    "endoparasitesEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/endoparasites/de8140f6-6f4a-427a-baf8-9521d8cb5147"
+                    }
+                }
+            },
+            {
+                "animalId": "bafd1cc5-41de-4b1f-84cd-e63aa6966e1f",
+                "position": "1.0",
+                "date": "2020-05-23T00:00:00.000+00:00",
+                "medicationName": "стронгхолд",
+                "serialNumber": null,
+                "dose": null,
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/endoparasites/f9de0067-4bc3-499d-a12a-9210603a8058"
+                    },
+                    "endoparasitesEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/endoparasites/f9de0067-4bc3-499d-a12a-9210603a8058"
+                    }
+                }
+            },
+            {
+                "animalId": "f071a806-3137-4dbc-b09d-8ff32c6a52c6",
+                "position": "1.0",
+                "date": "2020-09-29T00:00:00.000+00:00",
+                "medicationName": "блох нэт/ альвет",
+                "serialNumber": null,
+                "dose": null,
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/endoparasites/da661548-2c48-4c13-bcf8-0790f7180fd5"
+                    },
+                    "endoparasitesEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/endoparasites/da661548-2c48-4c13-bcf8-0790f7180fd5"
+                    }
+                }
+            },
+            {
+                "animalId": "065280c7-1541-4f6b-bfb5-f30f3b867bf1",
+                "position": "1.0",
+                "date": "2020-09-29T00:00:00.000+00:00",
+                "medicationName": "блох нэт/ альвет",
+                "serialNumber": null,
+                "dose": null,
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/endoparasites/303f6ecb-d317-41f7-9724-6b9a88cb6514"
+                    },
+                    "endoparasitesEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/endoparasites/303f6ecb-d317-41f7-9724-6b9a88cb6514"
+                    }
+                }
+            },
+            {
+                "animalId": "682eb4b0-1af6-43aa-ba0a-0859b86e9050",
+                "position": "1.0",
+                "date": "2020-09-29T00:00:00.000+00:00",
+                "medicationName": "блох нэт/ альвет",
+                "serialNumber": null,
+                "dose": null,
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/endoparasites/f9be0124-9d0e-41c6-9819-e6f54a526d70"
+                    },
+                    "endoparasitesEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/endoparasites/f9be0124-9d0e-41c6-9819-e6f54a526d70"
+                    }
+                }
+            },
+            {
+                "animalId": "f4456cab-465f-4701-9344-36fc2e072903",
+                "position": "1.0",
+                "date": "2020-09-29T00:00:00.000+00:00",
+                "medicationName": "блох нэт/ альвет",
+                "serialNumber": null,
+                "dose": null,
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/endoparasites/a5379722-c77f-4880-a453-9d9b0e805f90"
+                    },
+                    "endoparasitesEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/endoparasites/a5379722-c77f-4880-a453-9d9b0e805f90"
+                    }
+                }
+            },
+            {
+                "animalId": "74a4db4a-2f98-4d63-a7a2-e737bd79ba67",
+                "position": "1.0",
+                "date": "2020-09-29T00:00:00.000+00:00",
+                "medicationName": "блох нэт/ альвет",
+                "serialNumber": null,
+                "dose": null,
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/endoparasites/25c18cb1-e4d3-4c3c-a2ab-cfafb5876436"
+                    },
+                    "endoparasitesEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/endoparasites/25c18cb1-e4d3-4c3c-a2ab-cfafb5876436"
+                    }
+                }
+            },
+            {
+                "animalId": "55b24278-3bf9-4762-ad11-2467d56a8168",
+                "position": "1.0",
+                "date": "2020-08-01T00:00:00.000+00:00",
+                "medicationName": "блох нэт/ альвет",
+                "serialNumber": null,
+                "dose": null,
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/endoparasites/a1fd6c3d-94ae-4d42-b475-790ac58f0707"
+                    },
+                    "endoparasitesEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/endoparasites/a1fd6c3d-94ae-4d42-b475-790ac58f0707"
+                    }
+                }
+            },
+            {
+                "animalId": "4b500ce9-65dd-4591-aa2d-6421ff19b702",
+                "position": "1.0",
+                "date": "2020-08-01T00:00:00.000+00:00",
+                "medicationName": "блох нэт/ альвет",
+                "serialNumber": null,
+                "dose": null,
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/endoparasites/b75c4d51-5b0d-4343-afc2-7f8667566276"
+                    },
+                    "endoparasitesEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/endoparasites/b75c4d51-5b0d-4343-afc2-7f8667566276"
+                    }
+                }
+            },
+            {
+                "animalId": "72df4b4d-6f34-4a6c-82c9-b1c85a728adb",
+                "position": "1.0",
+                "date": "2020-08-01T00:00:00.000+00:00",
+                "medicationName": "блох нэт/ альвет",
+                "serialNumber": null,
+                "dose": null,
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/endoparasites/c0d02f84-463e-4c28-9d65-8df20313b2de"
+                    },
+                    "endoparasitesEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/endoparasites/c0d02f84-463e-4c28-9d65-8df20313b2de"
+                    }
+                }
+            },
+            {
+                "animalId": "3ea50ec3-aab2-4212-8024-644050eb9e97",
+                "position": "1.0",
+                "date": "2020-08-01T00:00:00.000+00:00",
+                "medicationName": "блох нэт/ альвет",
+                "serialNumber": null,
+                "dose": null,
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/endoparasites/c2f5e8e7-cbd7-46fb-8089-81da3f9b8fe5"
+                    },
+                    "endoparasitesEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/endoparasites/c2f5e8e7-cbd7-46fb-8089-81da3f9b8fe5"
+                    }
+                }
+            },
+            {
+                "animalId": "8a95c06c-8fb8-4b2e-965a-63336eb54ce2",
+                "position": "1.0",
+                "date": "2020-08-01T00:00:00.000+00:00",
+                "medicationName": "блох нэт/ альвет",
+                "serialNumber": null,
+                "dose": null,
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/endoparasites/ed61fdcb-4312-4f66-ba00-71afc53b2875"
+                    },
+                    "endoparasitesEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/endoparasites/ed61fdcb-4312-4f66-ba00-71afc53b2875"
+                    }
+                }
+            },
+            {
+                "animalId": "99721ddf-1ccc-48a6-97cb-7b587161ac46",
+                "position": "1                                2",
+                "date": null,
+                "medicationName": "тронцил\nинсектал",
+                "serialNumber": null,
+                "dose": null,
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/endoparasites/c36df0d0-4b71-442a-86fc-ece4fa0aa1f3"
+                    },
+                    "endoparasitesEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/endoparasites/c36df0d0-4b71-442a-86fc-ece4fa0aa1f3"
+                    }
+                }
+            },
+            {
+                "animalId": "0e6a7667-ec79-4acb-8062-d0e5ad4e550d",
+                "position": "1                                2",
+                "date": null,
+                "medicationName": "тронцил\nинсектал",
+                "serialNumber": null,
+                "dose": null,
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/endoparasites/e3beb3de-02ec-4619-a620-232bbf1cb4ac"
+                    },
+                    "endoparasitesEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/endoparasites/e3beb3de-02ec-4619-a620-232bbf1cb4ac"
+                    }
+                }
+            },
+            {
+                "animalId": "3fa77c24-6193-4bee-b109-0517d06745ec",
+                "position": "1                                2",
+                "date": null,
+                "medicationName": "тронцил\nинсектал",
+                "serialNumber": null,
+                "dose": null,
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/endoparasites/9988355c-913e-437c-97cb-d8c12efc1fa6"
+                    },
+                    "endoparasitesEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/endoparasites/9988355c-913e-437c-97cb-d8c12efc1fa6"
+                    }
+                }
+            },
+            {
+                "animalId": "d70ba237-823f-4ab8-91ff-88c23158cc38",
+                "position": "1                                2",
+                "date": null,
+                "medicationName": "тронцил\nинсектал",
+                "serialNumber": null,
+                "dose": null,
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/endoparasites/a84c77be-7252-44a0-b864-83e2ceded2d5"
+                    },
+                    "endoparasitesEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/endoparasites/a84c77be-7252-44a0-b864-83e2ceded2d5"
+                    }
+                }
+            },
+            {
+                "animalId": "399ce828-b6dd-48ad-87ec-e4126f86dbba",
+                "position": "1                                2",
+                "date": null,
+                "medicationName": "тронцил\nинсектал",
+                "serialNumber": null,
+                "dose": null,
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/endoparasites/83128101-abea-4ea0-9a83-3ce40383515c"
+                    },
+                    "endoparasitesEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/endoparasites/83128101-abea-4ea0-9a83-3ce40383515c"
+                    }
+                }
+            },
+            {
+                "animalId": "4cb98a6f-9b86-4f96-a603-c385b1fce001",
+                "position": "1                                2",
+                "date": null,
+                "medicationName": "тронцил\nинсектал",
+                "serialNumber": null,
+                "dose": null,
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/endoparasites/aa7490f6-bff8-40c0-8d15-98d38a60ef76"
+                    },
+                    "endoparasitesEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/endoparasites/aa7490f6-bff8-40c0-8d15-98d38a60ef76"
+                    }
+                }
+            },
+            {
+                "animalId": "86c29edf-e4b7-4720-bc14-22c7c896a9e5",
+                "position": "1                                2",
+                "date": null,
+                "medicationName": "тронцил\nинсектал",
+                "serialNumber": null,
+                "dose": null,
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/endoparasites/b31a763f-5dac-4f7c-afef-410c8b849924"
+                    },
+                    "endoparasitesEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/endoparasites/b31a763f-5dac-4f7c-afef-410c8b849924"
+                    }
+                }
+            },
+            {
+                "animalId": "92fd6e80-b78f-4635-b8bb-117ec9f4c11e",
+                "position": "1                                2",
+                "date": null,
+                "medicationName": "тронцил\nинсектал",
+                "serialNumber": null,
+                "dose": null,
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/endoparasites/13c68b64-cc17-498d-928d-5d51af4b3768"
+                    },
+                    "endoparasitesEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/endoparasites/13c68b64-cc17-498d-928d-5d51af4b3768"
+                    }
+                }
+            },
+            {
+                "animalId": "2964c4fc-eec1-4279-83ee-591223eff1e5",
+                "position": "1                                2",
+                "date": null,
+                "medicationName": "тронцил\nинсектал",
+                "serialNumber": null,
+                "dose": null,
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/endoparasites/881ffb7b-d7c4-4399-b11b-9dc99fd45f9f"
+                    },
+                    "endoparasitesEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/endoparasites/881ffb7b-d7c4-4399-b11b-9dc99fd45f9f"
+                    }
+                }
+            },
+            {
+                "animalId": "90645165-bbad-4e0e-9aeb-8cf4e74a360c",
+                "position": "1                                2",
+                "date": null,
+                "medicationName": "тронцил\nинсектал",
+                "serialNumber": null,
+                "dose": null,
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/endoparasites/294b8ade-cbad-4e1c-8578-8dc5f56a5b26"
+                    },
+                    "endoparasitesEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/endoparasites/294b8ade-cbad-4e1c-8578-8dc5f56a5b26"
+                    }
+                }
+            },
+            {
+                "animalId": "5e524c21-b8e8-44c3-8830-c34e4ade4a32",
+                "position": "1                                2",
+                "date": null,
+                "medicationName": "тронцил\nинсектал",
+                "serialNumber": null,
+                "dose": null,
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/endoparasites/ea45ab41-513b-4ec6-8f11-0aad602202b2"
+                    },
+                    "endoparasitesEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/endoparasites/ea45ab41-513b-4ec6-8f11-0aad602202b2"
+                    }
+                }
+            },
+            {
+                "animalId": "5692243e-a274-4a20-9c6f-4626f29fa94e",
+                "position": "1                                2",
+                "date": null,
+                "medicationName": "тронцил\nинсектал",
+                "serialNumber": null,
+                "dose": null,
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/endoparasites/e7c1e209-aa1b-4337-8c15-3a7f4135db32"
+                    },
+                    "endoparasitesEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/endoparasites/e7c1e209-aa1b-4337-8c15-3a7f4135db32"
+                    }
+                }
+            },
+            {
+                "animalId": "2d02ff26-8751-4bb0-8098-fbb7a17c2046",
+                "position": "1                                2",
+                "date": null,
+                "medicationName": "тронцил\nинсектал",
+                "serialNumber": null,
+                "dose": null,
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/endoparasites/e0165b5a-c405-4f92-9fe0-824a5c0f85aa"
+                    },
+                    "endoparasitesEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/endoparasites/e0165b5a-c405-4f92-9fe0-824a5c0f85aa"
+                    }
+                }
+            },
+            {
+                "animalId": "64171095-8941-48ca-ae24-ca815d092a1a",
+                "position": "1                                2",
+                "date": null,
+                "medicationName": "тронцил\nинсектал",
+                "serialNumber": null,
+                "dose": null,
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/endoparasites/58d37fe0-afbe-4b12-9835-5106a1c1ab54"
+                    },
+                    "endoparasitesEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/endoparasites/58d37fe0-afbe-4b12-9835-5106a1c1ab54"
+                    }
+                }
+            },
+            {
+                "animalId": "0f73e63e-a47a-446e-ab7b-28715faf4d2e",
+                "position": "1                                2",
+                "date": null,
+                "medicationName": "тронцил\nинсектал",
+                "serialNumber": null,
+                "dose": null,
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/endoparasites/67b92a90-3f5c-406b-8758-49e35de0c89c"
+                    },
+                    "endoparasitesEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/endoparasites/67b92a90-3f5c-406b-8758-49e35de0c89c"
+                    }
+                }
+            },
+            {
+                "animalId": "6d6e43ae-b5d7-48c9-b7a4-4a8204b57c72",
+                "position": "1                                2",
+                "date": null,
+                "medicationName": "тронцил\nинсектал",
+                "serialNumber": null,
+                "dose": null,
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/endoparasites/9bedf6be-e967-40b1-ba27-26ec9a8e009d"
+                    },
+                    "endoparasitesEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/endoparasites/9bedf6be-e967-40b1-ba27-26ec9a8e009d"
+                    }
+                }
+            },
+            {
+                "animalId": "dbe32ee5-97e1-4f47-8f91-524f855be7a2",
+                "position": "1                                2",
+                "date": null,
+                "medicationName": "тронцил\nинсектал",
+                "serialNumber": null,
+                "dose": null,
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/endoparasites/c31497c4-f61b-4ad6-a91f-8da2dc2227c3"
+                    },
+                    "endoparasitesEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/endoparasites/c31497c4-f61b-4ad6-a91f-8da2dc2227c3"
+                    }
+                }
+            },
+            {
+                "animalId": "ed107a98-e566-4a80-9f56-b2e0e073907c",
+                "position": "1                                2",
+                "date": null,
+                "medicationName": "тронцил\nинсектал",
+                "serialNumber": null,
+                "dose": null,
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/endoparasites/855022e4-8a1d-47a7-809a-3caa0a769964"
+                    },
+                    "endoparasitesEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/endoparasites/855022e4-8a1d-47a7-809a-3caa0a769964"
+                    }
+                }
+            },
+            {
+                "animalId": "717b5411-c1ef-41d5-a6ad-4b4c9f33848d",
+                "position": "1                                2",
+                "date": null,
+                "medicationName": "тронцил\nинсектал",
+                "serialNumber": null,
+                "dose": null,
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/endoparasites/d1e9ff63-b393-4aab-8848-2fd52739ff6b"
+                    },
+                    "endoparasitesEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/endoparasites/d1e9ff63-b393-4aab-8848-2fd52739ff6b"
+                    }
+                }
+            },
+            {
+                "animalId": "1eb5c288-722c-4c10-867d-d2bd216551c9",
+                "position": "1                                2",
+                "date": null,
+                "medicationName": "тронцил\nинсектал",
+                "serialNumber": null,
+                "dose": null,
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/endoparasites/3d404a92-9da2-4911-b606-605b671d46ea"
+                    },
+                    "endoparasitesEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/endoparasites/3d404a92-9da2-4911-b606-605b671d46ea"
+                    }
+                }
+            },
+            {
+                "animalId": "19c2a83c-b5d8-4416-b77e-367d6bfc5812",
+                "position": "1.0",
+                "date": "2020-01-30T00:00:00.000+00:00",
+                "medicationName": "дана спот-он/алевит",
+                "serialNumber": null,
+                "dose": null,
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/endoparasites/2dcc083a-619f-4e08-aea1-d4bbef000f18"
+                    },
+                    "endoparasitesEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/endoparasites/2dcc083a-619f-4e08-aea1-d4bbef000f18"
+                    }
+                }
+            },
+            {
+                "animalId": "30b80705-0e6a-42e4-81fe-a1dd167877c5",
+                "position": "1.0",
+                "date": "2020-01-30T00:00:00.000+00:00",
+                "medicationName": "дана спот-он/алевит",
+                "serialNumber": null,
+                "dose": null,
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/endoparasites/adccbf79-9383-49a2-b62e-eb68434238f6"
+                    },
+                    "endoparasitesEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/endoparasites/adccbf79-9383-49a2-b62e-eb68434238f6"
+                    }
+                }
+            },
+            {
+                "animalId": "d7e65c80-5f91-4720-924b-bd0f460041ad",
+                "position": "1.0",
+                "date": "2020-01-30T00:00:00.000+00:00",
+                "medicationName": "дана спот-он/алевит",
+                "serialNumber": null,
+                "dose": null,
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/endoparasites/381e1a0a-5604-4f85-bd9d-7265c049f004"
+                    },
+                    "endoparasitesEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/endoparasites/381e1a0a-5604-4f85-bd9d-7265c049f004"
+                    }
+                }
+            },
+            {
+                "animalId": "e158fcd1-d941-457f-ade4-c3e680b22616",
+                "position": "1.0",
+                "date": "2020-02-06T00:00:00.000+00:00",
+                "medicationName": "дана спот-он/алевит",
+                "serialNumber": null,
+                "dose": null,
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/endoparasites/e99d8a34-c7e4-4f4d-835e-11a20919d010"
+                    },
+                    "endoparasitesEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/endoparasites/e99d8a34-c7e4-4f4d-835e-11a20919d010"
+                    }
+                }
+            },
+            {
+                "animalId": "6dab1bbf-7327-43cc-8ccf-6f9666659e0a",
+                "position": "1.0",
+                "date": "2020-02-06T00:00:00.000+00:00",
+                "medicationName": "дана спот-он/алевит",
+                "serialNumber": null,
+                "dose": null,
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/endoparasites/5a3ef5b4-efcb-4f02-956b-f8667f22a254"
+                    },
+                    "endoparasitesEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/endoparasites/5a3ef5b4-efcb-4f02-956b-f8667f22a254"
+                    }
+                }
+            },
+            {
+                "animalId": "dce00332-74a6-4993-8884-bb08ffd7ea47",
+                "position": "1.0",
+                "date": "2020-02-06T00:00:00.000+00:00",
+                "medicationName": "дана спот-он/алевит",
+                "serialNumber": null,
+                "dose": null,
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/endoparasites/c10af73d-fc2f-4f90-a1f7-1bf9ed67d84b"
+                    },
+                    "endoparasitesEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/endoparasites/c10af73d-fc2f-4f90-a1f7-1bf9ed67d84b"
+                    }
+                }
+            },
+            {
+                "animalId": "b2f6b60e-cb2d-45cb-9dcd-143fdf92370a",
+                "position": "1.0",
+                "date": "2020-03-18T00:00:00.000+00:00",
+                "medicationName": "дана спот-он/алевит",
+                "serialNumber": null,
+                "dose": null,
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/endoparasites/4e7dd676-df0b-4a49-8977-2772a757d825"
+                    },
+                    "endoparasitesEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/endoparasites/4e7dd676-df0b-4a49-8977-2772a757d825"
+                    }
+                }
+            },
+            {
+                "animalId": "0a281b80-d9b5-4cea-a829-8b644820024a",
+                "position": "1.0",
+                "date": "2020-04-20T00:00:00.000+00:00",
+                "medicationName": "дана спот-он/алевит",
+                "serialNumber": null,
+                "dose": null,
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/endoparasites/dfba9794-969d-47de-bd85-c106574dfbcd"
+                    },
+                    "endoparasitesEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/endoparasites/dfba9794-969d-47de-bd85-c106574dfbcd"
+                    }
+                }
+            },
+            {
+                "animalId": "d69938cf-f22e-4592-bce7-6a767f71eebb",
+                "position": "1.0",
+                "date": "2020-04-20T00:00:00.000+00:00",
+                "medicationName": "дана спот-он/алевит",
+                "serialNumber": null,
+                "dose": null,
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/endoparasites/9c48ed07-a434-4a5f-b3fa-f66076dac1cb"
+                    },
+                    "endoparasitesEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/endoparasites/9c48ed07-a434-4a5f-b3fa-f66076dac1cb"
+                    }
+                }
+            },
+            {
+                "animalId": "a8a5f9eb-db49-4627-9015-62a6c67729c1",
+                "position": "1.0",
+                "date": "2020-05-27T00:00:00.000+00:00",
+                "medicationName": "дана спот-он/алевит",
+                "serialNumber": null,
+                "dose": null,
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/endoparasites/38723c13-4998-4a73-9776-2b6e30a9368f"
+                    },
+                    "endoparasitesEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/endoparasites/38723c13-4998-4a73-9776-2b6e30a9368f"
+                    }
+                }
+            },
+            {
+                "animalId": "c53907f1-54a2-4fdd-b3f0-e456ba251ae5",
+                "position": "1.0",
+                "date": "2020-03-10T00:00:00.000+00:00",
+                "medicationName": "дана спот-он/алевит",
+                "serialNumber": null,
+                "dose": null,
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/endoparasites/b53a0177-6e7a-4a27-972f-9a999f06a531"
+                    },
+                    "endoparasitesEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/endoparasites/b53a0177-6e7a-4a27-972f-9a999f06a531"
+                    }
+                }
+            },
+            {
+                "animalId": "dfff0bb2-89c4-4dd9-8f5d-59f94f09f9df",
+                "position": "1.0",
+                "date": "2020-03-10T00:00:00.000+00:00",
+                "medicationName": "дана спот-он/алевит",
+                "serialNumber": null,
+                "dose": null,
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/endoparasites/599e574e-cad0-49f4-aa97-d4929eabb373"
+                    },
+                    "endoparasitesEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/endoparasites/599e574e-cad0-49f4-aa97-d4929eabb373"
+                    }
+                }
+            },
+            {
+                "animalId": "120a7c23-5d13-4709-b328-6a3b10fa839d",
+                "position": "1.0",
+                "date": "2020-03-10T00:00:00.000+00:00",
+                "medicationName": "дана спот-он/алевит",
+                "serialNumber": null,
+                "dose": null,
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/endoparasites/cd35ad9d-4f92-4bd1-a80f-15243f8abece"
+                    },
+                    "endoparasitesEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/endoparasites/cd35ad9d-4f92-4bd1-a80f-15243f8abece"
+                    }
+                }
+            },
+            {
+                "animalId": "7b9994c1-1335-4fcf-8588-68953cbba383",
+                "position": "1.0",
+                "date": "2020-03-16T00:00:00.000+00:00",
+                "medicationName": "дана спот-он/алевит",
+                "serialNumber": null,
+                "dose": null,
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/endoparasites/81fea657-c3f1-4bf5-a2ec-898e49f3269a"
+                    },
+                    "endoparasitesEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/endoparasites/81fea657-c3f1-4bf5-a2ec-898e49f3269a"
+                    }
+                }
+            },
+            {
+                "animalId": "d4aea1cb-cf3d-4af8-b64a-59db2bd4bd6d",
+                "position": "1.0",
+                "date": "2020-03-16T00:00:00.000+00:00",
+                "medicationName": "дана спот-он/алевит",
+                "serialNumber": null,
+                "dose": null,
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/endoparasites/b2d7dcbe-7a00-452e-9d3d-227da7333003"
+                    },
+                    "endoparasitesEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/endoparasites/b2d7dcbe-7a00-452e-9d3d-227da7333003"
+                    }
+                }
+            },
+            {
+                "animalId": "4fd231c1-4472-48d8-ad55-4565a2e3e7a9",
+                "position": "1.0",
+                "date": "2020-06-17T00:00:00.000+00:00",
+                "medicationName": "дана спот-он/алевит",
+                "serialNumber": null,
+                "dose": null,
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/endoparasites/646d7c75-4258-4005-a63c-2ffb1b649904"
+                    },
+                    "endoparasitesEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/endoparasites/646d7c75-4258-4005-a63c-2ffb1b649904"
+                    }
+                }
+            },
+            {
+                "animalId": "24befeed-72d7-44fa-8c49-9b6dbf0ec14c",
+                "position": "1.0",
+                "date": "2020-06-17T00:00:00.000+00:00",
+                "medicationName": "дана спот-он/алевит",
+                "serialNumber": null,
+                "dose": null,
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/endoparasites/b7af9e52-d719-4e0f-aed0-759ad12218d7"
+                    },
+                    "endoparasitesEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/endoparasites/b7af9e52-d719-4e0f-aed0-759ad12218d7"
+                    }
+                }
+            },
+            {
+                "animalId": "ab35e1a1-fa37-470a-ac1e-a0a213b497b5",
+                "position": "1.0",
+                "date": "2020-06-17T00:00:00.000+00:00",
+                "medicationName": "дана спот-он/алевит",
+                "serialNumber": null,
+                "dose": null,
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/endoparasites/79b359e3-4a59-4943-92e6-bdec1f81fd56"
+                    },
+                    "endoparasitesEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/endoparasites/79b359e3-4a59-4943-92e6-bdec1f81fd56"
+                    }
+                }
+            },
+            {
+                "animalId": "d1e3f82f-cc21-4187-a93b-d50361dbea3f",
+                "position": "1.0",
+                "date": "2020-06-25T00:00:00.000+00:00",
+                "medicationName": "дана спот-он/алевит",
+                "serialNumber": null,
+                "dose": null,
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/endoparasites/1d8035e2-30d8-4257-992a-d7c9fceeb699"
+                    },
+                    "endoparasitesEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/endoparasites/1d8035e2-30d8-4257-992a-d7c9fceeb699"
+                    }
+                }
+            },
+            {
+                "animalId": "48f82b34-f27f-4c9e-b708-13665a3c9167",
+                "position": "1.0",
+                "date": "2020-07-03T00:00:00.000+00:00",
+                "medicationName": "дана спот-он/алевит",
+                "serialNumber": null,
+                "dose": null,
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/endoparasites/a3abb17e-f990-496f-84c6-24e9884fd470"
+                    },
+                    "endoparasitesEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/endoparasites/a3abb17e-f990-496f-84c6-24e9884fd470"
+                    }
+                }
+            },
+            {
+                "animalId": "c512ec6e-6ad9-4de4-8f51-a7228593bb41",
+                "position": "1                              2",
+                "date": null,
+                "medicationName": "рольф клуб       прател",
+                "serialNumber": null,
+                "dose": null,
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/endoparasites/3d70bf1c-c613-414e-8f43-44f8c2ca1523"
+                    },
+                    "endoparasitesEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/endoparasites/3d70bf1c-c613-414e-8f43-44f8c2ca1523"
+                    }
+                }
+            },
+            {
+                "animalId": "16288f0b-0ab4-47bd-a3ab-3e8b1dbb9202",
+                "position": "1                              2",
+                "date": null,
+                "medicationName": "рольф клуб       прател",
+                "serialNumber": null,
+                "dose": null,
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/endoparasites/06899d5d-a27e-4da8-8d74-4e610629b269"
+                    },
+                    "endoparasitesEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/endoparasites/06899d5d-a27e-4da8-8d74-4e610629b269"
+                    }
+                }
+            },
+            {
+                "animalId": "26a5ea6a-e595-4b4f-bfaa-b888d94ca0e8",
+                "position": "1                              2",
+                "date": null,
+                "medicationName": "рольф клуб       прател",
+                "serialNumber": null,
+                "dose": null,
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/endoparasites/4fc81052-c4d7-4afb-92d5-e5fbac420291"
+                    },
+                    "endoparasitesEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/endoparasites/4fc81052-c4d7-4afb-92d5-e5fbac420291"
+                    }
+                }
+            },
+            {
+                "animalId": "5619e292-e10b-41ec-a818-18e00faf469b",
+                "position": "1                              2",
+                "date": null,
+                "medicationName": "рольф клуб       прател",
+                "serialNumber": null,
+                "dose": null,
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/endoparasites/f134a974-375b-4931-b6b3-68a40c91acc6"
+                    },
+                    "endoparasitesEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/endoparasites/f134a974-375b-4931-b6b3-68a40c91acc6"
+                    }
+                }
+            },
+            {
+                "animalId": "1087fc2b-a7e6-42f8-b8e4-b52bcc9a20d0",
+                "position": "1                        2                                3",
+                "date": null,
+                "medicationName": "прател                               барс                         рольф клуб",
+                "serialNumber": null,
+                "dose": null,
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/endoparasites/4c5fa525-4a7e-4ca2-86e6-3cf9f203fe01"
+                    },
+                    "endoparasitesEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/endoparasites/4c5fa525-4a7e-4ca2-86e6-3cf9f203fe01"
+                    }
+                }
+            },
+            {
+                "animalId": "9b59fe7c-f8c1-46f2-940f-5a5dd8dde64f",
+                "position": "1                        2                                3",
+                "date": null,
+                "medicationName": "прател                          барс                         рольф клуб",
+                "serialNumber": null,
+                "dose": null,
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/endoparasites/49793c90-13ab-4a16-a7f2-9ba71994b04a"
+                    },
+                    "endoparasitesEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/endoparasites/49793c90-13ab-4a16-a7f2-9ba71994b04a"
+                    }
+                }
+            },
+            {
+                "animalId": "0665efcc-660a-4a34-b08c-a1f9d9dd51d0",
+                "position": "1                        2                                3",
+                "date": null,
+                "medicationName": "прател                         барс                         рольф клуб",
+                "serialNumber": null,
+                "dose": null,
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/endoparasites/284e6fe3-de96-4fa3-9c1f-2c363fc46496"
+                    },
+                    "endoparasitesEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/endoparasites/284e6fe3-de96-4fa3-9c1f-2c363fc46496"
+                    }
+                }
+            },
+            {
+                "animalId": "c4e3b739-e505-43f0-9c75-bd3309ffedd3",
+                "position": "1                              2",
+                "date": null,
+                "medicationName": "рольф клуб       прател",
+                "serialNumber": null,
+                "dose": null,
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/endoparasites/b4dd2ccc-4bd9-4796-a6ae-7425c912abae"
+                    },
+                    "endoparasitesEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/endoparasites/b4dd2ccc-4bd9-4796-a6ae-7425c912abae"
+                    }
+                }
+            },
+            {
+                "animalId": "9084495e-bdec-4a7d-b8a9-8defdb74d81a",
+                "position": "1                              2",
+                "date": null,
+                "medicationName": "рольф клуб       прател",
+                "serialNumber": null,
+                "dose": null,
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/endoparasites/ae6314ac-8874-4e10-a1f4-023053a4e337"
+                    },
+                    "endoparasitesEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/endoparasites/ae6314ac-8874-4e10-a1f4-023053a4e337"
+                    }
+                }
+            },
+            {
+                "animalId": "fc6afc8b-a3ba-45e8-bd87-8d0897f86fe4",
+                "position": "1                        2                                3",
+                "date": null,
+                "medicationName": "прател                          барс                     рольф клуб",
+                "serialNumber": null,
+                "dose": null,
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/endoparasites/d798a96c-276d-41d9-8c95-56ba04341d97"
+                    },
+                    "endoparasitesEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/endoparasites/d798a96c-276d-41d9-8c95-56ba04341d97"
+                    }
+                }
+            },
+            {
+                "animalId": "cf2e2752-aab1-41d1-946a-a283270dc5b5",
+                "position": "1                        2                                3                             4",
+                "date": null,
+                "medicationName": "прател                           барс                                 рольф клуб         барс",
+                "serialNumber": null,
+                "dose": null,
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/endoparasites/3e6b72cb-01ba-4ee0-bab6-5978b5ae57e6"
+                    },
+                    "endoparasitesEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/endoparasites/3e6b72cb-01ba-4ee0-bab6-5978b5ae57e6"
+                    }
+                }
+            },
+            {
+                "animalId": "3ad173e0-c9ab-46c3-8e59-1221a4e9c3a9",
+                "position": "1                        2                                3                             4",
+                "date": null,
+                "medicationName": "прател                           барс                            рольф клуб         барс",
+                "serialNumber": null,
+                "dose": null,
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/endoparasites/1bab0cc1-f426-4554-ba89-83747152074a"
+                    },
+                    "endoparasitesEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/endoparasites/1bab0cc1-f426-4554-ba89-83747152074a"
+                    }
+                }
+            },
+            {
+                "animalId": "90bc7bdb-9187-42ca-b814-c86037872473",
+                "position": "1                        2                                3                             4",
+                "date": null,
+                "medicationName": "прател                            барс                           рольф клуб         барс",
+                "serialNumber": null,
+                "dose": null,
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/endoparasites/4618d707-8ea7-4dcc-84d4-dd72dfd98fed"
+                    },
+                    "endoparasitesEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/endoparasites/4618d707-8ea7-4dcc-84d4-dd72dfd98fed"
+                    }
+                }
+            },
+            {
+                "animalId": "16ba8c2f-8ec2-4ae4-9892-872537231b3a",
+                "position": "1                        2                                3                             4",
+                "date": null,
+                "medicationName": "прател                     барс                     рольф клуб         барс",
+                "serialNumber": null,
+                "dose": null,
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/endoparasites/2fbd81d1-7fde-430d-80dc-865b13e174a2"
+                    },
+                    "endoparasitesEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/endoparasites/2fbd81d1-7fde-430d-80dc-865b13e174a2"
+                    }
+                }
+            },
+            {
+                "animalId": "973de68f-62ad-4eec-a611-abe89ec0f4cb",
+                "position": "1                        2                                3",
+                "date": null,
+                "medicationName": "прател                        рольф клуб         барс",
+                "serialNumber": null,
+                "dose": null,
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/endoparasites/280ded20-de80-471b-8207-dd108be908c6"
+                    },
+                    "endoparasitesEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/endoparasites/280ded20-de80-471b-8207-dd108be908c6"
+                    }
+                }
+            },
+            {
+                "animalId": "970c14d9-7b0e-491a-9bbe-8313e24d70fb",
+                "position": "1                              2",
+                "date": null,
+                "medicationName": "прател                           барс",
+                "serialNumber": null,
+                "dose": null,
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/endoparasites/58877845-c9aa-43ed-a19d-c2e2fab668fd"
+                    },
+                    "endoparasitesEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/endoparasites/58877845-c9aa-43ed-a19d-c2e2fab668fd"
+                    }
+                }
+            },
+            {
+                "animalId": "b5e666c5-cf59-4a3f-9026-8c6380eb8e45",
+                "position": "1                              2",
+                "date": null,
+                "medicationName": "прател                          барс",
+                "serialNumber": null,
+                "dose": null,
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/endoparasites/e9ebf7eb-ebff-4d00-b35d-c6f76c14ad53"
+                    },
+                    "endoparasitesEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/endoparasites/e9ebf7eb-ebff-4d00-b35d-c6f76c14ad53"
+                    }
+                }
+            },
+            {
+                "animalId": "b8fedbb9-f77c-4252-b2ca-8be10454428f",
+                "position": "1                              2",
+                "date": null,
+                "medicationName": "прател                           барс",
+                "serialNumber": null,
+                "dose": null,
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/endoparasites/d9063211-dfc8-4f11-b682-4c9b1800fbe6"
+                    },
+                    "endoparasitesEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/endoparasites/d9063211-dfc8-4f11-b682-4c9b1800fbe6"
+                    }
+                }
+            },
+            {
+                "animalId": "5dd30f94-754b-40f4-8daf-9e19ec5c0a0b",
+                "position": "1                              2",
+                "date": null,
+                "medicationName": "прател                           барс",
+                "serialNumber": null,
+                "dose": null,
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/endoparasites/fe66b4db-4ed3-484a-9f21-1d9c36172565"
+                    },
+                    "endoparasitesEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/endoparasites/fe66b4db-4ed3-484a-9f21-1d9c36172565"
+                    }
+                }
+            },
+            {
+                "animalId": "458e42f1-6ca3-4b86-84fc-8a7c05e5544e",
+                "position": "1                              2",
+                "date": null,
+                "medicationName": "прател                                   барс",
+                "serialNumber": null,
+                "dose": null,
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/endoparasites/ba4e887a-760b-4950-b211-68434481603b"
+                    },
+                    "endoparasitesEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/endoparasites/ba4e887a-760b-4950-b211-68434481603b"
+                    }
+                }
+            },
+            {
+                "animalId": "76e9d3b0-3e85-457d-b5bc-c7f38b46026b",
+                "position": "1                              2",
+                "date": null,
+                "medicationName": "прател                             рольф клуб",
+                "serialNumber": null,
+                "dose": null,
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/endoparasites/b71b2aaf-4e63-4e36-8bb7-cc11ded18832"
+                    },
+                    "endoparasitesEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/endoparasites/b71b2aaf-4e63-4e36-8bb7-cc11ded18832"
+                    }
+                }
+            },
+            {
+                "animalId": "ec4d4b3a-4226-4c00-b64a-1e6c38006cca",
+                "position": "1                              2",
+                "date": null,
+                "medicationName": "прател                             рольф клуб",
+                "serialNumber": null,
+                "dose": null,
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/endoparasites/da297277-5840-48cd-949e-19f5eec8f882"
+                    },
+                    "endoparasitesEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/endoparasites/da297277-5840-48cd-949e-19f5eec8f882"
+                    }
+                }
+            },
+            {
+                "animalId": "118a21a5-1160-41f5-9b2c-e84914499601",
+                "position": "1                              2",
+                "date": null,
+                "medicationName": "прател                             рольф клуб",
+                "serialNumber": null,
+                "dose": null,
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/endoparasites/2951f3b6-8861-4b94-b64f-d0d479b4a6c0"
+                    },
+                    "endoparasitesEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/endoparasites/2951f3b6-8861-4b94-b64f-d0d479b4a6c0"
+                    }
+                }
+            },
+            {
+                "animalId": "12840edc-b67f-476e-be52-e91b3a775474",
+                "position": "1                              2",
+                "date": null,
+                "medicationName": "прател                             рольф клуб",
+                "serialNumber": null,
+                "dose": null,
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/endoparasites/12c2e770-e887-41ab-8b7c-253349dc62a3"
+                    },
+                    "endoparasitesEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/endoparasites/12c2e770-e887-41ab-8b7c-253349dc62a3"
+                    }
+                }
+            },
+            {
+                "animalId": "ebb8e67e-88c6-46c4-998b-816d8c9385aa",
+                "position": "1                              2",
+                "date": null,
+                "medicationName": "прател                             рольф клуб",
+                "serialNumber": null,
+                "dose": null,
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/endoparasites/205104c3-253e-4b38-929f-85c823737506"
+                    },
+                    "endoparasitesEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/endoparasites/205104c3-253e-4b38-929f-85c823737506"
+                    }
+                }
+            },
+            {
+                "animalId": "91b92f38-c2ac-4a5d-bec6-9e335e012014",
+                "position": "1                              2",
+                "date": null,
+                "medicationName": "прател                             рольф клуб",
+                "serialNumber": null,
+                "dose": null,
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/endoparasites/958afc2a-a4de-4811-87f3-2d24783ef976"
+                    },
+                    "endoparasitesEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/endoparasites/958afc2a-a4de-4811-87f3-2d24783ef976"
+                    }
+                }
+            },
+            {
+                "animalId": "3ef71330-235e-4b57-a9d0-802680fe9dfe",
+                "position": "1                              2",
+                "date": null,
+                "medicationName": "прател                             рольф клуб",
+                "serialNumber": null,
+                "dose": null,
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/endoparasites/54bdb048-a812-4829-aa83-7902547a0b95"
+                    },
+                    "endoparasitesEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/endoparasites/54bdb048-a812-4829-aa83-7902547a0b95"
+                    }
+                }
+            },
+            {
+                "animalId": "65f4250e-db9b-4a99-88eb-4368d57d1bb9",
+                "position": "1                              2",
+                "date": null,
+                "medicationName": "прател                             рольф клуб",
+                "serialNumber": null,
+                "dose": null,
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/endoparasites/e1580147-df29-47df-bb65-8e41e4905f2b"
+                    },
+                    "endoparasitesEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/endoparasites/e1580147-df29-47df-bb65-8e41e4905f2b"
+                    }
+                }
+            },
+            {
+                "animalId": "83294b25-51a4-4685-9e6c-10cd23d87d86",
+                "position": "1                              2",
+                "date": null,
+                "medicationName": "прател                             рольф клуб",
+                "serialNumber": null,
+                "dose": null,
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/endoparasites/8888358e-9ac4-4018-8ad2-4bb237d98516"
+                    },
+                    "endoparasitesEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/endoparasites/8888358e-9ac4-4018-8ad2-4bb237d98516"
+                    }
+                }
+            },
+            {
+                "animalId": "49437d97-7cb9-446d-9eb5-a8c11fe5a2c2",
+                "position": "1                              2",
+                "date": null,
+                "medicationName": "прател                             рольф клуб",
+                "serialNumber": null,
+                "dose": null,
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/endoparasites/4c02fc56-3d31-4465-bbd7-1855a33508a6"
+                    },
+                    "endoparasitesEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/endoparasites/4c02fc56-3d31-4465-bbd7-1855a33508a6"
+                    }
+                }
+            },
+            {
+                "animalId": "cccd1e78-7550-4eaf-be75-a03c7c6e534e",
+                "position": "1                              2",
+                "date": null,
+                "medicationName": "прател                             рольф клуб",
+                "serialNumber": null,
+                "dose": null,
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/endoparasites/30da819f-c2da-4f52-8790-5d20b0392e50"
+                    },
+                    "endoparasitesEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/endoparasites/30da819f-c2da-4f52-8790-5d20b0392e50"
+                    }
+                }
+            },
+            {
+                "animalId": "68e08acb-1121-49a5-bf92-eb550746decf",
+                "position": "1                              2",
+                "date": null,
+                "medicationName": "прател                             рольф клуб",
+                "serialNumber": null,
+                "dose": null,
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/endoparasites/88a06005-410c-408b-9efc-f3fce3af6f5c"
+                    },
+                    "endoparasitesEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/endoparasites/88a06005-410c-408b-9efc-f3fce3af6f5c"
+                    }
+                }
+            },
+            {
+                "animalId": "f7582cac-5d9f-4078-8918-744056f9d16a",
+                "position": "1                              2",
+                "date": null,
+                "medicationName": "прател                             рольф клуб",
+                "serialNumber": null,
+                "dose": null,
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/endoparasites/360b63a0-3fbf-47d0-9b28-1a1141a53756"
+                    },
+                    "endoparasitesEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/endoparasites/360b63a0-3fbf-47d0-9b28-1a1141a53756"
+                    }
+                }
+            },
+            {
+                "animalId": "6dde019f-4807-4d8a-a38b-9d45a56eefa8",
+                "position": "1                              2",
+                "date": null,
+                "medicationName": "прател                             рольф клуб",
+                "serialNumber": null,
+                "dose": null,
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/endoparasites/abf84812-ced6-4f8d-8c01-710dd2166f8a"
+                    },
+                    "endoparasitesEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/endoparasites/abf84812-ced6-4f8d-8c01-710dd2166f8a"
+                    }
+                }
+            },
+            {
+                "animalId": "52fff0d5-ef9f-49a6-b61e-2a072be0439b",
+                "position": "1                              2",
+                "date": null,
+                "medicationName": "прател                             рольф клуб",
+                "serialNumber": null,
+                "dose": null,
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/endoparasites/27feb317-2548-4d22-9546-c8702342013a"
+                    },
+                    "endoparasitesEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/endoparasites/27feb317-2548-4d22-9546-c8702342013a"
+                    }
+                }
+            },
+            {
+                "animalId": "33fdbc08-d13d-48da-9664-c5cf041d2fa2",
+                "position": "1                              2",
+                "date": null,
+                "medicationName": "прател                             рольф клуб",
+                "serialNumber": null,
+                "dose": null,
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/endoparasites/16bce2fa-0c8d-4ffe-a6c8-9af969fc80f8"
+                    },
+                    "endoparasitesEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/endoparasites/16bce2fa-0c8d-4ffe-a6c8-9af969fc80f8"
+                    }
+                }
+            },
+            {
+                "animalId": "20a1ffe0-ddaa-4c6c-be79-c4c898ddbca1",
+                "position": "1                              2",
+                "date": null,
+                "medicationName": "прател                             рольф клуб",
+                "serialNumber": null,
+                "dose": null,
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/endoparasites/40c36697-92bb-4753-990c-b9e9f6fa3ff9"
+                    },
+                    "endoparasitesEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/endoparasites/40c36697-92bb-4753-990c-b9e9f6fa3ff9"
+                    }
+                }
+            },
+            {
+                "animalId": "a10d6ff9-f9d3-432f-93cb-1a3b7281f47d",
+                "position": "1                              2",
+                "date": null,
+                "medicationName": "прател                             рольф клуб",
+                "serialNumber": null,
+                "dose": null,
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/endoparasites/58426d0b-67dd-4fed-8ec8-d148f710f89d"
+                    },
+                    "endoparasitesEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/endoparasites/58426d0b-67dd-4fed-8ec8-d148f710f89d"
+                    }
+                }
+            },
+            {
+                "animalId": "d28fcee3-37bd-462f-97f0-a081dfae32a3",
+                "position": "1                              2",
+                "date": null,
+                "medicationName": "прател                             рольф клуб",
+                "serialNumber": null,
+                "dose": null,
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/endoparasites/0c49ebde-cbf0-4c6d-9d5d-15eef4c0c2d1"
+                    },
+                    "endoparasitesEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/endoparasites/0c49ebde-cbf0-4c6d-9d5d-15eef4c0c2d1"
+                    }
+                }
+            },
+            {
+                "animalId": "43193d02-d882-47af-aa8a-68efb509c007",
+                "position": "1                              2",
+                "date": null,
+                "medicationName": "прател                             рольф клуб",
+                "serialNumber": null,
+                "dose": null,
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/endoparasites/abf39b78-056d-4c4e-abb0-278bbde50477"
+                    },
+                    "endoparasitesEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/endoparasites/abf39b78-056d-4c4e-abb0-278bbde50477"
+                    }
+                }
+            },
+            {
+                "animalId": "e4926ff2-f5f2-4817-8d15-a18b9a06c1d9",
+                "position": "1                                      2",
+                "date": null,
+                "medicationName": "рольф клуб 3d               прател",
+                "serialNumber": null,
+                "dose": null,
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/endoparasites/58cf44c5-6557-4aa1-b3e5-0b31ef3fdd07"
+                    },
+                    "endoparasitesEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/endoparasites/58cf44c5-6557-4aa1-b3e5-0b31ef3fdd07"
+                    }
+                }
+            },
+            {
+                "animalId": "fafabaf9-eadb-48fa-82ad-7c4f24a119a3",
+                "position": "1                                 2",
+                "date": null,
+                "medicationName": "рольф клуб 3d               прател",
+                "serialNumber": null,
+                "dose": null,
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/endoparasites/25d0adc4-522f-47a8-81e8-a1743e81b823"
+                    },
+                    "endoparasitesEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/endoparasites/25d0adc4-522f-47a8-81e8-a1743e81b823"
+                    }
+                }
+            },
+            {
+                "animalId": "4a651f83-24da-4734-a3d4-88456645722e",
+                "position": "1                                 2                                 3                                          4",
+                "date": null,
+                "medicationName": "рольф клуб 3d                            прател               рольф клуб 3d прател",
+                "serialNumber": null,
+                "dose": null,
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/endoparasites/1362d237-ee1b-4303-bf06-309314e13fcd"
+                    },
+                    "endoparasitesEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/endoparasites/1362d237-ee1b-4303-bf06-309314e13fcd"
+                    }
+                }
+            },
+            {
+                "animalId": "ea446d04-a6ca-4d86-a3cd-d0afe4ef1175",
+                "position": "1                                 2",
+                "date": null,
+                "medicationName": "рольф клуб 3d               прател",
+                "serialNumber": null,
+                "dose": null,
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/endoparasites/c3030937-960d-4368-94ff-dd3d7f96c36f"
+                    },
+                    "endoparasitesEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/endoparasites/c3030937-960d-4368-94ff-dd3d7f96c36f"
+                    }
+                }
+            },
+            {
+                "animalId": "b508ac15-6959-4ecc-98a9-0cab2ce82eff",
+                "position": "1                                 2",
+                "date": null,
+                "medicationName": "рольф клуб 3d               прател",
+                "serialNumber": null,
+                "dose": null,
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/endoparasites/0753f52e-030c-4a55-a708-d8b61819c558"
+                    },
+                    "endoparasitesEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/endoparasites/0753f52e-030c-4a55-a708-d8b61819c558"
+                    }
+                }
+            },
+            {
+                "animalId": "6b6694f4-f0c9-4bb3-ae55-a7cbe87b18b1",
+                "position": "1                                 2                                 3                                          4",
+                "date": null,
+                "medicationName": "рольф клуб 3d                            прател               рольф клуб 3d прател",
+                "serialNumber": null,
+                "dose": null,
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/endoparasites/3b3a64b0-d733-4549-856f-1fd945c71237"
+                    },
+                    "endoparasitesEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/endoparasites/3b3a64b0-d733-4549-856f-1fd945c71237"
+                    }
+                }
+            },
+            {
+                "animalId": "0c1a116f-dc9e-4a04-a639-1de3933fb40a",
+                "position": "1                                 2                                 3                                          4",
+                "date": null,
+                "medicationName": "рольф клуб 3d                            прател               рольф клуб 3d прател",
+                "serialNumber": null,
+                "dose": null,
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/endoparasites/c3b884fa-0611-432a-887e-98a944a60405"
+                    },
+                    "endoparasitesEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/endoparasites/c3b884fa-0611-432a-887e-98a944a60405"
+                    }
+                }
+            },
+            {
+                "animalId": "02cf1811-efcb-499a-8a63-686fdf0869e0",
+                "position": "1                                 2                                 3                                          4",
+                "date": null,
+                "medicationName": "рольф клуб 3d                            прател               рольф клуб 3d прател",
+                "serialNumber": null,
+                "dose": null,
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/endoparasites/0c96ea2b-1b07-4558-844a-f6ec2b683edb"
+                    },
+                    "endoparasitesEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/endoparasites/0c96ea2b-1b07-4558-844a-f6ec2b683edb"
+                    }
+                }
+            },
+            {
+                "animalId": "eeb9ad76-da95-41f8-8cc2-99a8d930c05a",
+                "position": "1                                 2                                 3                                          4",
+                "date": null,
+                "medicationName": "рольф клуб 3d                            прател               рольф клуб 3d прател",
+                "serialNumber": null,
+                "dose": null,
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/endoparasites/aa54d517-27c1-4eb9-9524-2077f4619836"
+                    },
+                    "endoparasitesEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/endoparasites/aa54d517-27c1-4eb9-9524-2077f4619836"
+                    }
+                }
+            },
+            {
+                "animalId": "bb35a16e-b342-4b79-ad24-1c30c3ac3cee",
+                "position": "1                                 2",
+                "date": null,
+                "medicationName": "рольф клуб 3d               прател",
+                "serialNumber": null,
+                "dose": null,
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/endoparasites/3dc07d41-b40e-4a91-b830-a7c3b8ddfbeb"
+                    },
+                    "endoparasitesEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/endoparasites/3dc07d41-b40e-4a91-b830-a7c3b8ddfbeb"
+                    }
+                }
+            },
+            {
+                "animalId": "96d5b111-c192-48c0-aab0-7966047f3e96",
+                "position": "1.0",
+                "date": "2020-07-22T00:00:00.000+00:00",
+                "medicationName": "инспектор тотал к",
+                "serialNumber": null,
+                "dose": null,
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/endoparasites/a569e462-8273-479c-b1cb-f69cac889afe"
+                    },
+                    "endoparasitesEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/endoparasites/a569e462-8273-479c-b1cb-f69cac889afe"
+                    }
+                }
+            },
+            {
+                "animalId": "a8a73144-cb10-49fb-93f3-df3ac2979859",
+                "position": "1                                 2                                 3",
+                "date": null,
+                "medicationName": "инспектор тотал к празител              празител",
+                "serialNumber": null,
+                "dose": null,
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/endoparasites/93789c6d-2e16-4fa0-8e37-d9bf5354b84e"
+                    },
+                    "endoparasitesEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/endoparasites/93789c6d-2e16-4fa0-8e37-d9bf5354b84e"
+                    }
+                }
+            },
+            {
+                "animalId": "74784cfc-4d39-4e80-a9a7-841ae5544851",
+                "position": "1.0",
+                "date": "2020-05-27T00:00:00.000+00:00",
+                "medicationName": "инспектор тотал к",
+                "serialNumber": null,
+                "dose": null,
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/endoparasites/e544d242-8e6f-4565-833d-04e957f4e47c"
+                    },
+                    "endoparasitesEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/endoparasites/e544d242-8e6f-4565-833d-04e957f4e47c"
+                    }
+                }
+            },
+            {
+                "animalId": "9847880d-b080-4018-aec1-1ee51deed060",
+                "position": "1                                 2                                 3",
+                "date": null,
+                "medicationName": "инспектор тотал к празител              празител",
+                "serialNumber": null,
+                "dose": null,
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/endoparasites/072e5f47-9bb9-4609-99bc-04ad28d07e65"
+                    },
+                    "endoparasitesEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/endoparasites/072e5f47-9bb9-4609-99bc-04ad28d07e65"
+                    }
+                }
+            },
+            {
+                "animalId": "49f403f0-f22f-4e94-865b-4bf9ab884da9",
+                "position": "1                                 2                                 3",
+                "date": null,
+                "medicationName": "инспектор тотал к празител              празител",
+                "serialNumber": null,
+                "dose": null,
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/endoparasites/bbc02c11-fbe7-43b3-866e-44cd7c7109fb"
+                    },
+                    "endoparasitesEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/endoparasites/bbc02c11-fbe7-43b3-866e-44cd7c7109fb"
+                    }
+                }
+            },
+            {
+                "animalId": "c6257d8a-6c23-4ff9-8b76-f62c8d444cd8",
+                "position": "1.0",
+                "date": "2020-05-27T00:00:00.000+00:00",
+                "medicationName": "инспектор тотал к",
+                "serialNumber": null,
+                "dose": null,
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/endoparasites/431dae12-7cb4-491f-a3de-1de56cd7620e"
+                    },
+                    "endoparasitesEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/endoparasites/431dae12-7cb4-491f-a3de-1de56cd7620e"
+                    }
+                }
+            },
+            {
+                "animalId": "b4a42ced-3649-4c4f-91d0-c5869cf5ce91",
+                "position": "1.0",
+                "date": "2020-05-27T00:00:00.000+00:00",
+                "medicationName": "инспектор тотал к",
+                "serialNumber": null,
+                "dose": null,
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/endoparasites/f08b9db3-cbef-4fae-af17-72463691fb63"
+                    },
+                    "endoparasitesEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/endoparasites/f08b9db3-cbef-4fae-af17-72463691fb63"
+                    }
+                }
+            },
+            {
+                "animalId": "c16e3c3c-0abc-4c0d-a299-376fc5bf3059",
+                "position": "1.0",
+                "date": "2020-03-05T00:00:00.000+00:00",
+                "medicationName": "инспектор тотал к",
+                "serialNumber": null,
+                "dose": null,
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/endoparasites/6e9ab8b1-0937-48ae-983c-f68a1866b509"
+                    },
+                    "endoparasitesEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/endoparasites/6e9ab8b1-0937-48ae-983c-f68a1866b509"
+                    }
+                }
+            },
+            {
+                "animalId": "233d5aeb-7f1d-4d20-8c31-81487a9e1440",
+                "position": "1.0",
+                "date": "2020-05-06T00:00:00.000+00:00",
+                "medicationName": "инспектор тотал к",
+                "serialNumber": null,
+                "dose": null,
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/endoparasites/810da388-d22d-4278-8f8b-9c22e11928a4"
+                    },
+                    "endoparasitesEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/endoparasites/810da388-d22d-4278-8f8b-9c22e11928a4"
+                    }
+                }
+            },
+            {
+                "animalId": "e2f46f3d-3f87-4e70-a3af-deca41aec0eb",
+                "position": "1.0",
+                "date": "2020-05-11T00:00:00.000+00:00",
+                "medicationName": "инспектор тотал к",
+                "serialNumber": null,
+                "dose": null,
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/endoparasites/17cfb1c6-9b46-4aaf-933d-91d4023f5ba8"
+                    },
+                    "endoparasitesEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/endoparasites/17cfb1c6-9b46-4aaf-933d-91d4023f5ba8"
+                    }
+                }
+            },
+            {
+                "animalId": "39780a08-db1f-480e-a632-1ca6bb637ed1",
+                "position": "1.0",
+                "date": "2020-03-17T00:00:00.000+00:00",
+                "medicationName": "барс",
+                "serialNumber": null,
+                "dose": null,
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/endoparasites/e8e26f74-a66c-4c66-8bbc-5e1e572e1798"
+                    },
+                    "endoparasitesEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/endoparasites/e8e26f74-a66c-4c66-8bbc-5e1e572e1798"
+                    }
+                }
+            },
+            {
+                "animalId": "19db4df2-ac3f-4c8b-bcc6-bc95eba6a81b",
+                "position": "1.0",
+                "date": "2020-03-09T00:00:00.000+00:00",
+                "medicationName": "барс",
+                "serialNumber": null,
+                "dose": null,
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/endoparasites/0e94482f-c2bb-452e-8324-1142be315e46"
+                    },
+                    "endoparasitesEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/endoparasites/0e94482f-c2bb-452e-8324-1142be315e46"
+                    }
+                }
+            },
+            {
+                "animalId": "34d418bd-d915-4955-8fb1-e7e8f8698567",
+                "position": "1.0",
+                "date": "2020-03-13T00:00:00.000+00:00",
+                "medicationName": "барс",
+                "serialNumber": null,
+                "dose": null,
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/endoparasites/793d8739-549f-4cd5-be98-0e1ef2286bb0"
+                    },
+                    "endoparasitesEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/endoparasites/793d8739-549f-4cd5-be98-0e1ef2286bb0"
+                    }
+                }
+            },
+            {
+                "animalId": "f8b30a8b-c6c6-4022-a6f4-3033ec329955",
+                "position": "1.0",
+                "date": "2020-03-09T00:00:00.000+00:00",
+                "medicationName": "барс",
+                "serialNumber": null,
+                "dose": null,
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/endoparasites/ac449a55-ca7c-4906-8f5b-f2b7039b7e7b"
+                    },
+                    "endoparasitesEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/endoparasites/ac449a55-ca7c-4906-8f5b-f2b7039b7e7b"
+                    }
+                }
+            },
+            {
+                "animalId": "33be41e2-ac5d-4578-9cde-2e3201db1d43",
+                "position": "1.0",
+                "date": "2020-03-09T00:00:00.000+00:00",
+                "medicationName": "барс",
+                "serialNumber": null,
+                "dose": null,
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/endoparasites/34a85854-be7c-4fed-93a9-ea5baab07118"
+                    },
+                    "endoparasitesEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/endoparasites/34a85854-be7c-4fed-93a9-ea5baab07118"
+                    }
+                }
+            },
+            {
+                "animalId": "5f9efc03-43ef-4cf0-8911-bfc4ee716d7d",
+                "position": "1.0",
+                "date": "2020-03-17T00:00:00.000+00:00",
+                "medicationName": "барс",
+                "serialNumber": null,
+                "dose": null,
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/endoparasites/cc8cbaf8-fabb-40dc-b7a1-9c05362051b9"
+                    },
+                    "endoparasitesEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/endoparasites/cc8cbaf8-fabb-40dc-b7a1-9c05362051b9"
+                    }
+                }
+            },
+            {
+                "animalId": "e6bad5a8-291b-4e59-abde-ef108a28d8c6",
+                "position": "1.0",
+                "date": "2020-03-10T00:00:00.000+00:00",
+                "medicationName": "барс",
+                "serialNumber": null,
+                "dose": null,
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/endoparasites/b82d4741-cd20-4596-b8d9-59a40cf6404a"
+                    },
+                    "endoparasitesEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/endoparasites/b82d4741-cd20-4596-b8d9-59a40cf6404a"
+                    }
+                }
+            },
+            {
+                "animalId": "0a2759b3-76d5-48fb-aa8f-09991b299bdb",
+                "position": "1.0",
+                "date": "2019-04-02T00:00:00.000+00:00",
+                "medicationName": "барс",
+                "serialNumber": null,
+                "dose": null,
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/endoparasites/5d366c34-109b-481e-9bc9-040163ca35b7"
+                    },
+                    "endoparasitesEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/endoparasites/5d366c34-109b-481e-9bc9-040163ca35b7"
+                    }
+                }
+            },
+            {
+                "animalId": "a2f67a94-02b4-4b91-807f-03eeb36e29fd",
+                "position": "1.0",
+                "date": "2019-04-06T00:00:00.000+00:00",
+                "medicationName": "барс",
+                "serialNumber": null,
+                "dose": null,
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/endoparasites/2dad88e6-1d82-449f-a281-8bc6d16bdb4f"
+                    },
+                    "endoparasitesEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/endoparasites/2dad88e6-1d82-449f-a281-8bc6d16bdb4f"
+                    }
+                }
+            },
+            {
+                "animalId": "7d5d773b-49a9-419c-b871-007d408b1cf2",
+                "position": "1.0",
+                "date": "2019-04-06T00:00:00.000+00:00",
+                "medicationName": "барс",
+                "serialNumber": null,
+                "dose": null,
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/endoparasites/3cc8b15a-b96c-4de2-84b2-39db5216c3fc"
+                    },
+                    "endoparasitesEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/endoparasites/3cc8b15a-b96c-4de2-84b2-39db5216c3fc"
+                    }
+                }
+            },
+            {
+                "animalId": "726fc1d8-e857-43dd-866a-d3b359932471",
+                "position": "1.0",
+                "date": "2019-11-24T00:00:00.000+00:00",
+                "medicationName": "барс",
+                "serialNumber": null,
+                "dose": null,
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/endoparasites/b5d4cc84-6b3d-4e56-a31b-2dd74d4fd8ae"
+                    },
+                    "endoparasitesEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/endoparasites/b5d4cc84-6b3d-4e56-a31b-2dd74d4fd8ae"
+                    }
+                }
+            },
+            {
+                "animalId": "84923215-beff-47ac-ab22-341a07e93b45",
+                "position": "1.0",
+                "date": "2019-11-25T00:00:00.000+00:00",
+                "medicationName": "барс",
+                "serialNumber": null,
+                "dose": null,
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/endoparasites/82363a61-8e6a-4eb7-9534-0e8fe8370f9b"
+                    },
+                    "endoparasitesEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/endoparasites/82363a61-8e6a-4eb7-9534-0e8fe8370f9b"
+                    }
+                }
+            },
+            {
+                "animalId": "88897332-fef1-4b62-9be8-273f74943214",
+                "position": "1.0",
+                "date": "2019-11-25T00:00:00.000+00:00",
+                "medicationName": "барс",
+                "serialNumber": null,
+                "dose": null,
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/endoparasites/7adfa709-fb65-4179-8259-69fafc662ba5"
+                    },
+                    "endoparasitesEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/endoparasites/7adfa709-fb65-4179-8259-69fafc662ba5"
+                    }
+                }
+            },
+            {
+                "animalId": "8f5e95ec-0475-449c-a310-3858efbf49c2",
+                "position": "1.0",
+                "date": "2020-03-15T00:00:00.000+00:00",
+                "medicationName": "барс",
+                "serialNumber": null,
+                "dose": null,
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/endoparasites/21376674-e190-429f-a490-d75b674d29b0"
+                    },
+                    "endoparasitesEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/endoparasites/21376674-e190-429f-a490-d75b674d29b0"
+                    }
+                }
+            },
+            {
+                "animalId": "fd19a581-bfd4-45e9-9ff7-16bd7ec7ab3b",
+                "position": "1.0",
+                "date": "2018-05-15T00:00:00.000+00:00",
+                "medicationName": "барс",
+                "serialNumber": null,
+                "dose": null,
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/endoparasites/96474f98-77f9-4d15-8f01-5060e6b21c26"
+                    },
+                    "endoparasitesEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/endoparasites/96474f98-77f9-4d15-8f01-5060e6b21c26"
+                    }
+                }
+            },
+            {
+                "animalId": "e372a4b2-0327-45cf-9a0d-13461f2d762b",
+                "position": "1.0",
+                "date": "2018-06-13T00:00:00.000+00:00",
+                "medicationName": "барс",
+                "serialNumber": null,
+                "dose": null,
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/endoparasites/8cac7ebc-e274-4850-bb16-90e07bef767d"
+                    },
+                    "endoparasitesEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/endoparasites/8cac7ebc-e274-4850-bb16-90e07bef767d"
+                    }
+                }
+            },
+            {
+                "animalId": "5e2e37ac-6355-4019-b5d5-6bae1debac76",
+                "position": "1.0",
+                "date": "2019-05-26T00:00:00.000+00:00",
+                "medicationName": "барс",
+                "serialNumber": null,
+                "dose": null,
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/endoparasites/a307f412-cb1d-4c07-af1d-f7613551a89f"
+                    },
+                    "endoparasitesEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/endoparasites/a307f412-cb1d-4c07-af1d-f7613551a89f"
+                    }
+                }
+            },
+            {
+                "animalId": "b7f90d84-e112-4f00-862d-207fd694fd68",
+                "position": "1.0",
+                "date": "2018-10-23T00:00:00.000+00:00",
+                "medicationName": "барс",
+                "serialNumber": null,
+                "dose": null,
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/endoparasites/3981d20b-ea19-44c0-ac96-425876fdf029"
+                    },
+                    "endoparasitesEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/endoparasites/3981d20b-ea19-44c0-ac96-425876fdf029"
+                    }
+                }
+            },
+            {
+                "animalId": "42c6c4d1-0464-4bde-98d6-86152b836ced",
+                "position": "1.0",
+                "date": "2019-09-01T00:00:00.000+00:00",
+                "medicationName": "барс",
+                "serialNumber": null,
+                "dose": null,
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/endoparasites/ccdb6c98-5a20-4407-ba4a-8ec698deb96d"
+                    },
+                    "endoparasitesEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/endoparasites/ccdb6c98-5a20-4407-ba4a-8ec698deb96d"
+                    }
+                }
+            },
+            {
+                "animalId": "6a61df43-2e22-45d9-9119-d43dff74c004",
+                "position": "1.0",
+                "date": "2020-03-14T00:00:00.000+00:00",
+                "medicationName": "барс",
+                "serialNumber": null,
+                "dose": null,
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/endoparasites/02d05b41-e6f2-48c4-986d-e37d6232eaae"
+                    },
+                    "endoparasitesEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/endoparasites/02d05b41-e6f2-48c4-986d-e37d6232eaae"
+                    }
+                }
+            },
+            {
+                "animalId": "fc297da2-c7fa-46e6-893a-fc3c28182780",
+                "position": "1",
+                "date": "2020-06-29T00:00:00.000+00:00",
+                "medicationName": "стронгхолд",
+                "serialNumber": null,
+                "dose": null,
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/endoparasites/b8133b74-4995-4633-af57-11d4b8d40644"
+                    },
+                    "endoparasitesEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/endoparasites/b8133b74-4995-4633-af57-11d4b8d40644"
+                    }
+                }
+            },
+            {
+                "animalId": "4815c397-9879-4b76-a543-5deec16077cc",
+                "position": "1",
+                "date": "2020-08-03T00:00:00.000+00:00",
+                "medicationName": "стронгхолд",
+                "serialNumber": null,
+                "dose": null,
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/endoparasites/8f2cabde-c267-4c63-9334-4e922ef11453"
+                    },
+                    "endoparasitesEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/endoparasites/8f2cabde-c267-4c63-9334-4e922ef11453"
+                    }
+                }
+            },
+            {
+                "animalId": "74a3613d-687d-415c-be6e-84e8efd284c7",
+                "position": "1",
+                "date": "2020-08-03T00:00:00.000+00:00",
+                "medicationName": "стронгхолд",
+                "serialNumber": null,
+                "dose": null,
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/endoparasites/29785248-3b89-4dad-9f17-acb14667210d"
+                    },
+                    "endoparasitesEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/endoparasites/29785248-3b89-4dad-9f17-acb14667210d"
+                    }
+                }
+            },
+            {
+                "animalId": "a2488bae-fd41-4a2f-a6db-965ab227912b",
+                "position": "1",
+                "date": "2020-08-03T00:00:00.000+00:00",
+                "medicationName": "стронгхолд",
+                "serialNumber": null,
+                "dose": null,
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/endoparasites/93306f4f-8767-4cfb-8bc6-6920a18d3771"
+                    },
+                    "endoparasitesEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/endoparasites/93306f4f-8767-4cfb-8bc6-6920a18d3771"
+                    }
+                }
+            },
+            {
+                "animalId": "3d5daa85-0866-4a14-9b9b-97d5e63d2252",
+                "position": "1",
+                "date": "2020-06-08T00:00:00.000+00:00",
+                "medicationName": "стронгхолд",
+                "serialNumber": null,
+                "dose": null,
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/endoparasites/c5fc6a8f-1150-4ec0-b898-fda2b86adf2f"
+                    },
+                    "endoparasitesEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/endoparasites/c5fc6a8f-1150-4ec0-b898-fda2b86adf2f"
+                    }
+                }
+            },
+            {
+                "animalId": "d19af010-49cf-4591-ba65-e950107144b7",
+                "position": "1.0",
+                "date": "2020-09-21T00:00:00.000+00:00",
+                "medicationName": "стронгхолд",
+                "serialNumber": null,
+                "dose": null,
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/endoparasites/5ffeb0a2-3364-45aa-9a4b-d60d2451145c"
+                    },
+                    "endoparasitesEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/endoparasites/5ffeb0a2-3364-45aa-9a4b-d60d2451145c"
+                    }
+                }
+            },
+            {
+                "animalId": "6b6a8afb-6973-4c38-8f2e-1ca3a85cc13d",
+                "position": "1.0",
+                "date": "2020-09-21T00:00:00.000+00:00",
+                "medicationName": "стронгхолд",
+                "serialNumber": null,
+                "dose": null,
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/endoparasites/b3a52014-a1fe-43f3-a4fe-c870e470d8a6"
+                    },
+                    "endoparasitesEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/endoparasites/b3a52014-a1fe-43f3-a4fe-c870e470d8a6"
+                    }
+                }
+            },
+            {
+                "animalId": "e0ce65a7-e9e3-4b94-9d7c-05bb8db9dd45",
+                "position": "1.0",
+                "date": "2020-09-21T00:00:00.000+00:00",
+                "medicationName": "стронгхолд",
+                "serialNumber": null,
+                "dose": null,
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/endoparasites/46881de7-9d3d-4e15-9cb8-6b6a5398b5a7"
+                    },
+                    "endoparasitesEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/endoparasites/46881de7-9d3d-4e15-9cb8-6b6a5398b5a7"
+                    }
+                }
+            },
+            {
+                "animalId": "01fb82d5-eab2-4bc3-94af-be7ee2bdd3af",
+                "position": "1.0",
+                "date": "2020-09-21T00:00:00.000+00:00",
+                "medicationName": "стронгхолд",
+                "serialNumber": null,
+                "dose": null,
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/endoparasites/5626fe5f-3e25-4b14-b366-06cfc0dedcd9"
+                    },
+                    "endoparasitesEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/endoparasites/5626fe5f-3e25-4b14-b366-06cfc0dedcd9"
+                    }
+                }
+            },
+            {
+                "animalId": "fbfb9bb9-44da-44ff-9633-01f0b245b12f",
+                "position": "1.0",
+                "date": "2020-09-21T00:00:00.000+00:00",
+                "medicationName": "стронгхолд",
+                "serialNumber": null,
+                "dose": null,
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/endoparasites/1525959a-1f24-47b0-8d0d-bcda4b962460"
+                    },
+                    "endoparasitesEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/endoparasites/1525959a-1f24-47b0-8d0d-bcda4b962460"
+                    }
+                }
+            },
+            {
+                "animalId": "54711c9f-0ed9-4593-b30e-95054670de55",
+                "position": "1.0",
+                "date": "2020-09-01T00:00:00.000+00:00",
+                "medicationName": "стронгхолд",
+                "serialNumber": null,
+                "dose": null,
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/endoparasites/f220d1ca-312c-455e-bd62-13a648af58c1"
+                    },
+                    "endoparasitesEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/endoparasites/f220d1ca-312c-455e-bd62-13a648af58c1"
+                    }
+                }
+            },
+            {
+                "animalId": "244e062e-b0b0-4add-812e-1cc2e7c27e8f",
+                "position": "1.0",
+                "date": "2020-09-01T00:00:00.000+00:00",
+                "medicationName": "стронгхолд",
+                "serialNumber": null,
+                "dose": null,
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/endoparasites/00c7588d-42c9-4e59-aea9-e444683ba744"
+                    },
+                    "endoparasitesEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/endoparasites/00c7588d-42c9-4e59-aea9-e444683ba744"
+                    }
+                }
+            },
+            {
+                "animalId": "fad5157e-c05b-4cef-953e-602521a12ec8",
+                "position": "1.0",
+                "date": "2020-09-01T00:00:00.000+00:00",
+                "medicationName": "стронгхолд",
+                "serialNumber": null,
+                "dose": null,
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/endoparasites/a6214abe-e6d1-4ff7-a775-33b55c057ef2"
+                    },
+                    "endoparasitesEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/endoparasites/a6214abe-e6d1-4ff7-a775-33b55c057ef2"
+                    }
+                }
+            },
+            {
+                "animalId": "d20a8032-dd9f-4ee5-8373-1602bce9c3f5",
+                "position": "1.0",
+                "date": "2020-09-01T00:00:00.000+00:00",
+                "medicationName": "стронгхолд",
+                "serialNumber": null,
+                "dose": null,
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/endoparasites/4a88c2e4-2f23-461c-8c02-196470b8220d"
+                    },
+                    "endoparasitesEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/endoparasites/4a88c2e4-2f23-461c-8c02-196470b8220d"
+                    }
+                }
+            },
+            {
+                "animalId": "f26d5da5-54e8-43d7-90f8-a54a7c1e0311",
+                "position": "1.0",
+                "date": "2020-09-01T00:00:00.000+00:00",
+                "medicationName": "стронгхолд",
+                "serialNumber": null,
+                "dose": null,
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/endoparasites/4b73bbbc-e897-4f78-84e5-a23c4a4ea59e"
+                    },
+                    "endoparasitesEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/endoparasites/4b73bbbc-e897-4f78-84e5-a23c4a4ea59e"
+                    }
+                }
+            },
+            {
+                "animalId": "30e15cbf-0a22-4fe2-84c1-a1921709a059",
+                "position": "1.0",
+                "date": "2020-09-01T00:00:00.000+00:00",
+                "medicationName": "стронгхолд",
+                "serialNumber": null,
+                "dose": null,
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/endoparasites/8807446d-8c2f-429c-ae67-a16c855602bc"
+                    },
+                    "endoparasitesEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/endoparasites/8807446d-8c2f-429c-ae67-a16c855602bc"
+                    }
+                }
+            },
+            {
+                "animalId": "7a917d5d-d3d0-4b3d-8e1e-48d3beb033af",
+                "position": "1.0",
+                "date": "2020-09-01T00:00:00.000+00:00",
+                "medicationName": "стронгхолд",
+                "serialNumber": null,
+                "dose": null,
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/endoparasites/c4c7fca1-bf8a-4b48-8d3f-0ba9cd880ad8"
+                    },
+                    "endoparasitesEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/endoparasites/c4c7fca1-bf8a-4b48-8d3f-0ba9cd880ad8"
+                    }
+                }
+            },
+            {
+                "animalId": "c00796a9-d415-4f1e-ba38-273058e0c4ad",
+                "position": "1.0",
+                "date": "2020-09-01T00:00:00.000+00:00",
+                "medicationName": "стронгхолд",
+                "serialNumber": null,
+                "dose": null,
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/endoparasites/b727fcc3-28b7-4c62-8f8e-fa888bfb8efb"
+                    },
+                    "endoparasitesEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/endoparasites/b727fcc3-28b7-4c62-8f8e-fa888bfb8efb"
+                    }
+                }
+            },
+            {
+                "animalId": "58ff24a2-fb3a-4d44-a0a6-d3ca188461d2",
+                "position": "1.0",
+                "date": "2020-09-01T00:00:00.000+00:00",
+                "medicationName": "стронгхолд",
+                "serialNumber": null,
+                "dose": null,
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/endoparasites/f240394d-8e1b-4faa-9675-0d1c572112c9"
+                    },
+                    "endoparasitesEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/endoparasites/f240394d-8e1b-4faa-9675-0d1c572112c9"
+                    }
+                }
+            },
+            {
+                "animalId": "43ca80a7-2b94-497b-97dd-66d0e4dc1d50",
+                "position": "1.0",
+                "date": "2020-09-01T00:00:00.000+00:00",
+                "medicationName": "стронгхолд",
+                "serialNumber": null,
+                "dose": null,
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/endoparasites/42463057-3bc4-4ad0-a29d-6a679521ad4f"
+                    },
+                    "endoparasitesEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/endoparasites/42463057-3bc4-4ad0-a29d-6a679521ad4f"
+                    }
+                }
+            },
+            {
+                "animalId": "0fa956fc-0a0f-4881-8cea-05122c387714",
+                "position": "1.0",
+                "date": "2020-05-25T00:00:00.000+00:00",
+                "medicationName": "каниквантел барс",
+                "serialNumber": null,
+                "dose": null,
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/endoparasites/7ff5ec66-8192-46d3-a3cf-c4444355852e"
+                    },
+                    "endoparasitesEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/endoparasites/7ff5ec66-8192-46d3-a3cf-c4444355852e"
+                    }
+                }
+            },
+            {
+                "animalId": "219fbe12-7c71-4ff3-8e73-19f5fe0b2311",
+                "position": "1.0",
+                "date": "2020-05-25T00:00:00.000+00:00",
+                "medicationName": "каниквантел барс",
+                "serialNumber": null,
+                "dose": null,
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/endoparasites/b7ae8e3a-0613-472d-9218-b9047b1b71c2"
+                    },
+                    "endoparasitesEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/endoparasites/b7ae8e3a-0613-472d-9218-b9047b1b71c2"
+                    }
+                }
+            },
+            {
+                "animalId": "3115b7dd-6dbc-4861-a777-7f530da739c9",
+                "position": "1.0",
+                "date": "2020-05-25T00:00:00.000+00:00",
+                "medicationName": "каниквантел барс",
+                "serialNumber": null,
+                "dose": null,
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/endoparasites/6e1b5293-701a-468f-9186-174eed1d5423"
+                    },
+                    "endoparasitesEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/endoparasites/6e1b5293-701a-468f-9186-174eed1d5423"
+                    }
+                }
+            },
+            {
+                "animalId": "474d49f9-1927-4ef6-b7a9-5ccb4fa27b9e",
+                "position": "1.0",
+                "date": "2020-05-25T00:00:00.000+00:00",
+                "medicationName": "каниквантел барс",
+                "serialNumber": null,
+                "dose": null,
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/endoparasites/edde5860-2207-4641-b0e8-35da31dd5e86"
+                    },
+                    "endoparasitesEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/endoparasites/edde5860-2207-4641-b0e8-35da31dd5e86"
+                    }
+                }
+            },
+            {
+                "animalId": "72184087-441e-49c5-bc7a-e0fb8e4fbcdf",
+                "position": "1.0",
+                "date": "2020-05-25T00:00:00.000+00:00",
+                "medicationName": "каниквантел барс",
+                "serialNumber": null,
+                "dose": null,
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/endoparasites/56739afc-aa6e-4a13-a175-6240d2e30e7c"
+                    },
+                    "endoparasitesEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/endoparasites/56739afc-aa6e-4a13-a175-6240d2e30e7c"
+                    }
+                }
+            },
+            {
+                "animalId": "ee6406cc-010c-462f-a441-2d4f2679db3e",
+                "position": "1.0",
+                "date": "2020-05-25T00:00:00.000+00:00",
+                "medicationName": "каниквантел барс",
+                "serialNumber": null,
+                "dose": null,
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/endoparasites/19277dd2-2599-49cc-85a5-6b10077dcd95"
+                    },
+                    "endoparasitesEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/endoparasites/19277dd2-2599-49cc-85a5-6b10077dcd95"
+                    }
+                }
+            },
+            {
+                "animalId": "e6d1a76b-f42c-4aab-8721-b3f68c0bcc74",
+                "position": "1.0",
+                "date": "2020-05-25T00:00:00.000+00:00",
+                "medicationName": "каниквантел барс",
+                "serialNumber": null,
+                "dose": null,
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/endoparasites/54532916-7d8c-4e36-865a-860e1b4c3055"
+                    },
+                    "endoparasitesEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/endoparasites/54532916-7d8c-4e36-865a-860e1b4c3055"
+                    }
+                }
+            },
+            {
+                "animalId": "b223b239-74df-4dfa-a120-abc8bb6b36f6",
+                "position": "1.0",
+                "date": "2020-05-25T00:00:00.000+00:00",
+                "medicationName": "каниквантел барс",
+                "serialNumber": null,
+                "dose": null,
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/endoparasites/e555dc5d-7c4c-4c51-961e-cdfc3e9e8321"
+                    },
+                    "endoparasitesEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/endoparasites/e555dc5d-7c4c-4c51-961e-cdfc3e9e8321"
+                    }
+                }
+            },
+            {
+                "animalId": "1d5ca2a9-0dda-4b69-9f65-8a28c16702a9",
+                "position": "1.0",
+                "date": "2020-05-25T00:00:00.000+00:00",
+                "medicationName": "каниквантел барс",
+                "serialNumber": null,
+                "dose": null,
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/endoparasites/05709ad9-965a-4808-9941-a26d2c1fcff7"
+                    },
+                    "endoparasitesEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/endoparasites/05709ad9-965a-4808-9941-a26d2c1fcff7"
+                    }
+                }
+            },
+            {
+                "animalId": "9a078b8f-77fd-416b-af32-41af25503320",
+                "position": "1.0",
+                "date": "2020-04-30T00:00:00.000+00:00",
+                "medicationName": "каниквантел барс",
+                "serialNumber": null,
+                "dose": null,
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/endoparasites/99d41f03-921e-4364-b52d-c211bd45213a"
+                    },
+                    "endoparasitesEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/endoparasites/99d41f03-921e-4364-b52d-c211bd45213a"
+                    }
+                }
+            },
+            {
+                "animalId": "6f269152-754e-42d6-ae63-2125be68fdb4",
+                "position": "1                              2",
+                "date": null,
+                "medicationName": "дронтал                          барс для кошек",
+                "serialNumber": null,
+                "dose": null,
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/endoparasites/a916d8c9-9954-4615-8c9c-6e938afa9526"
+                    },
+                    "endoparasitesEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/endoparasites/a916d8c9-9954-4615-8c9c-6e938afa9526"
+                    }
+                }
+            },
+            {
+                "animalId": "f68b627f-0d20-45ad-a46d-f489382cc6ff",
+                "position": "1                              2",
+                "date": null,
+                "medicationName": "дронтал                          барс для кошек",
+                "serialNumber": null,
+                "dose": null,
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/endoparasites/5e78dd54-ad2b-4011-8a85-fb0b569ad116"
+                    },
+                    "endoparasitesEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/endoparasites/5e78dd54-ad2b-4011-8a85-fb0b569ad116"
+                    }
+                }
+            },
+            {
+                "animalId": "9640e7c3-b758-4516-aa03-b6295b8940e5",
+                "position": "1                              2",
+                "date": null,
+                "medicationName": "дронтал                          барс для кошек",
+                "serialNumber": null,
+                "dose": null,
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/endoparasites/9cb70c5d-7f64-456d-870c-769de8b7245e"
+                    },
+                    "endoparasitesEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/endoparasites/9cb70c5d-7f64-456d-870c-769de8b7245e"
+                    }
+                }
+            },
+            {
+                "animalId": "7e9b7d33-92c1-4005-b0ed-53936e6b2a5b",
+                "position": "1                              2",
+                "date": null,
+                "medicationName": "дронтал                          барс для кошек",
+                "serialNumber": null,
+                "dose": null,
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/endoparasites/2d1655bf-d540-4556-8367-49f1cb7f8928"
+                    },
+                    "endoparasitesEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/endoparasites/2d1655bf-d540-4556-8367-49f1cb7f8928"
+                    }
+                }
+            },
+            {
+                "animalId": "2f5a4911-79e9-47c4-8e79-42b8a60bfcef",
+                "position": "1                              2",
+                "date": null,
+                "medicationName": "дронтал                          барс для кошек",
+                "serialNumber": null,
+                "dose": null,
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/endoparasites/2233771c-2a03-4359-9ea1-3c99ec7ac40a"
+                    },
+                    "endoparasitesEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/endoparasites/2233771c-2a03-4359-9ea1-3c99ec7ac40a"
+                    }
+                }
+            },
+            {
+                "animalId": "3c5fb48e-619d-45a3-b0b5-9ecc5e716351",
+                "position": "1                              2",
+                "date": null,
+                "medicationName": "дронтал                          барс для кошек",
+                "serialNumber": null,
+                "dose": null,
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/endoparasites/7d47605d-ef86-4785-beb7-5f8a6d0cef89"
+                    },
+                    "endoparasitesEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/endoparasites/7d47605d-ef86-4785-beb7-5f8a6d0cef89"
+                    }
+                }
+            },
+            {
+                "animalId": "99721536-b7e0-4fb5-9dd8-0c2184952e73",
+                "position": "1                              2",
+                "date": null,
+                "medicationName": "дронтал                          барс для кошек",
+                "serialNumber": null,
+                "dose": null,
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/endoparasites/c8d345a7-d98c-45f3-87d9-13ba29d2aeda"
+                    },
+                    "endoparasitesEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/endoparasites/c8d345a7-d98c-45f3-87d9-13ba29d2aeda"
+                    }
+                }
+            },
+            {
+                "animalId": "c3be03f2-59be-49b8-97aa-4b013ce27f72",
+                "position": "1                              2",
+                "date": null,
+                "medicationName": "дронтал                          барс для кошек",
+                "serialNumber": null,
+                "dose": null,
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/endoparasites/48bf98e4-5884-4d9d-9f53-32bc96439354"
+                    },
+                    "endoparasitesEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/endoparasites/48bf98e4-5884-4d9d-9f53-32bc96439354"
+                    }
+                }
+            },
+            {
+                "animalId": "fdaad1eb-bf09-4cdb-b35e-b9f73ec8af14",
+                "position": "1                              2",
+                "date": null,
+                "medicationName": "дронтал                          барс для кошек",
+                "serialNumber": null,
+                "dose": null,
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/endoparasites/be8d3490-c56e-47d5-a7a8-a2dc1fc3dfa0"
+                    },
+                    "endoparasitesEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/endoparasites/be8d3490-c56e-47d5-a7a8-a2dc1fc3dfa0"
+                    }
+                }
+            },
+            {
+                "animalId": "fc9d4659-ec9a-49cd-aeb7-b8a021ac4010",
+                "position": "1                              2",
+                "date": null,
+                "medicationName": "дронтал                          барс для кошек",
+                "serialNumber": null,
+                "dose": null,
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/endoparasites/e388173c-33a6-4db6-b897-b2fa928ef492"
+                    },
+                    "endoparasitesEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/endoparasites/e388173c-33a6-4db6-b897-b2fa928ef492"
+                    }
+                }
+            },
+            {
+                "animalId": "aea23eb8-e7a7-445d-8e1b-820d8a5d773c",
+                "position": "1.0",
+                "date": "2020-06-17T00:00:00.000+00:00",
+                "medicationName": "стронхолд",
+                "serialNumber": null,
+                "dose": 0.0,
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/endoparasites/76318aa9-1275-4b98-8385-d383004b64fe"
+                    },
+                    "endoparasitesEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/endoparasites/76318aa9-1275-4b98-8385-d383004b64fe"
+                    }
+                }
+            },
+            {
+                "animalId": "e881f272-940b-4ae5-b3af-7ed933045685",
+                "position": "1.0",
+                "date": "2020-06-17T00:00:00.000+00:00",
+                "medicationName": "стронхолд",
+                "serialNumber": null,
+                "dose": 0.0,
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/endoparasites/5a0543fa-2946-48c5-a84e-b82d29718b8d"
+                    },
+                    "endoparasitesEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/endoparasites/5a0543fa-2946-48c5-a84e-b82d29718b8d"
+                    }
+                }
+            },
+            {
+                "animalId": "bc59d680-7846-4fd6-a364-f66ecd3723b3",
+                "position": "1.0",
+                "date": "2020-06-17T00:00:00.000+00:00",
+                "medicationName": "стронхолд",
+                "serialNumber": null,
+                "dose": 0.0,
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/endoparasites/44e60205-86df-440a-acb9-4ca482aee016"
+                    },
+                    "endoparasitesEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/endoparasites/44e60205-86df-440a-acb9-4ca482aee016"
+                    }
+                }
+            },
+            {
+                "animalId": "4e6b79e8-0607-47f6-8691-e9719602ce43",
+                "position": "1.0",
+                "date": "2020-06-17T00:00:00.000+00:00",
+                "medicationName": "стронхолд",
+                "serialNumber": null,
+                "dose": 0.0,
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/endoparasites/a97cf92f-4b32-4a4a-804f-dad12d246c3a"
+                    },
+                    "endoparasitesEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/endoparasites/a97cf92f-4b32-4a4a-804f-dad12d246c3a"
+                    }
+                }
+            },
+            {
+                "animalId": "f826a764-de73-45ae-8577-44436bbe1681",
+                "position": "1.0",
+                "date": "2020-06-17T00:00:00.000+00:00",
+                "medicationName": "стронхолд",
+                "serialNumber": null,
+                "dose": 0.0,
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/endoparasites/7f4fbcc7-cb3d-4c34-8b71-561121aa56df"
+                    },
+                    "endoparasitesEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/endoparasites/7f4fbcc7-cb3d-4c34-8b71-561121aa56df"
+                    }
+                }
+            },
+            {
+                "animalId": "78207f00-0af6-41e5-96ba-5494321c000c",
+                "position": "1.0",
+                "date": "2020-06-17T00:00:00.000+00:00",
+                "medicationName": "стронхолд",
+                "serialNumber": null,
+                "dose": 0.0,
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/endoparasites/0e6f9d3e-d0db-4b0f-9ad0-3bdc46503018"
+                    },
+                    "endoparasitesEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/endoparasites/0e6f9d3e-d0db-4b0f-9ad0-3bdc46503018"
+                    }
+                }
+            },
+            {
+                "animalId": "fe0a2ad5-cc19-4161-a82d-d43753411e39",
+                "position": "1.0",
+                "date": "2020-06-17T00:00:00.000+00:00",
+                "medicationName": "стронхолд",
+                "serialNumber": null,
+                "dose": 0.0,
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/endoparasites/2e30d3f9-d8db-4b97-aaf8-65e81c1cfe1b"
+                    },
+                    "endoparasitesEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/endoparasites/2e30d3f9-d8db-4b97-aaf8-65e81c1cfe1b"
+                    }
+                }
+            },
+            {
+                "animalId": "ddae44ac-50b2-4708-8b31-030837f07b4e",
+                "position": "1.0",
+                "date": "2020-06-15T00:00:00.000+00:00",
+                "medicationName": "барс",
+                "serialNumber": null,
+                "dose": 0.0,
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/endoparasites/b08fa2e2-3b27-44c9-ab2f-252a3fb01abc"
+                    },
+                    "endoparasitesEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/endoparasites/b08fa2e2-3b27-44c9-ab2f-252a3fb01abc"
+                    }
+                }
+            },
+            {
+                "animalId": "72486392-4b57-465a-9b29-6d816f0dcc22",
+                "position": "1.0",
+                "date": "2020-06-19T00:00:00.000+00:00",
+                "medicationName": "барс",
+                "serialNumber": null,
+                "dose": 0.0,
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/endoparasites/b248b336-30ca-483f-9462-c9026cb5bd0e"
+                    },
+                    "endoparasitesEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/endoparasites/b248b336-30ca-483f-9462-c9026cb5bd0e"
+                    }
+                }
+            },
+            {
+                "animalId": "18757439-7b14-41aa-969b-285659e18601",
+                "position": "1.0",
+                "date": "2020-06-19T00:00:00.000+00:00",
+                "medicationName": "барс",
+                "serialNumber": null,
+                "dose": 0.0,
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/endoparasites/21300dcb-afb5-4edf-9a56-204cedd8c76a"
+                    },
+                    "endoparasitesEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/endoparasites/21300dcb-afb5-4edf-9a56-204cedd8c76a"
+                    }
+                }
+            },
+            {
+                "animalId": "3270e51b-b1ea-44b1-85a2-8a0787a081f5",
+                "position": "1.0",
+                "date": "2020-09-19T00:00:00.000+00:00",
+                "medicationName": "барс",
+                "serialNumber": null,
+                "dose": 0.0,
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/endoparasites/a183115c-f466-4486-9b4b-ce96f3e60743"
+                    },
+                    "endoparasitesEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/endoparasites/a183115c-f466-4486-9b4b-ce96f3e60743"
+                    }
+                }
+            },
+            {
+                "animalId": "f2b31f32-3291-4d31-887a-553fd43e7e9b",
+                "position": "1.0",
+                "date": "2020-09-19T00:00:00.000+00:00",
+                "medicationName": "барс",
+                "serialNumber": null,
+                "dose": 0.0,
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/endoparasites/ffc7886e-989e-4096-a436-25fc983807a6"
+                    },
+                    "endoparasitesEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/endoparasites/ffc7886e-989e-4096-a436-25fc983807a6"
+                    }
+                }
+            },
+            {
+                "animalId": "be4fd021-de81-413b-b9d7-55f1720b72f1",
+                "position": "1.0",
+                "date": "+54172-03-03T00:00:00.000+00:00",
+                "medicationName": "барс",
+                "serialNumber": null,
+                "dose": 0.0,
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/endoparasites/ec50f2d8-5af2-4f76-9d85-007ac948031e"
+                    },
+                    "endoparasitesEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/endoparasites/ec50f2d8-5af2-4f76-9d85-007ac948031e"
+                    }
+                }
+            },
+            {
+                "animalId": "fde7571c-c6d5-4443-8c11-6dc72c8fa089",
+                "position": "1.0",
+                "date": "2020-09-19T00:00:00.000+00:00",
+                "medicationName": "барс",
+                "serialNumber": null,
+                "dose": 0.0,
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/endoparasites/711e374b-2beb-42d3-8882-86ec42a67634"
+                    },
+                    "endoparasitesEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/endoparasites/711e374b-2beb-42d3-8882-86ec42a67634"
+                    }
+                }
+            },
+            {
+                "animalId": "60acd1f8-9d16-470b-a38d-4dc2c7382689",
+                "position": "1.0",
+                "date": "2020-09-19T00:00:00.000+00:00",
+                "medicationName": "барс",
+                "serialNumber": null,
+                "dose": 0.0,
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/endoparasites/1cbcc306-8be8-465e-b9a1-32f5829aab56"
+                    },
+                    "endoparasitesEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/endoparasites/1cbcc306-8be8-465e-b9a1-32f5829aab56"
+                    }
+                }
+            },
+            {
+                "animalId": "f6c288a9-bb34-4fe5-92dd-2b409c732324",
+                "position": "1.0",
+                "date": "2020-09-19T00:00:00.000+00:00",
+                "medicationName": "барс",
+                "serialNumber": null,
+                "dose": 0.0,
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/endoparasites/e9259fa0-4498-4397-8570-2d33e79c7918"
+                    },
+                    "endoparasitesEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/endoparasites/e9259fa0-4498-4397-8570-2d33e79c7918"
+                    }
+                }
+            },
+            {
+                "animalId": "22fdca17-0627-4691-8b04-e9ea1b10714f",
+                "position": "1.0",
+                "date": "2020-09-19T00:00:00.000+00:00",
+                "medicationName": "барс",
+                "serialNumber": null,
+                "dose": 0.0,
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/endoparasites/f7202f1e-7efb-49c7-9f40-b205383e188d"
+                    },
+                    "endoparasitesEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/endoparasites/f7202f1e-7efb-49c7-9f40-b205383e188d"
+                    }
+                }
+            },
+            {
+                "animalId": "0bc7e34a-8bb4-49b0-8921-3b1e95ea8d1f",
+                "position": "1.0",
+                "date": "2020-09-19T00:00:00.000+00:00",
+                "medicationName": "барс",
+                "serialNumber": null,
+                "dose": 0.0,
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/endoparasites/ec108fae-e2ff-4796-a600-58e52a2c4617"
+                    },
+                    "endoparasitesEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/endoparasites/ec108fae-e2ff-4796-a600-58e52a2c4617"
+                    }
+                }
+            },
+            {
+                "animalId": "b2ea06c3-9afa-4a31-9ebe-2abd302cc625",
+                "position": "1.0",
+                "date": "2020-09-19T00:00:00.000+00:00",
+                "medicationName": "барс",
+                "serialNumber": null,
+                "dose": 0.0,
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/endoparasites/5a477b91-30cf-4e6f-823c-78f4abe8d80f"
+                    },
+                    "endoparasitesEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/endoparasites/5a477b91-30cf-4e6f-823c-78f4abe8d80f"
+                    }
+                }
+            },
+            {
+                "animalId": "0c5f5d30-d6cf-498a-aec9-1e0749bd5c68",
+                "position": "1.0",
+                "date": "2020-09-19T00:00:00.000+00:00",
+                "medicationName": "барс",
+                "serialNumber": null,
+                "dose": 0.0,
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/endoparasites/1a92a8ed-cc03-4f49-ac20-8ad7fc27d8a2"
+                    },
+                    "endoparasitesEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/endoparasites/1a92a8ed-cc03-4f49-ac20-8ad7fc27d8a2"
+                    }
+                }
+            },
+            {
+                "animalId": "0e98b3a5-5e73-494e-b8ed-17bb77d08a4c",
+                "position": "1.0",
+                "date": "2020-06-17T00:00:00.000+00:00",
+                "medicationName": "барс",
+                "serialNumber": null,
+                "dose": 0.0,
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/endoparasites/92cf6686-24fd-4d99-858a-a92f035943a2"
+                    },
+                    "endoparasitesEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/endoparasites/92cf6686-24fd-4d99-858a-a92f035943a2"
+                    }
+                }
+            },
+            {
+                "animalId": "17b4ec5c-1d24-4aeb-a368-b26edd512b2b",
+                "position": "1.0",
+                "date": "2020-06-17T00:00:00.000+00:00",
+                "medicationName": "барс",
+                "serialNumber": null,
+                "dose": 0.0,
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/endoparasites/b84ded91-b289-4f0a-a073-3781451a56a9"
+                    },
+                    "endoparasitesEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/endoparasites/b84ded91-b289-4f0a-a073-3781451a56a9"
+                    }
+                }
+            },
+            {
+                "animalId": "2ddd3074-eee0-4c41-8afd-39916795f9d2",
+                "position": "1.0",
+                "date": "2020-08-10T00:00:00.000+00:00",
+                "medicationName": "барс",
+                "serialNumber": null,
+                "dose": 0.0,
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/endoparasites/aff6f550-6217-44ee-abff-e770e682c0ce"
+                    },
+                    "endoparasitesEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/endoparasites/aff6f550-6217-44ee-abff-e770e682c0ce"
+                    }
+                }
+            },
+            {
+                "animalId": "b32fcacf-3f15-4440-87b4-309d7d0324dd",
+                "position": "1.0",
+                "date": "2020-07-13T00:00:00.000+00:00",
+                "medicationName": "барс",
+                "serialNumber": null,
+                "dose": 0.0,
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/endoparasites/45d28492-9820-46dd-9765-62085051996c"
+                    },
+                    "endoparasitesEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/endoparasites/45d28492-9820-46dd-9765-62085051996c"
+                    }
+                }
+            },
+            {
+                "animalId": "b820f03e-4cb4-4b63-b1ce-4bf3976ff100",
+                "position": "1.0",
+                "date": "2020-06-17T00:00:00.000+00:00",
+                "medicationName": "барс",
+                "serialNumber": null,
+                "dose": 0.0,
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/endoparasites/31ead9fc-3f18-45fe-899e-23e043b2b92f"
+                    },
+                    "endoparasitesEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/endoparasites/31ead9fc-3f18-45fe-899e-23e043b2b92f"
+                    }
+                }
+            },
+            {
+                "animalId": "e3e6dfc6-0688-4b61-9d24-63468c0b60b0",
+                "position": "1.0",
+                "date": "2020-06-17T00:00:00.000+00:00",
+                "medicationName": "барс",
+                "serialNumber": null,
+                "dose": 0.0,
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/endoparasites/34e3cb67-a0dd-4c11-b7da-8190d28fc973"
+                    },
+                    "endoparasitesEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/endoparasites/34e3cb67-a0dd-4c11-b7da-8190d28fc973"
+                    }
+                }
+            },
+            {
+                "animalId": "91d5f91f-c414-4fa1-b75e-e5ef92242ecd",
+                "position": "1.0",
+                "date": "2020-06-02T00:00:00.000+00:00",
+                "medicationName": "барс",
+                "serialNumber": null,
+                "dose": 0.0,
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/endoparasites/71fb9295-e462-4157-88ff-c33a611a9a4e"
+                    },
+                    "endoparasitesEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/endoparasites/71fb9295-e462-4157-88ff-c33a611a9a4e"
+                    }
+                }
+            },
+            {
+                "animalId": "960a370c-32a9-40b1-ad35-2af7b1cedc09",
+                "position": "1.0",
+                "date": "2020-06-15T00:00:00.000+00:00",
+                "medicationName": "барс",
+                "serialNumber": null,
+                "dose": 0.0,
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/endoparasites/4ad10bc3-4281-4742-a58a-a4cfa1255cfd"
+                    },
+                    "endoparasitesEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/endoparasites/4ad10bc3-4281-4742-a58a-a4cfa1255cfd"
+                    }
+                }
+            },
+            {
+                "animalId": "2d1ff443-9431-4689-99b6-4bdbbcdd0d9e",
+                "position": "1.0",
+                "date": "2020-07-01T00:00:00.000+00:00",
+                "medicationName": "барс",
+                "serialNumber": null,
+                "dose": 0.0,
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/endoparasites/85c8ca7d-cce5-4d17-bbab-d80bcdddf2d3"
+                    },
+                    "endoparasitesEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/endoparasites/85c8ca7d-cce5-4d17-bbab-d80bcdddf2d3"
+                    }
+                }
+            },
+            {
+                "animalId": "e8ba1d72-2a26-42d1-9e18-3b2bfe14cc88",
+                "position": "1.0",
+                "date": "2020-06-15T00:00:00.000+00:00",
+                "medicationName": "барс",
+                "serialNumber": null,
+                "dose": 0.0,
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/endoparasites/d0e9869f-b13b-4c53-8ba2-c0cdd4ddea51"
+                    },
+                    "endoparasitesEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/endoparasites/d0e9869f-b13b-4c53-8ba2-c0cdd4ddea51"
+                    }
+                }
+            },
+            {
+                "animalId": "4c5bd6bc-5f1f-4e81-be36-05e0b88b504c",
+                "position": "1.0",
+                "date": "2020-06-15T00:00:00.000+00:00",
+                "medicationName": "барс",
+                "serialNumber": null,
+                "dose": 0.0,
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/endoparasites/bfbece18-535d-486f-b24d-74872c4fdba2"
+                    },
+                    "endoparasitesEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/endoparasites/bfbece18-535d-486f-b24d-74872c4fdba2"
+                    }
+                }
+            },
+            {
+                "animalId": "af55c22d-1323-450f-89bd-5c3b123410b3",
+                "position": "1.0",
+                "date": "2020-06-15T00:00:00.000+00:00",
+                "medicationName": "барс",
+                "serialNumber": null,
+                "dose": 0.0,
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/endoparasites/267c28fa-6104-4753-989a-691ccbdf4c58"
+                    },
+                    "endoparasitesEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/endoparasites/267c28fa-6104-4753-989a-691ccbdf4c58"
+                    }
+                }
+            },
+            {
+                "animalId": "129295b6-eadb-43e3-98c4-c757936f8a40",
+                "position": "1.0",
+                "date": "2020-06-15T00:00:00.000+00:00",
+                "medicationName": "барс",
+                "serialNumber": null,
+                "dose": 0.0,
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/endoparasites/acbc9818-b4f7-447e-90be-57aeb0534561"
+                    },
+                    "endoparasitesEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/endoparasites/acbc9818-b4f7-447e-90be-57aeb0534561"
+                    }
+                }
+            },
+            {
+                "animalId": "4385ed9b-f20e-4cbf-b957-1c4d63973301",
+                "position": "1.0",
+                "date": "2020-07-11T00:00:00.000+00:00",
+                "medicationName": "барс",
+                "serialNumber": null,
+                "dose": 0.0,
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/endoparasites/6c99d9db-93d9-443b-91c8-3ebf3a18a0e0"
+                    },
+                    "endoparasitesEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/endoparasites/6c99d9db-93d9-443b-91c8-3ebf3a18a0e0"
+                    }
+                }
+            },
+            {
+                "animalId": "abeb3609-7825-4534-b285-09950a2ab5eb",
+                "position": "1.0",
+                "date": "2020-06-19T00:00:00.000+00:00",
+                "medicationName": "барс",
+                "serialNumber": null,
+                "dose": 0.0,
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/endoparasites/60dac3bb-9795-4624-b5c9-877af2930102"
+                    },
+                    "endoparasitesEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/endoparasites/60dac3bb-9795-4624-b5c9-877af2930102"
+                    }
+                }
+            },
+            {
+                "animalId": "553bbcb7-ad04-48cb-b93b-0969ae6dd0b2",
+                "position": "1.0",
+                "date": "2020-05-01T00:00:00.000+00:00",
+                "medicationName": "барс",
+                "serialNumber": null,
+                "dose": 0.0,
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/endoparasites/fdfc434a-f04d-4134-93f0-ae0f221ae7e4"
+                    },
+                    "endoparasitesEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/endoparasites/fdfc434a-f04d-4134-93f0-ae0f221ae7e4"
+                    }
+                }
+            },
+            {
+                "animalId": "87cf1ffc-e05b-4e91-96eb-af1cb3080773",
+                "position": "1.0",
+                "date": "2020-05-10T00:00:00.000+00:00",
+                "medicationName": "барс",
+                "serialNumber": null,
+                "dose": 0.0,
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/endoparasites/10208c28-bb65-4361-a42a-d1f2bb80d29c"
+                    },
+                    "endoparasitesEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/endoparasites/10208c28-bb65-4361-a42a-d1f2bb80d29c"
+                    }
+                }
+            },
+            {
+                "animalId": "ca784cdd-a206-4846-b683-7242a8f54367",
+                "position": "1.0",
+                "date": "2020-04-07T00:00:00.000+00:00",
+                "medicationName": "барс",
+                "serialNumber": null,
+                "dose": 0.0,
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/endoparasites/1b624701-ec13-4f1f-b9ce-1fae85d28e76"
+                    },
+                    "endoparasitesEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/endoparasites/1b624701-ec13-4f1f-b9ce-1fae85d28e76"
+                    }
+                }
+            },
+            {
+                "animalId": "326e7c1e-e1db-4a32-a51c-6e852cf46558",
+                "position": "1.0",
+                "date": "2020-05-01T00:00:00.000+00:00",
+                "medicationName": "барс",
+                "serialNumber": null,
+                "dose": 0.0,
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/endoparasites/ec16a661-237b-4dd0-b4ca-f9fd5a0b386d"
+                    },
+                    "endoparasitesEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/endoparasites/ec16a661-237b-4dd0-b4ca-f9fd5a0b386d"
+                    }
+                }
+            },
+            {
+                "animalId": "805cc5bc-3f67-4807-9197-180853bcbd11",
+                "position": "1.0",
+                "date": "2020-05-01T00:00:00.000+00:00",
+                "medicationName": "барс",
+                "serialNumber": null,
+                "dose": 0.0,
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/endoparasites/eb9bc4cc-8abd-4893-ae89-f5644e263e04"
+                    },
+                    "endoparasitesEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/endoparasites/eb9bc4cc-8abd-4893-ae89-f5644e263e04"
+                    }
+                }
+            }
+        ]
+    },
+    "_links": {
+        "self": {
+            "href": "http://34.66.234.105:8095/api/v1/endoparasites"
+        },
+        "profile": {
+            "href": "http://34.66.234.105:8095/api/v1/profile/endoparasites"
+        }
+    }
+}

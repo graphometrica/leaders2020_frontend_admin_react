@@ -1,0 +1,3402 @@
+{
+    "_embedded": {
+        "health-check": [
+            {
+                "animalId": "4cfab324-adb5-4e8a-9b1c-a360d9df9bd7",
+                "date": "2020-07-29T00:00:00.000+00:00",
+                "weight": null,
+                "anamnesis": "удовлетворительно",
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/health-check/ea970cd9-81ed-4702-9ab1-796a31e4c16a"
+                    },
+                    "healthCheckEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/health-check/ea970cd9-81ed-4702-9ab1-796a31e4c16a"
+                    }
+                }
+            },
+            {
+                "animalId": "2dfbb239-c688-481e-be0a-f461925e7d0e",
+                "date": "2020-07-20T00:00:00.000+00:00",
+                "weight": null,
+                "anamnesis": "удовлетворительно",
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/health-check/f4dda4e7-100f-450f-8561-57c1999be57e"
+                    },
+                    "healthCheckEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/health-check/f4dda4e7-100f-450f-8561-57c1999be57e"
+                    }
+                }
+            },
+            {
+                "animalId": "1a51f0a9-024a-4251-9d51-d0df3785fd37",
+                "date": "2020-03-19T00:00:00.000+00:00",
+                "weight": null,
+                "anamnesis": "удовлетворительно",
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/health-check/3979c2fe-f795-4f40-9d79-625fe70b033d"
+                    },
+                    "healthCheckEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/health-check/3979c2fe-f795-4f40-9d79-625fe70b033d"
+                    }
+                }
+            },
+            {
+                "animalId": "b64f3583-4a77-4e97-b783-e7cbfe465a9f",
+                "date": "2020-08-10T00:00:00.000+00:00",
+                "weight": null,
+                "anamnesis": "удовлетворительно",
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/health-check/69e1cb8b-57d5-474b-9f15-54af99077474"
+                    },
+                    "healthCheckEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/health-check/69e1cb8b-57d5-474b-9f15-54af99077474"
+                    }
+                }
+            },
+            {
+                "animalId": "fc9523e5-4d02-4e39-b9da-d16991961503",
+                "date": "2020-07-29T00:00:00.000+00:00",
+                "weight": null,
+                "anamnesis": "удовлетворительно",
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/health-check/37136202-f404-4810-903c-fd27e77a7fbe"
+                    },
+                    "healthCheckEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/health-check/37136202-f404-4810-903c-fd27e77a7fbe"
+                    }
+                }
+            },
+            {
+                "animalId": "3113fa0d-6680-4dd2-ba84-74bb53b28d63",
+                "date": "2020-03-19T00:00:00.000+00:00",
+                "weight": null,
+                "anamnesis": "удовлетворительно",
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/health-check/f15229c8-8afc-494a-88d1-7ef653905b44"
+                    },
+                    "healthCheckEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/health-check/f15229c8-8afc-494a-88d1-7ef653905b44"
+                    }
+                }
+            },
+            {
+                "animalId": "1c533be5-3d38-4d16-ae32-307d04decf80",
+                "date": "2020-03-24T00:00:00.000+00:00",
+                "weight": null,
+                "anamnesis": "удовлетворительно",
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/health-check/805ed33e-ef0e-4355-aac4-65796dde690a"
+                    },
+                    "healthCheckEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/health-check/805ed33e-ef0e-4355-aac4-65796dde690a"
+                    }
+                }
+            },
+            {
+                "animalId": "033894c6-fa6e-4b47-aa17-25c71e6deebe",
+                "date": "2020-03-29T00:00:00.000+00:00",
+                "weight": null,
+                "anamnesis": "удовлетворительно",
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/health-check/3363afad-9717-4458-a63e-2206683dcd4f"
+                    },
+                    "healthCheckEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/health-check/3363afad-9717-4458-a63e-2206683dcd4f"
+                    }
+                }
+            },
+            {
+                "animalId": "3b95e4e5-0f31-4cb3-96de-e3f14a5f5071",
+                "date": "2020-03-29T00:00:00.000+00:00",
+                "weight": null,
+                "anamnesis": "удовлетворительно",
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/health-check/9e45d147-4c67-4209-a213-dffc5d0b4570"
+                    },
+                    "healthCheckEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/health-check/9e45d147-4c67-4209-a213-dffc5d0b4570"
+                    }
+                }
+            },
+            {
+                "animalId": "6a06d88d-7b14-498c-8252-9fcce0d7eb6d",
+                "date": "2020-03-27T00:00:00.000+00:00",
+                "weight": null,
+                "anamnesis": "удовлетворительно",
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/health-check/97fbf97a-0ef7-40f3-83b9-db5498c7b7ba"
+                    },
+                    "healthCheckEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/health-check/97fbf97a-0ef7-40f3-83b9-db5498c7b7ba"
+                    }
+                }
+            },
+            {
+                "animalId": "3b961659-4fa0-4401-8ea8-8907200402b6",
+                "date": "2020-03-19T00:00:00.000+00:00",
+                "weight": null,
+                "anamnesis": "удовлетворительно",
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/health-check/00736a7f-a74f-4a44-a73b-ed29d64a4a3f"
+                    },
+                    "healthCheckEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/health-check/00736a7f-a74f-4a44-a73b-ed29d64a4a3f"
+                    }
+                }
+            },
+            {
+                "animalId": "2b5e12aa-6c7e-4e36-8442-40b244bda5d7",
+                "date": "2020-01-21T00:00:00.000+00:00",
+                "weight": null,
+                "anamnesis": "удовлетворительно",
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/health-check/3b014eda-de0d-40aa-9e01-bd9428ccad31"
+                    },
+                    "healthCheckEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/health-check/3b014eda-de0d-40aa-9e01-bd9428ccad31"
+                    }
+                }
+            },
+            {
+                "animalId": "affebffd-9c9b-4058-af4e-01e7f46ef07d",
+                "date": "2020-01-21T00:00:00.000+00:00",
+                "weight": null,
+                "anamnesis": "удовлетворительно",
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/health-check/452d1eb6-dfc6-4d84-aa64-271d5e0f3601"
+                    },
+                    "healthCheckEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/health-check/452d1eb6-dfc6-4d84-aa64-271d5e0f3601"
+                    }
+                }
+            },
+            {
+                "animalId": "4b89b920-2250-4e43-b530-0341885977d9",
+                "date": "2020-03-24T00:00:00.000+00:00",
+                "weight": null,
+                "anamnesis": "удовлетворительно",
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/health-check/c018ceea-b601-4aa2-96c1-30c3e272ab85"
+                    },
+                    "healthCheckEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/health-check/c018ceea-b601-4aa2-96c1-30c3e272ab85"
+                    }
+                }
+            },
+            {
+                "animalId": "9f353985-0a84-40a9-a6f9-da061cf7119f",
+                "date": "2020-03-03T00:00:00.000+00:00",
+                "weight": null,
+                "anamnesis": "удовлетворительно",
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/health-check/d4745bba-c792-43b3-947c-98402e6d5f9a"
+                    },
+                    "healthCheckEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/health-check/d4745bba-c792-43b3-947c-98402e6d5f9a"
+                    }
+                }
+            },
+            {
+                "animalId": "eb366c2d-2d58-4c7d-8304-2bd03b6b73c8",
+                "date": "2020-01-11T00:00:00.000+00:00",
+                "weight": null,
+                "anamnesis": "удовлетворительно",
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/health-check/81153f8d-d5cb-42ff-b1c6-1d1c59882992"
+                    },
+                    "healthCheckEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/health-check/81153f8d-d5cb-42ff-b1c6-1d1c59882992"
+                    }
+                }
+            },
+            {
+                "animalId": "1f82496d-1a16-439a-a337-b97a8f4658b6",
+                "date": "2020-06-09T00:00:00.000+00:00",
+                "weight": null,
+                "anamnesis": "удовлетворительно",
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/health-check/33d810b1-a6ef-4a13-94ed-d9dc504f7bb2"
+                    },
+                    "healthCheckEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/health-check/33d810b1-a6ef-4a13-94ed-d9dc504f7bb2"
+                    }
+                }
+            },
+            {
+                "animalId": "854391ff-1986-4208-ba43-ce793adfed0a",
+                "date": "2020-07-15T00:00:00.000+00:00",
+                "weight": null,
+                "anamnesis": "удовлетворительно",
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/health-check/2d43ed04-a804-4ba4-bfc5-4077b53d8226"
+                    },
+                    "healthCheckEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/health-check/2d43ed04-a804-4ba4-bfc5-4077b53d8226"
+                    }
+                }
+            },
+            {
+                "animalId": "a1623947-0ae3-4284-ac6a-ac0be441e29d",
+                "date": "2020-05-01T00:00:00.000+00:00",
+                "weight": null,
+                "anamnesis": "удовлетворительно",
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/health-check/56674856-6f83-46d8-a147-9e15f394b487"
+                    },
+                    "healthCheckEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/health-check/56674856-6f83-46d8-a147-9e15f394b487"
+                    }
+                }
+            },
+            {
+                "animalId": "c6536287-063e-4e01-a667-7e8e4454af8f",
+                "date": "2020-02-18T00:00:00.000+00:00",
+                "weight": null,
+                "anamnesis": "удовлетворительно",
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/health-check/5c89a2a3-c9f6-43a1-9292-f6c92e8988ab"
+                    },
+                    "healthCheckEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/health-check/5c89a2a3-c9f6-43a1-9292-f6c92e8988ab"
+                    }
+                }
+            },
+            {
+                "animalId": "4ca176b8-e359-4e6b-9b7b-ab92013c9bd4",
+                "date": "2020-08-01T00:00:00.000+00:00",
+                "weight": null,
+                "anamnesis": "удовлетворительно",
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/health-check/d0b8a992-305d-4f9c-a814-28f1cce69dfd"
+                    },
+                    "healthCheckEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/health-check/d0b8a992-305d-4f9c-a814-28f1cce69dfd"
+                    }
+                }
+            },
+            {
+                "animalId": "9d7b5ec4-cf4e-4214-8a0e-468dc18c1c7d",
+                "date": "2019-12-27T00:00:00.000+00:00",
+                "weight": null,
+                "anamnesis": "удовлетворительно",
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/health-check/211f9abc-816d-45e6-8f78-3a864dd36925"
+                    },
+                    "healthCheckEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/health-check/211f9abc-816d-45e6-8f78-3a864dd36925"
+                    }
+                }
+            },
+            {
+                "animalId": "4f7c75ac-abb9-4c58-8251-cb171e9ea6ad",
+                "date": "2020-09-19T00:00:00.000+00:00",
+                "weight": null,
+                "anamnesis": "клинически здорово",
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/health-check/3a598b99-6563-4df2-a085-59e062574e2b"
+                    },
+                    "healthCheckEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/health-check/3a598b99-6563-4df2-a085-59e062574e2b"
+                    }
+                }
+            },
+            {
+                "animalId": "6ecefd40-b069-4b87-afcf-5d995fbbd4dd",
+                "date": "2020-09-19T00:00:00.000+00:00",
+                "weight": null,
+                "anamnesis": "клинически здорово",
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/health-check/7fffa7f1-529c-47be-b1bb-220af1b7c37d"
+                    },
+                    "healthCheckEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/health-check/7fffa7f1-529c-47be-b1bb-220af1b7c37d"
+                    }
+                }
+            },
+            {
+                "animalId": "27880341-676f-42ff-a000-6b874f9f98ae",
+                "date": "2020-09-19T00:00:00.000+00:00",
+                "weight": null,
+                "anamnesis": "клинически здорово",
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/health-check/2e8870ab-f621-4e86-ac81-4c594b4b4385"
+                    },
+                    "healthCheckEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/health-check/2e8870ab-f621-4e86-ac81-4c594b4b4385"
+                    }
+                }
+            },
+            {
+                "animalId": "368208fd-2d72-4043-ab38-5f66147f48d4",
+                "date": "2020-09-19T00:00:00.000+00:00",
+                "weight": null,
+                "anamnesis": "клинически здорово",
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/health-check/e52f2dfc-3d6a-42bd-84f3-8600891efaa8"
+                    },
+                    "healthCheckEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/health-check/e52f2dfc-3d6a-42bd-84f3-8600891efaa8"
+                    }
+                }
+            },
+            {
+                "animalId": "fd42b030-2c83-4cf0-8e3e-088d8124ca6b",
+                "date": "2020-09-19T00:00:00.000+00:00",
+                "weight": null,
+                "anamnesis": "клинически здорово",
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/health-check/d58ea4a8-1834-4bda-986a-5860a80fa4ee"
+                    },
+                    "healthCheckEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/health-check/d58ea4a8-1834-4bda-986a-5860a80fa4ee"
+                    }
+                }
+            },
+            {
+                "animalId": "c039696c-d8c3-4697-8195-4e60de7334e0",
+                "date": "2020-09-21T00:00:00.000+00:00",
+                "weight": null,
+                "anamnesis": "клинически здорово",
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/health-check/ce12093c-b6fe-4777-a9ee-312eb023740f"
+                    },
+                    "healthCheckEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/health-check/ce12093c-b6fe-4777-a9ee-312eb023740f"
+                    }
+                }
+            },
+            {
+                "animalId": "e6f5b79e-b999-4fdb-a204-65c912b72fc2",
+                "date": "2020-09-21T00:00:00.000+00:00",
+                "weight": null,
+                "anamnesis": "клинически здорово",
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/health-check/36baf527-380b-4a6b-9748-93ee1168a2c4"
+                    },
+                    "healthCheckEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/health-check/36baf527-380b-4a6b-9748-93ee1168a2c4"
+                    }
+                }
+            },
+            {
+                "animalId": "07e541d1-febd-457a-90af-4afa72b7c804",
+                "date": "2020-09-21T00:00:00.000+00:00",
+                "weight": null,
+                "anamnesis": "клинически здорово",
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/health-check/1652145a-4f45-4f61-a7ec-310cd503a1bc"
+                    },
+                    "healthCheckEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/health-check/1652145a-4f45-4f61-a7ec-310cd503a1bc"
+                    }
+                }
+            },
+            {
+                "animalId": "23946a3d-f5dc-47ba-af1c-335854e6ec25",
+                "date": "2020-10-05T00:00:00.000+00:00",
+                "weight": null,
+                "anamnesis": "вирусный перитонит",
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/health-check/57b961a0-36bb-4a75-8b4c-4103a291c419"
+                    },
+                    "healthCheckEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/health-check/57b961a0-36bb-4a75-8b4c-4103a291c419"
+                    }
+                }
+            },
+            {
+                "animalId": "bafd1cc5-41de-4b1f-84cd-e63aa6966e1f",
+                "date": "2020-10-05T00:00:00.000+00:00",
+                "weight": null,
+                "anamnesis": "вирусный перитонит",
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/health-check/df455d27-6d16-4fd1-acf3-19f689e4df55"
+                    },
+                    "healthCheckEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/health-check/df455d27-6d16-4fd1-acf3-19f689e4df55"
+                    }
+                }
+            },
+            {
+                "animalId": "f071a806-3137-4dbc-b09d-8ff32c6a52c6",
+                "date": "2020-09-29T00:00:00.000+00:00",
+                "weight": null,
+                "anamnesis": "клинически здорово",
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/health-check/a7d71a19-7b45-46ec-984d-9c15bfc60655"
+                    },
+                    "healthCheckEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/health-check/a7d71a19-7b45-46ec-984d-9c15bfc60655"
+                    }
+                }
+            },
+            {
+                "animalId": "065280c7-1541-4f6b-bfb5-f30f3b867bf1",
+                "date": "2020-09-29T00:00:00.000+00:00",
+                "weight": null,
+                "anamnesis": "клинически здорово",
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/health-check/845ee6c4-c2be-40b0-b974-16d168e15b4b"
+                    },
+                    "healthCheckEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/health-check/845ee6c4-c2be-40b0-b974-16d168e15b4b"
+                    }
+                }
+            },
+            {
+                "animalId": "682eb4b0-1af6-43aa-ba0a-0859b86e9050",
+                "date": "2020-09-29T00:00:00.000+00:00",
+                "weight": null,
+                "anamnesis": "клинически здорово",
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/health-check/417c0bd6-5429-454c-8dfa-b688d95af1a4"
+                    },
+                    "healthCheckEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/health-check/417c0bd6-5429-454c-8dfa-b688d95af1a4"
+                    }
+                }
+            },
+            {
+                "animalId": "f4456cab-465f-4701-9344-36fc2e072903",
+                "date": "2020-09-29T00:00:00.000+00:00",
+                "weight": null,
+                "anamnesis": "клинически здорово",
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/health-check/002e6b47-18e9-4b71-986f-f0ddcbcc5000"
+                    },
+                    "healthCheckEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/health-check/002e6b47-18e9-4b71-986f-f0ddcbcc5000"
+                    }
+                }
+            },
+            {
+                "animalId": "74a4db4a-2f98-4d63-a7a2-e737bd79ba67",
+                "date": "2020-09-29T00:00:00.000+00:00",
+                "weight": null,
+                "anamnesis": "клинически здорово",
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/health-check/6f6e2551-0e5a-4e8a-9e63-83b5ffcbbaf5"
+                    },
+                    "healthCheckEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/health-check/6f6e2551-0e5a-4e8a-9e63-83b5ffcbbaf5"
+                    }
+                }
+            },
+            {
+                "animalId": "55b24278-3bf9-4762-ad11-2467d56a8168",
+                "date": "2020-10-02T00:00:00.000+00:00",
+                "weight": null,
+                "anamnesis": "клинически здорово",
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/health-check/a9accf0e-2329-42b4-bc88-1e321f91edee"
+                    },
+                    "healthCheckEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/health-check/a9accf0e-2329-42b4-bc88-1e321f91edee"
+                    }
+                }
+            },
+            {
+                "animalId": "4b500ce9-65dd-4591-aa2d-6421ff19b702",
+                "date": "2020-10-02T00:00:00.000+00:00",
+                "weight": null,
+                "anamnesis": "клинически здорово",
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/health-check/36edde31-64fa-41e5-a78a-85a75c7b8863"
+                    },
+                    "healthCheckEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/health-check/36edde31-64fa-41e5-a78a-85a75c7b8863"
+                    }
+                }
+            },
+            {
+                "animalId": "72df4b4d-6f34-4a6c-82c9-b1c85a728adb",
+                "date": "2020-10-02T00:00:00.000+00:00",
+                "weight": null,
+                "anamnesis": "клинически здорово",
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/health-check/b6fa2c7d-5cdb-4564-ab28-818a87aaf97d"
+                    },
+                    "healthCheckEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/health-check/b6fa2c7d-5cdb-4564-ab28-818a87aaf97d"
+                    }
+                }
+            },
+            {
+                "animalId": "3ea50ec3-aab2-4212-8024-644050eb9e97",
+                "date": "2020-10-05T00:00:00.000+00:00",
+                "weight": null,
+                "anamnesis": "новообразование печени",
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/health-check/d991f8ef-6182-43ea-bbe8-361e06d9810e"
+                    },
+                    "healthCheckEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/health-check/d991f8ef-6182-43ea-bbe8-361e06d9810e"
+                    }
+                }
+            },
+            {
+                "animalId": "8a95c06c-8fb8-4b2e-965a-63336eb54ce2",
+                "date": "2020-10-06T00:00:00.000+00:00",
+                "weight": null,
+                "anamnesis": "лимфосаркома",
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/health-check/b09758be-ae8a-456b-9994-da854fe5ff7c"
+                    },
+                    "healthCheckEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/health-check/b09758be-ae8a-456b-9994-da854fe5ff7c"
+                    }
+                }
+            },
+            {
+                "animalId": "99721ddf-1ccc-48a6-97cb-7b587161ac46",
+                "date": "2020-02-03T00:00:00.000+00:00",
+                "weight": null,
+                "anamnesis": "клинически здорово",
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/health-check/eee94f32-c52a-4d43-ae2b-7450fbfc0d90"
+                    },
+                    "healthCheckEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/health-check/eee94f32-c52a-4d43-ae2b-7450fbfc0d90"
+                    }
+                }
+            },
+            {
+                "animalId": "0e6a7667-ec79-4acb-8062-d0e5ad4e550d",
+                "date": "2020-11-18T00:00:00.000+00:00",
+                "weight": null,
+                "anamnesis": "клинически здорово",
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/health-check/5f1de254-186e-48e0-981e-75ccc2087bd7"
+                    },
+                    "healthCheckEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/health-check/5f1de254-186e-48e0-981e-75ccc2087bd7"
+                    }
+                }
+            },
+            {
+                "animalId": "3fa77c24-6193-4bee-b109-0517d06745ec",
+                "date": "2020-03-17T00:00:00.000+00:00",
+                "weight": null,
+                "anamnesis": "клинически здорово",
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/health-check/be1c174f-5d4b-49ba-97f4-4f707c98afb5"
+                    },
+                    "healthCheckEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/health-check/be1c174f-5d4b-49ba-97f4-4f707c98afb5"
+                    }
+                }
+            },
+            {
+                "animalId": "d70ba237-823f-4ab8-91ff-88c23158cc38",
+                "date": "2020-06-17T00:00:00.000+00:00",
+                "weight": null,
+                "anamnesis": "клинически здорово",
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/health-check/575b4226-c220-4fd6-a10d-83b0c83f3481"
+                    },
+                    "healthCheckEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/health-check/575b4226-c220-4fd6-a10d-83b0c83f3481"
+                    }
+                }
+            },
+            {
+                "animalId": "399ce828-b6dd-48ad-87ec-e4126f86dbba",
+                "date": "2020-06-23T00:00:00.000+00:00",
+                "weight": null,
+                "anamnesis": "клинически здорово",
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/health-check/bc0bbcce-6ae0-4b30-80f1-6f65be4e14f0"
+                    },
+                    "healthCheckEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/health-check/bc0bbcce-6ae0-4b30-80f1-6f65be4e14f0"
+                    }
+                }
+            },
+            {
+                "animalId": "4cb98a6f-9b86-4f96-a603-c385b1fce001",
+                "date": "2020-04-10T00:00:00.000+00:00",
+                "weight": null,
+                "anamnesis": "клинически здорово",
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/health-check/41213af6-9528-47c8-83db-c46087a42695"
+                    },
+                    "healthCheckEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/health-check/41213af6-9528-47c8-83db-c46087a42695"
+                    }
+                }
+            },
+            {
+                "animalId": "86c29edf-e4b7-4720-bc14-22c7c896a9e5",
+                "date": "2020-03-06T00:00:00.000+00:00",
+                "weight": null,
+                "anamnesis": "клинически здорово",
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/health-check/afebd363-3167-4d53-a8bd-ffc379976a5c"
+                    },
+                    "healthCheckEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/health-check/afebd363-3167-4d53-a8bd-ffc379976a5c"
+                    }
+                }
+            },
+            {
+                "animalId": "92fd6e80-b78f-4635-b8bb-117ec9f4c11e",
+                "date": "2020-06-11T00:00:00.000+00:00",
+                "weight": null,
+                "anamnesis": "клинически здорово",
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/health-check/dfd44657-4913-4e5e-b75c-2aee972ec8aa"
+                    },
+                    "healthCheckEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/health-check/dfd44657-4913-4e5e-b75c-2aee972ec8aa"
+                    }
+                }
+            },
+            {
+                "animalId": "2964c4fc-eec1-4279-83ee-591223eff1e5",
+                "date": "2020-06-10T00:00:00.000+00:00",
+                "weight": null,
+                "anamnesis": "клинически здорово",
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/health-check/7b4146e4-9da6-459d-b846-118fa16a413d"
+                    },
+                    "healthCheckEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/health-check/7b4146e4-9da6-459d-b846-118fa16a413d"
+                    }
+                }
+            },
+            {
+                "animalId": "90645165-bbad-4e0e-9aeb-8cf4e74a360c",
+                "date": "2020-07-10T00:00:00.000+00:00",
+                "weight": null,
+                "anamnesis": "клинически здорово",
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/health-check/cb279f46-73ad-424d-b99d-6f35b6bdd309"
+                    },
+                    "healthCheckEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/health-check/cb279f46-73ad-424d-b99d-6f35b6bdd309"
+                    }
+                }
+            },
+            {
+                "animalId": "5e524c21-b8e8-44c3-8830-c34e4ade4a32",
+                "date": "2020-09-11T00:00:00.000+00:00",
+                "weight": null,
+                "anamnesis": "клинически здорово",
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/health-check/f75a640c-dccd-4121-ae44-0a5dcbc410a2"
+                    },
+                    "healthCheckEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/health-check/f75a640c-dccd-4121-ae44-0a5dcbc410a2"
+                    }
+                }
+            },
+            {
+                "animalId": "5692243e-a274-4a20-9c6f-4626f29fa94e",
+                "date": "2020-09-11T00:00:00.000+00:00",
+                "weight": null,
+                "anamnesis": "клинически здорово",
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/health-check/c8ad9782-aa06-4236-93ac-c88cc2022748"
+                    },
+                    "healthCheckEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/health-check/c8ad9782-aa06-4236-93ac-c88cc2022748"
+                    }
+                }
+            },
+            {
+                "animalId": "2d02ff26-8751-4bb0-8098-fbb7a17c2046",
+                "date": "2020-09-16T00:00:00.000+00:00",
+                "weight": null,
+                "anamnesis": "клинически здорово",
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/health-check/ff565764-772d-4941-92f5-7ff4321d477e"
+                    },
+                    "healthCheckEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/health-check/ff565764-772d-4941-92f5-7ff4321d477e"
+                    }
+                }
+            },
+            {
+                "animalId": "64171095-8941-48ca-ae24-ca815d092a1a",
+                "date": "2020-09-13T00:00:00.000+00:00",
+                "weight": null,
+                "anamnesis": "клинически здорово",
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/health-check/d8c01e5c-e146-4de3-8d05-8e9729410306"
+                    },
+                    "healthCheckEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/health-check/d8c01e5c-e146-4de3-8d05-8e9729410306"
+                    }
+                }
+            },
+            {
+                "animalId": "0f73e63e-a47a-446e-ab7b-28715faf4d2e",
+                "date": "2020-09-13T00:00:00.000+00:00",
+                "weight": null,
+                "anamnesis": "клинически здорово",
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/health-check/a098beb8-0f1a-43dc-91fc-713555497457"
+                    },
+                    "healthCheckEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/health-check/a098beb8-0f1a-43dc-91fc-713555497457"
+                    }
+                }
+            },
+            {
+                "animalId": "6d6e43ae-b5d7-48c9-b7a4-4a8204b57c72",
+                "date": "2020-09-13T00:00:00.000+00:00",
+                "weight": null,
+                "anamnesis": "клинически здорово",
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/health-check/04f16a8a-407b-48aa-bf9b-9cf93ac1561f"
+                    },
+                    "healthCheckEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/health-check/04f16a8a-407b-48aa-bf9b-9cf93ac1561f"
+                    }
+                }
+            },
+            {
+                "animalId": "dbe32ee5-97e1-4f47-8f91-524f855be7a2",
+                "date": "2020-09-13T00:00:00.000+00:00",
+                "weight": null,
+                "anamnesis": "клинически здорово",
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/health-check/293e6788-a4fb-4e3d-ba98-6519917d1df5"
+                    },
+                    "healthCheckEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/health-check/293e6788-a4fb-4e3d-ba98-6519917d1df5"
+                    }
+                }
+            },
+            {
+                "animalId": "ed107a98-e566-4a80-9f56-b2e0e073907c",
+                "date": "2020-09-24T00:00:00.000+00:00",
+                "weight": null,
+                "anamnesis": "клинически здорово",
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/health-check/0011e848-87e7-497b-8896-1b25f3944fef"
+                    },
+                    "healthCheckEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/health-check/0011e848-87e7-497b-8896-1b25f3944fef"
+                    }
+                }
+            },
+            {
+                "animalId": "717b5411-c1ef-41d5-a6ad-4b4c9f33848d",
+                "date": "2020-09-24T00:00:00.000+00:00",
+                "weight": null,
+                "anamnesis": "клинически здорово",
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/health-check/cbc4178d-8ea7-46c2-a4e2-538bdb83e547"
+                    },
+                    "healthCheckEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/health-check/cbc4178d-8ea7-46c2-a4e2-538bdb83e547"
+                    }
+                }
+            },
+            {
+                "animalId": "1eb5c288-722c-4c10-867d-d2bd216551c9",
+                "date": "2020-09-21T00:00:00.000+00:00",
+                "weight": null,
+                "anamnesis": "клинически здорово",
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/health-check/769c9329-79f4-4b56-8e4b-7cf43d6a265f"
+                    },
+                    "healthCheckEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/health-check/769c9329-79f4-4b56-8e4b-7cf43d6a265f"
+                    }
+                }
+            },
+            {
+                "animalId": "19c2a83c-b5d8-4416-b77e-367d6bfc5812",
+                "date": "2020-01-30T00:00:00.000+00:00",
+                "weight": null,
+                "anamnesis": "клинически здорово",
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/health-check/31ad6210-8556-4f53-9cd3-58c8a6153d03"
+                    },
+                    "healthCheckEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/health-check/31ad6210-8556-4f53-9cd3-58c8a6153d03"
+                    }
+                }
+            },
+            {
+                "animalId": "30b80705-0e6a-42e4-81fe-a1dd167877c5",
+                "date": "2020-01-30T00:00:00.000+00:00",
+                "weight": null,
+                "anamnesis": "клинически здорово",
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/health-check/ace1502a-02b6-4f36-bd1f-da189e020e49"
+                    },
+                    "healthCheckEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/health-check/ace1502a-02b6-4f36-bd1f-da189e020e49"
+                    }
+                }
+            },
+            {
+                "animalId": "d7e65c80-5f91-4720-924b-bd0f460041ad",
+                "date": "2020-01-30T00:00:00.000+00:00",
+                "weight": null,
+                "anamnesis": "клинически здорово",
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/health-check/8674eef2-a11c-4097-84ae-c97de38b781f"
+                    },
+                    "healthCheckEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/health-check/8674eef2-a11c-4097-84ae-c97de38b781f"
+                    }
+                }
+            },
+            {
+                "animalId": "e158fcd1-d941-457f-ade4-c3e680b22616",
+                "date": "2020-02-06T00:00:00.000+00:00",
+                "weight": null,
+                "anamnesis": "клинически здорово",
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/health-check/ce69c9a2-136f-412a-8f0f-304858f618bf"
+                    },
+                    "healthCheckEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/health-check/ce69c9a2-136f-412a-8f0f-304858f618bf"
+                    }
+                }
+            },
+            {
+                "animalId": "6dab1bbf-7327-43cc-8ccf-6f9666659e0a",
+                "date": "2020-02-06T00:00:00.000+00:00",
+                "weight": null,
+                "anamnesis": "клинически здорово",
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/health-check/bffad49c-929a-46cd-a82c-b136803d3831"
+                    },
+                    "healthCheckEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/health-check/bffad49c-929a-46cd-a82c-b136803d3831"
+                    }
+                }
+            },
+            {
+                "animalId": "dce00332-74a6-4993-8884-bb08ffd7ea47",
+                "date": "2020-02-06T00:00:00.000+00:00",
+                "weight": null,
+                "anamnesis": "клинически здорово",
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/health-check/0e64f629-7213-4c7e-900e-4f28745d0e7f"
+                    },
+                    "healthCheckEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/health-check/0e64f629-7213-4c7e-900e-4f28745d0e7f"
+                    }
+                }
+            },
+            {
+                "animalId": "b2f6b60e-cb2d-45cb-9dcd-143fdf92370a",
+                "date": "2020-03-18T00:00:00.000+00:00",
+                "weight": null,
+                "anamnesis": "клинически здорово",
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/health-check/59a874e5-55a9-4d48-92b2-3ab4e9690680"
+                    },
+                    "healthCheckEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/health-check/59a874e5-55a9-4d48-92b2-3ab4e9690680"
+                    }
+                }
+            },
+            {
+                "animalId": "0a281b80-d9b5-4cea-a829-8b644820024a",
+                "date": "2020-04-20T00:00:00.000+00:00",
+                "weight": null,
+                "anamnesis": "клинически здорово",
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/health-check/7b3ed5d2-af3e-42de-acb3-64a5b9ffce5f"
+                    },
+                    "healthCheckEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/health-check/7b3ed5d2-af3e-42de-acb3-64a5b9ffce5f"
+                    }
+                }
+            },
+            {
+                "animalId": "d69938cf-f22e-4592-bce7-6a767f71eebb",
+                "date": "2020-04-20T00:00:00.000+00:00",
+                "weight": null,
+                "anamnesis": "клинически здорово",
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/health-check/fc08a0c5-ad17-4dcf-8cc3-750a8ce16c55"
+                    },
+                    "healthCheckEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/health-check/fc08a0c5-ad17-4dcf-8cc3-750a8ce16c55"
+                    }
+                }
+            },
+            {
+                "animalId": "a8a5f9eb-db49-4627-9015-62a6c67729c1",
+                "date": "2020-05-27T00:00:00.000+00:00",
+                "weight": null,
+                "anamnesis": "клинически здорово",
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/health-check/b20d2e4b-648b-4de0-a7d1-dd6450d264ad"
+                    },
+                    "healthCheckEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/health-check/b20d2e4b-648b-4de0-a7d1-dd6450d264ad"
+                    }
+                }
+            },
+            {
+                "animalId": "c53907f1-54a2-4fdd-b3f0-e456ba251ae5",
+                "date": "2020-03-10T00:00:00.000+00:00",
+                "weight": null,
+                "anamnesis": "клинически здорово",
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/health-check/5cd20f36-ef6f-414a-91ec-a576d6bfe0f1"
+                    },
+                    "healthCheckEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/health-check/5cd20f36-ef6f-414a-91ec-a576d6bfe0f1"
+                    }
+                }
+            },
+            {
+                "animalId": "dfff0bb2-89c4-4dd9-8f5d-59f94f09f9df",
+                "date": "2020-03-10T00:00:00.000+00:00",
+                "weight": null,
+                "anamnesis": "клинически здорово",
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/health-check/8945f8c9-652e-4afb-9289-ab060c224f50"
+                    },
+                    "healthCheckEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/health-check/8945f8c9-652e-4afb-9289-ab060c224f50"
+                    }
+                }
+            },
+            {
+                "animalId": "120a7c23-5d13-4709-b328-6a3b10fa839d",
+                "date": "2020-03-10T00:00:00.000+00:00",
+                "weight": null,
+                "anamnesis": "клинически здорово",
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/health-check/a591d678-ae91-4409-bbc1-893ca18a9bd5"
+                    },
+                    "healthCheckEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/health-check/a591d678-ae91-4409-bbc1-893ca18a9bd5"
+                    }
+                }
+            },
+            {
+                "animalId": "7b9994c1-1335-4fcf-8588-68953cbba383",
+                "date": "2020-03-16T00:00:00.000+00:00",
+                "weight": null,
+                "anamnesis": "клинически здорово",
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/health-check/f69dc53a-4a64-40e6-97bf-a4dc1b33050a"
+                    },
+                    "healthCheckEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/health-check/f69dc53a-4a64-40e6-97bf-a4dc1b33050a"
+                    }
+                }
+            },
+            {
+                "animalId": "d4aea1cb-cf3d-4af8-b64a-59db2bd4bd6d",
+                "date": "2020-03-16T00:00:00.000+00:00",
+                "weight": null,
+                "anamnesis": "клинически здорово",
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/health-check/ff270ac5-f62c-42fa-9012-2330241ae22c"
+                    },
+                    "healthCheckEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/health-check/ff270ac5-f62c-42fa-9012-2330241ae22c"
+                    }
+                }
+            },
+            {
+                "animalId": "4fd231c1-4472-48d8-ad55-4565a2e3e7a9",
+                "date": "2020-06-17T00:00:00.000+00:00",
+                "weight": null,
+                "anamnesis": "клинически здорово",
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/health-check/c6e3a5d5-0232-4c95-8f4c-180409ddced8"
+                    },
+                    "healthCheckEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/health-check/c6e3a5d5-0232-4c95-8f4c-180409ddced8"
+                    }
+                }
+            },
+            {
+                "animalId": "24befeed-72d7-44fa-8c49-9b6dbf0ec14c",
+                "date": "2020-06-17T00:00:00.000+00:00",
+                "weight": null,
+                "anamnesis": "клинически здорово",
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/health-check/142272ae-799f-42b9-965a-2d6a0d6f2119"
+                    },
+                    "healthCheckEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/health-check/142272ae-799f-42b9-965a-2d6a0d6f2119"
+                    }
+                }
+            },
+            {
+                "animalId": "ab35e1a1-fa37-470a-ac1e-a0a213b497b5",
+                "date": "2020-06-17T00:00:00.000+00:00",
+                "weight": null,
+                "anamnesis": "клинически здорово",
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/health-check/a3536e8c-660a-4d52-98ff-d5d5423e0cd9"
+                    },
+                    "healthCheckEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/health-check/a3536e8c-660a-4d52-98ff-d5d5423e0cd9"
+                    }
+                }
+            },
+            {
+                "animalId": "d1e3f82f-cc21-4187-a93b-d50361dbea3f",
+                "date": "2020-06-25T00:00:00.000+00:00",
+                "weight": null,
+                "anamnesis": "клинически здорово",
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/health-check/2be33712-3031-4db8-a06d-4ad00d5d1e95"
+                    },
+                    "healthCheckEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/health-check/2be33712-3031-4db8-a06d-4ad00d5d1e95"
+                    }
+                }
+            },
+            {
+                "animalId": "48f82b34-f27f-4c9e-b708-13665a3c9167",
+                "date": "2020-07-03T00:00:00.000+00:00",
+                "weight": null,
+                "anamnesis": "клинически здорово",
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/health-check/941ad194-a769-41d3-b907-e0a63c5b7f3d"
+                    },
+                    "healthCheckEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/health-check/941ad194-a769-41d3-b907-e0a63c5b7f3d"
+                    }
+                }
+            },
+            {
+                "animalId": "c512ec6e-6ad9-4de4-8f51-a7228593bb41",
+                "date": "2020-01-02T00:00:00.000+00:00",
+                "weight": null,
+                "anamnesis": "клинически здорово",
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/health-check/e0d50fa1-6b5c-4202-b1c2-454c8cdb89f3"
+                    },
+                    "healthCheckEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/health-check/e0d50fa1-6b5c-4202-b1c2-454c8cdb89f3"
+                    }
+                }
+            },
+            {
+                "animalId": "16288f0b-0ab4-47bd-a3ab-3e8b1dbb9202",
+                "date": "2020-01-21T00:00:00.000+00:00",
+                "weight": null,
+                "anamnesis": "клинически здорово",
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/health-check/a7ad6c0c-5fa8-47a9-bbcc-686cbb1db3ed"
+                    },
+                    "healthCheckEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/health-check/a7ad6c0c-5fa8-47a9-bbcc-686cbb1db3ed"
+                    }
+                }
+            },
+            {
+                "animalId": "26a5ea6a-e595-4b4f-bfaa-b888d94ca0e8",
+                "date": "2020-02-07T00:00:00.000+00:00",
+                "weight": null,
+                "anamnesis": "клинически здорово",
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/health-check/6b9758f1-f2a8-417c-9c21-a3b003072004"
+                    },
+                    "healthCheckEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/health-check/6b9758f1-f2a8-417c-9c21-a3b003072004"
+                    }
+                }
+            },
+            {
+                "animalId": "5619e292-e10b-41ec-a818-18e00faf469b",
+                "date": "2020-03-21T00:00:00.000+00:00",
+                "weight": null,
+                "anamnesis": "клинически здорово",
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/health-check/b9ae0614-c487-4705-b414-8793c245d52d"
+                    },
+                    "healthCheckEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/health-check/b9ae0614-c487-4705-b414-8793c245d52d"
+                    }
+                }
+            },
+            {
+                "animalId": "1087fc2b-a7e6-42f8-b8e4-b52bcc9a20d0",
+                "date": "2020-05-29T00:00:00.000+00:00",
+                "weight": null,
+                "anamnesis": "клинически здорово",
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/health-check/a60e6bfe-3c98-4a45-94e8-ffcd4aa6829b"
+                    },
+                    "healthCheckEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/health-check/a60e6bfe-3c98-4a45-94e8-ffcd4aa6829b"
+                    }
+                }
+            },
+            {
+                "animalId": "9b59fe7c-f8c1-46f2-940f-5a5dd8dde64f",
+                "date": "2020-06-09T00:00:00.000+00:00",
+                "weight": null,
+                "anamnesis": "клинически здорово",
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/health-check/e8cd5488-1d24-4d96-bedb-5e6516de8687"
+                    },
+                    "healthCheckEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/health-check/e8cd5488-1d24-4d96-bedb-5e6516de8687"
+                    }
+                }
+            },
+            {
+                "animalId": "0665efcc-660a-4a34-b08c-a1f9d9dd51d0",
+                "date": "2020-07-29T00:00:00.000+00:00",
+                "weight": null,
+                "anamnesis": "клинически здорово",
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/health-check/e53796ca-04bc-4ead-a275-a4f7d618dbb6"
+                    },
+                    "healthCheckEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/health-check/e53796ca-04bc-4ead-a275-a4f7d618dbb6"
+                    }
+                }
+            },
+            {
+                "animalId": "c4e3b739-e505-43f0-9c75-bd3309ffedd3",
+                "date": "2020-03-10T00:00:00.000+00:00",
+                "weight": null,
+                "anamnesis": "н\\о печени    гепатоз",
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/health-check/5e4aac26-2999-4c65-869c-34dba947a035"
+                    },
+                    "healthCheckEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/health-check/5e4aac26-2999-4c65-869c-34dba947a035"
+                    }
+                }
+            },
+            {
+                "animalId": "9084495e-bdec-4a7d-b8a9-8defdb74d81a",
+                "date": "2020-03-11T00:00:00.000+00:00",
+                "weight": null,
+                "anamnesis": "цистит",
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/health-check/5baf76b1-cad8-42d5-9d08-675f2f2a7c44"
+                    },
+                    "healthCheckEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/health-check/5baf76b1-cad8-42d5-9d08-675f2f2a7c44"
+                    }
+                }
+            },
+            {
+                "animalId": "fc6afc8b-a3ba-45e8-bd87-8d0897f86fe4",
+                "date": "2020-08-06T00:00:00.000+00:00",
+                "weight": null,
+                "anamnesis": "диарея, отсутствие аппетита",
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/health-check/94cb6011-da43-4a17-9802-6541039652ea"
+                    },
+                    "healthCheckEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/health-check/94cb6011-da43-4a17-9802-6541039652ea"
+                    }
+                }
+            },
+            {
+                "animalId": "cf2e2752-aab1-41d1-946a-a283270dc5b5",
+                "date": "2019-05-31T00:00:00.000+00:00",
+                "weight": null,
+                "anamnesis": "клинически здорово",
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/health-check/c456d0a9-f344-4f59-84bd-62223b35d859"
+                    },
+                    "healthCheckEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/health-check/c456d0a9-f344-4f59-84bd-62223b35d859"
+                    }
+                }
+            },
+            {
+                "animalId": "3ad173e0-c9ab-46c3-8e59-1221a4e9c3a9",
+                "date": "2019-10-23T00:00:00.000+00:00",
+                "weight": null,
+                "anamnesis": "клинически здорово",
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/health-check/866c170f-99a9-4bae-a5be-7caea1baf7b3"
+                    },
+                    "healthCheckEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/health-check/866c170f-99a9-4bae-a5be-7caea1baf7b3"
+                    }
+                }
+            },
+            {
+                "animalId": "90bc7bdb-9187-42ca-b814-c86037872473",
+                "date": "2019-10-23T00:00:00.000+00:00",
+                "weight": null,
+                "anamnesis": "клинически здорово",
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/health-check/ea31e7b8-cce4-4180-b94e-2f8387fc4ecd"
+                    },
+                    "healthCheckEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/health-check/ea31e7b8-cce4-4180-b94e-2f8387fc4ecd"
+                    }
+                }
+            },
+            {
+                "animalId": "16ba8c2f-8ec2-4ae4-9892-872537231b3a",
+                "date": "2019-12-11T00:00:00.000+00:00",
+                "weight": null,
+                "anamnesis": "клинически здорово",
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/health-check/1d2b031c-3ca2-49a9-9421-56cde09539f8"
+                    },
+                    "healthCheckEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/health-check/1d2b031c-3ca2-49a9-9421-56cde09539f8"
+                    }
+                }
+            },
+            {
+                "animalId": "973de68f-62ad-4eec-a611-abe89ec0f4cb",
+                "date": "2020-03-14T00:00:00.000+00:00",
+                "weight": null,
+                "anamnesis": "клинически здорово",
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/health-check/110996e7-635c-4441-8432-74d659a5db4c"
+                    },
+                    "healthCheckEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/health-check/110996e7-635c-4441-8432-74d659a5db4c"
+                    }
+                }
+            },
+            {
+                "animalId": "970c14d9-7b0e-491a-9bbe-8313e24d70fb",
+                "date": "2020-05-22T00:00:00.000+00:00",
+                "weight": null,
+                "anamnesis": "клинически здорово",
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/health-check/7452307c-a518-4cca-8c09-50ffca91e2d4"
+                    },
+                    "healthCheckEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/health-check/7452307c-a518-4cca-8c09-50ffca91e2d4"
+                    }
+                }
+            },
+            {
+                "animalId": "b5e666c5-cf59-4a3f-9026-8c6380eb8e45",
+                "date": "2020-06-24T00:00:00.000+00:00",
+                "weight": null,
+                "anamnesis": "клинически здорово",
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/health-check/f26cc233-980b-4504-9899-395ae5953fe8"
+                    },
+                    "healthCheckEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/health-check/f26cc233-980b-4504-9899-395ae5953fe8"
+                    }
+                }
+            },
+            {
+                "animalId": "b8fedbb9-f77c-4252-b2ca-8be10454428f",
+                "date": "2020-08-19T00:00:00.000+00:00",
+                "weight": null,
+                "anamnesis": "клинически здорово",
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/health-check/8e352dae-340b-493e-95f5-8e4c9fedc35f"
+                    },
+                    "healthCheckEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/health-check/8e352dae-340b-493e-95f5-8e4c9fedc35f"
+                    }
+                }
+            },
+            {
+                "animalId": "5dd30f94-754b-40f4-8daf-9e19ec5c0a0b",
+                "date": "2020-08-23T00:00:00.000+00:00",
+                "weight": null,
+                "anamnesis": "клинически здорово",
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/health-check/37bfdbb5-010b-4e4d-9a95-fb9e9b5e3d78"
+                    },
+                    "healthCheckEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/health-check/37bfdbb5-010b-4e4d-9a95-fb9e9b5e3d78"
+                    }
+                }
+            },
+            {
+                "animalId": "458e42f1-6ca3-4b86-84fc-8a7c05e5544e",
+                "date": "2020-08-27T00:00:00.000+00:00",
+                "weight": null,
+                "anamnesis": "клинически здорово",
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/health-check/87fa2025-0aae-475c-8188-6980341a31a1"
+                    },
+                    "healthCheckEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/health-check/87fa2025-0aae-475c-8188-6980341a31a1"
+                    }
+                }
+            },
+            {
+                "animalId": "76e9d3b0-3e85-457d-b5bc-c7f38b46026b",
+                "date": "2020-04-18T00:00:00.000+00:00",
+                "weight": null,
+                "anamnesis": "клинически здорово",
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/health-check/047332d3-8dd0-412b-9973-e20347106849"
+                    },
+                    "healthCheckEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/health-check/047332d3-8dd0-412b-9973-e20347106849"
+                    }
+                }
+            },
+            {
+                "animalId": "ec4d4b3a-4226-4c00-b64a-1e6c38006cca",
+                "date": "2020-06-13T00:00:00.000+00:00",
+                "weight": null,
+                "anamnesis": "клинически здорово",
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/health-check/0ffffa92-2026-407e-9475-ac3e11834c4c"
+                    },
+                    "healthCheckEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/health-check/0ffffa92-2026-407e-9475-ac3e11834c4c"
+                    }
+                }
+            },
+            {
+                "animalId": "118a21a5-1160-41f5-9b2c-e84914499601",
+                "date": "2020-06-13T00:00:00.000+00:00",
+                "weight": null,
+                "anamnesis": "клинически здорово",
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/health-check/516094ac-6d49-430c-b323-31f22152c019"
+                    },
+                    "healthCheckEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/health-check/516094ac-6d49-430c-b323-31f22152c019"
+                    }
+                }
+            },
+            {
+                "animalId": "12840edc-b67f-476e-be52-e91b3a775474",
+                "date": "2020-07-02T00:00:00.000+00:00",
+                "weight": null,
+                "anamnesis": "клинически здорово",
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/health-check/edbdf6aa-ab24-43c5-a101-2ab25d382cfe"
+                    },
+                    "healthCheckEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/health-check/edbdf6aa-ab24-43c5-a101-2ab25d382cfe"
+                    }
+                }
+            },
+            {
+                "animalId": "ebb8e67e-88c6-46c4-998b-816d8c9385aa",
+                "date": "2020-07-02T00:00:00.000+00:00",
+                "weight": null,
+                "anamnesis": "клинически здорово",
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/health-check/6bf168de-b66f-4973-84c8-bd4893f3b18a"
+                    },
+                    "healthCheckEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/health-check/6bf168de-b66f-4973-84c8-bd4893f3b18a"
+                    }
+                }
+            },
+            {
+                "animalId": "91b92f38-c2ac-4a5d-bec6-9e335e012014",
+                "date": null,
+                "weight": null,
+                "anamnesis": "клинически здорово",
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/health-check/4023c122-59eb-411c-94d7-f6d3f590cea8"
+                    },
+                    "healthCheckEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/health-check/4023c122-59eb-411c-94d7-f6d3f590cea8"
+                    }
+                }
+            },
+            {
+                "animalId": "3ef71330-235e-4b57-a9d0-802680fe9dfe",
+                "date": null,
+                "weight": null,
+                "anamnesis": "клинически здорово",
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/health-check/acbf9e03-7d67-4cee-b700-fd6781371d0e"
+                    },
+                    "healthCheckEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/health-check/acbf9e03-7d67-4cee-b700-fd6781371d0e"
+                    }
+                }
+            },
+            {
+                "animalId": "65f4250e-db9b-4a99-88eb-4368d57d1bb9",
+                "date": "2020-03-02T00:00:00.000+00:00",
+                "weight": null,
+                "anamnesis": "клинически здорово",
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/health-check/8c7c7f49-6c0b-4727-a608-934d4848d289"
+                    },
+                    "healthCheckEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/health-check/8c7c7f49-6c0b-4727-a608-934d4848d289"
+                    }
+                }
+            },
+            {
+                "animalId": "83294b25-51a4-4685-9e6c-10cd23d87d86",
+                "date": null,
+                "weight": null,
+                "anamnesis": "клинически здорово",
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/health-check/efc01d85-2de6-41a3-b330-f5eabd0b907f"
+                    },
+                    "healthCheckEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/health-check/efc01d85-2de6-41a3-b330-f5eabd0b907f"
+                    }
+                }
+            },
+            {
+                "animalId": "49437d97-7cb9-446d-9eb5-a8c11fe5a2c2",
+                "date": null,
+                "weight": null,
+                "anamnesis": "клинически здорово",
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/health-check/0afe23f7-d36a-4f11-8d42-a17fb6a10093"
+                    },
+                    "healthCheckEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/health-check/0afe23f7-d36a-4f11-8d42-a17fb6a10093"
+                    }
+                }
+            },
+            {
+                "animalId": "cccd1e78-7550-4eaf-be75-a03c7c6e534e",
+                "date": null,
+                "weight": null,
+                "anamnesis": "клинически здорово",
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/health-check/203dc182-a58b-43c7-98e7-f1546c11ef87"
+                    },
+                    "healthCheckEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/health-check/203dc182-a58b-43c7-98e7-f1546c11ef87"
+                    }
+                }
+            },
+            {
+                "animalId": "68e08acb-1121-49a5-bf92-eb550746decf",
+                "date": null,
+                "weight": null,
+                "anamnesis": "клинически здорово",
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/health-check/d0d3f135-91da-4609-a364-6707c4873f4f"
+                    },
+                    "healthCheckEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/health-check/d0d3f135-91da-4609-a364-6707c4873f4f"
+                    }
+                }
+            },
+            {
+                "animalId": "f7582cac-5d9f-4078-8918-744056f9d16a",
+                "date": null,
+                "weight": null,
+                "anamnesis": "клинически здорово",
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/health-check/de6170ac-bfeb-419a-bf3f-a250a8b145bf"
+                    },
+                    "healthCheckEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/health-check/de6170ac-bfeb-419a-bf3f-a250a8b145bf"
+                    }
+                }
+            },
+            {
+                "animalId": "6dde019f-4807-4d8a-a38b-9d45a56eefa8",
+                "date": null,
+                "weight": null,
+                "anamnesis": "клинически здорово",
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/health-check/6d7dc862-f257-4944-8811-d8000b2f47fc"
+                    },
+                    "healthCheckEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/health-check/6d7dc862-f257-4944-8811-d8000b2f47fc"
+                    }
+                }
+            },
+            {
+                "animalId": "52fff0d5-ef9f-49a6-b61e-2a072be0439b",
+                "date": "2020-09-17T00:00:00.000+00:00",
+                "weight": null,
+                "anamnesis": "клинически здорово",
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/health-check/18c9ae83-1f67-4d1f-bccc-3a6c57286365"
+                    },
+                    "healthCheckEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/health-check/18c9ae83-1f67-4d1f-bccc-3a6c57286365"
+                    }
+                }
+            },
+            {
+                "animalId": "33fdbc08-d13d-48da-9664-c5cf041d2fa2",
+                "date": "2019-12-16T00:00:00.000+00:00",
+                "weight": null,
+                "anamnesis": "рвота,диарея",
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/health-check/6c20c350-b4b7-457e-a771-0aac6966f7b2"
+                    },
+                    "healthCheckEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/health-check/6c20c350-b4b7-457e-a771-0aac6966f7b2"
+                    }
+                }
+            },
+            {
+                "animalId": "20a1ffe0-ddaa-4c6c-be79-c4c898ddbca1",
+                "date": "2019-09-03T00:00:00.000+00:00",
+                "weight": null,
+                "anamnesis": "пневмания",
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/health-check/48de571e-e188-451c-a952-885fead2ab0c"
+                    },
+                    "healthCheckEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/health-check/48de571e-e188-451c-a952-885fead2ab0c"
+                    }
+                }
+            },
+            {
+                "animalId": "a10d6ff9-f9d3-432f-93cb-1a3b7281f47d",
+                "date": "2019-05-12T00:00:00.000+00:00",
+                "weight": null,
+                "anamnesis": "дыхательная недостаточность",
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/health-check/1428f350-2b67-4e71-962a-93c88d5912e8"
+                    },
+                    "healthCheckEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/health-check/1428f350-2b67-4e71-962a-93c88d5912e8"
+                    }
+                }
+            },
+            {
+                "animalId": "d28fcee3-37bd-462f-97f0-a081dfae32a3",
+                "date": "2019-06-28T00:00:00.000+00:00",
+                "weight": null,
+                "anamnesis": "отсутствие аппетита,диарея",
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/health-check/e37267b3-f457-489f-a4f9-2554f4a9d62c"
+                    },
+                    "healthCheckEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/health-check/e37267b3-f457-489f-a4f9-2554f4a9d62c"
+                    }
+                }
+            },
+            {
+                "animalId": "43193d02-d882-47af-aa8a-68efb509c007",
+                "date": "2019-11-20T00:00:00.000+00:00",
+                "weight": null,
+                "anamnesis": "рвота,диарея",
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/health-check/b75fa2a2-dace-414a-a7fa-4e070b0c050d"
+                    },
+                    "healthCheckEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/health-check/b75fa2a2-dace-414a-a7fa-4e070b0c050d"
+                    }
+                }
+            },
+            {
+                "animalId": "e4926ff2-f5f2-4817-8d15-a18b9a06c1d9",
+                "date": "2020-04-20T00:00:00.000+00:00",
+                "weight": null,
+                "anamnesis": "клинически здорово",
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/health-check/d2fcdf33-fd27-4346-b928-facdb31bbfd3"
+                    },
+                    "healthCheckEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/health-check/d2fcdf33-fd27-4346-b928-facdb31bbfd3"
+                    }
+                }
+            },
+            {
+                "animalId": "fafabaf9-eadb-48fa-82ad-7c4f24a119a3",
+                "date": "2020-03-24T00:00:00.000+00:00",
+                "weight": null,
+                "anamnesis": "клинически здорово",
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/health-check/36d4b144-9313-4858-b9cf-b6545e3b311e"
+                    },
+                    "healthCheckEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/health-check/36d4b144-9313-4858-b9cf-b6545e3b311e"
+                    }
+                }
+            },
+            {
+                "animalId": "4a651f83-24da-4734-a3d4-88456645722e",
+                "date": "2020-09-14T00:00:00.000+00:00",
+                "weight": null,
+                "anamnesis": "клинически здорово",
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/health-check/94c0d2da-7f01-4984-8510-5b0a9f610d45"
+                    },
+                    "healthCheckEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/health-check/94c0d2da-7f01-4984-8510-5b0a9f610d45"
+                    }
+                }
+            },
+            {
+                "animalId": "ea446d04-a6ca-4d86-a3cd-d0afe4ef1175",
+                "date": "2020-04-16T00:00:00.000+00:00",
+                "weight": null,
+                "anamnesis": "одышка, отсутствие аппеттита, вялость",
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/health-check/8a16441a-b549-461d-8000-1d32a9b7af97"
+                    },
+                    "healthCheckEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/health-check/8a16441a-b549-461d-8000-1d32a9b7af97"
+                    }
+                }
+            },
+            {
+                "animalId": "b508ac15-6959-4ecc-98a9-0cab2ce82eff",
+                "date": "2020-06-28T00:00:00.000+00:00",
+                "weight": null,
+                "anamnesis": "одышка, состояние удовлетворительное",
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/health-check/45c2642a-4550-4868-8f68-6ec5af46d419"
+                    },
+                    "healthCheckEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/health-check/45c2642a-4550-4868-8f68-6ec5af46d419"
+                    }
+                }
+            },
+            {
+                "animalId": "6b6694f4-f0c9-4bb3-ae55-a7cbe87b18b1",
+                "date": "2020-09-29T00:00:00.000+00:00",
+                "weight": null,
+                "anamnesis": "клинически здорово",
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/health-check/22570e48-5d04-462e-8c15-5af3fa00e2c8"
+                    },
+                    "healthCheckEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/health-check/22570e48-5d04-462e-8c15-5af3fa00e2c8"
+                    }
+                }
+            },
+            {
+                "animalId": "0c1a116f-dc9e-4a04-a639-1de3933fb40a",
+                "date": "2020-09-29T00:00:00.000+00:00",
+                "weight": null,
+                "anamnesis": "клинически здорово",
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/health-check/8c33ea49-9662-456d-a522-edc78da9616a"
+                    },
+                    "healthCheckEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/health-check/8c33ea49-9662-456d-a522-edc78da9616a"
+                    }
+                }
+            },
+            {
+                "animalId": "02cf1811-efcb-499a-8a63-686fdf0869e0",
+                "date": "2020-09-29T00:00:00.000+00:00",
+                "weight": null,
+                "anamnesis": "клинически здорово",
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/health-check/90b895f7-1fd7-40a5-b416-b8029adf5dfb"
+                    },
+                    "healthCheckEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/health-check/90b895f7-1fd7-40a5-b416-b8029adf5dfb"
+                    }
+                }
+            },
+            {
+                "animalId": "eeb9ad76-da95-41f8-8cc2-99a8d930c05a",
+                "date": "2020-09-29T00:00:00.000+00:00",
+                "weight": null,
+                "anamnesis": "клинически здорово",
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/health-check/41331210-152c-4905-a546-622b1c21f478"
+                    },
+                    "healthCheckEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/health-check/41331210-152c-4905-a546-622b1c21f478"
+                    }
+                }
+            },
+            {
+                "animalId": "bb35a16e-b342-4b79-ad24-1c30c3ac3cee",
+                "date": "2020-09-29T00:00:00.000+00:00",
+                "weight": null,
+                "anamnesis": "клинически здорово",
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/health-check/81380496-c773-49d5-bd0c-cd25647686ce"
+                    },
+                    "healthCheckEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/health-check/81380496-c773-49d5-bd0c-cd25647686ce"
+                    }
+                }
+            },
+            {
+                "animalId": "96d5b111-c192-48c0-aab0-7966047f3e96",
+                "date": "2020-08-11T00:00:00.000+00:00",
+                "weight": null,
+                "anamnesis": "клинически здорово",
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/health-check/551a0924-eecc-4848-a1ac-a94737a17511"
+                    },
+                    "healthCheckEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/health-check/551a0924-eecc-4848-a1ac-a94737a17511"
+                    }
+                }
+            },
+            {
+                "animalId": "a8a73144-cb10-49fb-93f3-df3ac2979859",
+                "date": "2020-08-18T00:00:00.000+00:00",
+                "weight": null,
+                "anamnesis": "клинически здорово",
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/health-check/6287124a-1a70-410e-b6fb-e2567b3408e0"
+                    },
+                    "healthCheckEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/health-check/6287124a-1a70-410e-b6fb-e2567b3408e0"
+                    }
+                }
+            },
+            {
+                "animalId": "74784cfc-4d39-4e80-a9a7-841ae5544851",
+                "date": "2020-03-03T00:00:00.000+00:00",
+                "weight": null,
+                "anamnesis": "иммунодфицит без клинических проявлений",
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/health-check/2d0fc54a-5976-44e8-ae27-7cd2a28fcdc6"
+                    },
+                    "healthCheckEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/health-check/2d0fc54a-5976-44e8-ae27-7cd2a28fcdc6"
+                    }
+                }
+            },
+            {
+                "animalId": "9847880d-b080-4018-aec1-1ee51deed060",
+                "date": "2020-09-23T00:00:00.000+00:00",
+                "weight": null,
+                "anamnesis": "лейкоз",
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/health-check/e5636648-8e8d-4c16-9310-110eaf207e19"
+                    },
+                    "healthCheckEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/health-check/e5636648-8e8d-4c16-9310-110eaf207e19"
+                    }
+                }
+            },
+            {
+                "animalId": "49f403f0-f22f-4e94-865b-4bf9ab884da9",
+                "date": "2020-09-23T00:00:00.000+00:00",
+                "weight": null,
+                "anamnesis": "лейкоз",
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/health-check/bc901023-9651-4563-a023-ec5ceef8b663"
+                    },
+                    "healthCheckEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/health-check/bc901023-9651-4563-a023-ec5ceef8b663"
+                    }
+                }
+            },
+            {
+                "animalId": "c6257d8a-6c23-4ff9-8b76-f62c8d444cd8",
+                "date": "2020-09-29T00:00:00.000+00:00",
+                "weight": null,
+                "anamnesis": "клинически здорово",
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/health-check/ba5ef373-9fdb-4604-8ce0-e3bb66aa06b2"
+                    },
+                    "healthCheckEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/health-check/ba5ef373-9fdb-4604-8ce0-e3bb66aa06b2"
+                    }
+                }
+            },
+            {
+                "animalId": "b4a42ced-3649-4c4f-91d0-c5869cf5ce91",
+                "date": "2020-09-29T00:00:00.000+00:00",
+                "weight": null,
+                "anamnesis": "клинически здорово",
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/health-check/3a1a08a5-62d1-44af-ac4e-c543a1893e07"
+                    },
+                    "healthCheckEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/health-check/3a1a08a5-62d1-44af-ac4e-c543a1893e07"
+                    }
+                }
+            },
+            {
+                "animalId": "c16e3c3c-0abc-4c0d-a299-376fc5bf3059",
+                "date": "2020-09-29T00:00:00.000+00:00",
+                "weight": null,
+                "anamnesis": "клинически здорово",
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/health-check/d84e99c6-e63c-40a0-93a1-ecf9bf1218d4"
+                    },
+                    "healthCheckEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/health-check/d84e99c6-e63c-40a0-93a1-ecf9bf1218d4"
+                    }
+                }
+            },
+            {
+                "animalId": "233d5aeb-7f1d-4d20-8c31-81487a9e1440",
+                "date": "2020-09-29T00:00:00.000+00:00",
+                "weight": null,
+                "anamnesis": "клинически здорово",
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/health-check/4a2c317d-331a-43a0-9a89-118155707c8e"
+                    },
+                    "healthCheckEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/health-check/4a2c317d-331a-43a0-9a89-118155707c8e"
+                    }
+                }
+            },
+            {
+                "animalId": "e2f46f3d-3f87-4e70-a3af-deca41aec0eb",
+                "date": "2020-09-29T00:00:00.000+00:00",
+                "weight": null,
+                "anamnesis": "клинически здорово",
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/health-check/fd908540-53ef-4ec7-b00b-7ffa3d76a6e8"
+                    },
+                    "healthCheckEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/health-check/fd908540-53ef-4ec7-b00b-7ffa3d76a6e8"
+                    }
+                }
+            },
+            {
+                "animalId": "39780a08-db1f-480e-a632-1ca6bb637ed1",
+                "date": "2020-09-23T00:00:00.000+00:00",
+                "weight": null,
+                "anamnesis": "клинически здорово",
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/health-check/8f075b75-18e6-4f4b-93a2-25cd7a447fb5"
+                    },
+                    "healthCheckEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/health-check/8f075b75-18e6-4f4b-93a2-25cd7a447fb5"
+                    }
+                }
+            },
+            {
+                "animalId": "19db4df2-ac3f-4c8b-bcc6-bc95eba6a81b",
+                "date": "2020-09-23T00:00:00.000+00:00",
+                "weight": null,
+                "anamnesis": "клинически здорово",
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/health-check/f1ce7c0d-7c5d-4d41-bd72-5c51b6cee72c"
+                    },
+                    "healthCheckEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/health-check/f1ce7c0d-7c5d-4d41-bd72-5c51b6cee72c"
+                    }
+                }
+            },
+            {
+                "animalId": "34d418bd-d915-4955-8fb1-e7e8f8698567",
+                "date": "2020-09-23T00:00:00.000+00:00",
+                "weight": null,
+                "anamnesis": "клинически здорово",
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/health-check/321ce30f-9557-47ae-b08c-f1b6b605f6df"
+                    },
+                    "healthCheckEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/health-check/321ce30f-9557-47ae-b08c-f1b6b605f6df"
+                    }
+                }
+            },
+            {
+                "animalId": "f8b30a8b-c6c6-4022-a6f4-3033ec329955",
+                "date": "2020-09-23T00:00:00.000+00:00",
+                "weight": null,
+                "anamnesis": "клинически здорово",
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/health-check/8aec9b8f-2be5-4c49-93ad-c587917bd40f"
+                    },
+                    "healthCheckEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/health-check/8aec9b8f-2be5-4c49-93ad-c587917bd40f"
+                    }
+                }
+            },
+            {
+                "animalId": "33be41e2-ac5d-4578-9cde-2e3201db1d43",
+                "date": "2020-09-23T00:00:00.000+00:00",
+                "weight": null,
+                "anamnesis": "клинически здорово",
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/health-check/74ac3cf5-fab3-4120-af5b-13d5710b491f"
+                    },
+                    "healthCheckEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/health-check/74ac3cf5-fab3-4120-af5b-13d5710b491f"
+                    }
+                }
+            },
+            {
+                "animalId": "5f9efc03-43ef-4cf0-8911-bfc4ee716d7d",
+                "date": "2020-09-23T00:00:00.000+00:00",
+                "weight": null,
+                "anamnesis": "клинически здорово",
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/health-check/728c8178-4148-4da9-9da6-267fc962189a"
+                    },
+                    "healthCheckEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/health-check/728c8178-4148-4da9-9da6-267fc962189a"
+                    }
+                }
+            },
+            {
+                "animalId": "e6bad5a8-291b-4e59-abde-ef108a28d8c6",
+                "date": "2020-09-23T00:00:00.000+00:00",
+                "weight": null,
+                "anamnesis": "клинически здорово",
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/health-check/3b4795fe-e112-4f94-ac77-0fc903e8c53a"
+                    },
+                    "healthCheckEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/health-check/3b4795fe-e112-4f94-ac77-0fc903e8c53a"
+                    }
+                }
+            },
+            {
+                "animalId": "0a2759b3-76d5-48fb-aa8f-09991b299bdb",
+                "date": "2020-03-14T00:00:00.000+00:00",
+                "weight": null,
+                "anamnesis": "клинически здорово",
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/health-check/4489c077-b06e-4430-93ca-ef7ec0179bfd"
+                    },
+                    "healthCheckEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/health-check/4489c077-b06e-4430-93ca-ef7ec0179bfd"
+                    }
+                }
+            },
+            {
+                "animalId": "a2f67a94-02b4-4b91-807f-03eeb36e29fd",
+                "date": "2020-03-14T00:00:00.000+00:00",
+                "weight": null,
+                "anamnesis": "клинически здорово",
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/health-check/ba374cae-da8c-4b5d-98eb-ecc0f507c40f"
+                    },
+                    "healthCheckEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/health-check/ba374cae-da8c-4b5d-98eb-ecc0f507c40f"
+                    }
+                }
+            },
+            {
+                "animalId": "7d5d773b-49a9-419c-b871-007d408b1cf2",
+                "date": "2020-03-14T00:00:00.000+00:00",
+                "weight": null,
+                "anamnesis": "клинически здорово",
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/health-check/4fd6d075-7a9b-4920-9e07-4bcd52598390"
+                    },
+                    "healthCheckEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/health-check/4fd6d075-7a9b-4920-9e07-4bcd52598390"
+                    }
+                }
+            },
+            {
+                "animalId": "726fc1d8-e857-43dd-866a-d3b359932471",
+                "date": "2020-02-19T00:00:00.000+00:00",
+                "weight": null,
+                "anamnesis": "клинически здорово",
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/health-check/a1a4f2b5-0100-4b1e-a6fd-5ac3cc2df9f2"
+                    },
+                    "healthCheckEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/health-check/a1a4f2b5-0100-4b1e-a6fd-5ac3cc2df9f2"
+                    }
+                }
+            },
+            {
+                "animalId": "84923215-beff-47ac-ab22-341a07e93b45",
+                "date": "2020-02-29T00:00:00.000+00:00",
+                "weight": null,
+                "anamnesis": "клинически здорово",
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/health-check/b2f6cf0d-7037-47da-bad9-2d709d53581d"
+                    },
+                    "healthCheckEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/health-check/b2f6cf0d-7037-47da-bad9-2d709d53581d"
+                    }
+                }
+            },
+            {
+                "animalId": "88897332-fef1-4b62-9be8-273f74943214",
+                "date": "2020-03-07T00:00:00.000+00:00",
+                "weight": null,
+                "anamnesis": "клинически здорово",
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/health-check/99d06083-5e86-41fb-acbd-cc5e8e1cf8c9"
+                    },
+                    "healthCheckEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/health-check/99d06083-5e86-41fb-acbd-cc5e8e1cf8c9"
+                    }
+                }
+            },
+            {
+                "animalId": "8f5e95ec-0475-449c-a310-3858efbf49c2",
+                "date": "2020-06-16T00:00:00.000+00:00",
+                "weight": null,
+                "anamnesis": "клинически здорово",
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/health-check/ff2d38e1-2950-4b90-899e-d16981e155a9"
+                    },
+                    "healthCheckEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/health-check/ff2d38e1-2950-4b90-899e-d16981e155a9"
+                    }
+                }
+            },
+            {
+                "animalId": "fd19a581-bfd4-45e9-9ff7-16bd7ec7ab3b",
+                "date": "2018-06-07T00:00:00.000+00:00",
+                "weight": null,
+                "anamnesis": "клинически здорово",
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/health-check/5a251cf7-ceb1-4dd6-8da1-a6c24ddd692d"
+                    },
+                    "healthCheckEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/health-check/5a251cf7-ceb1-4dd6-8da1-a6c24ddd692d"
+                    }
+                }
+            },
+            {
+                "animalId": "e372a4b2-0327-45cf-9a0d-13461f2d762b",
+                "date": "2018-07-01T00:00:00.000+00:00",
+                "weight": null,
+                "anamnesis": "клинически здорово",
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/health-check/b57dbcb6-8c1b-44df-8f79-df622ac5c555"
+                    },
+                    "healthCheckEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/health-check/b57dbcb6-8c1b-44df-8f79-df622ac5c555"
+                    }
+                }
+            },
+            {
+                "animalId": "5e2e37ac-6355-4019-b5d5-6bae1debac76",
+                "date": "2020-02-02T00:00:00.000+00:00",
+                "weight": null,
+                "anamnesis": "клинически здорово",
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/health-check/0c3fe839-645b-487e-b8e9-583bb030d48a"
+                    },
+                    "healthCheckEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/health-check/0c3fe839-645b-487e-b8e9-583bb030d48a"
+                    }
+                }
+            },
+            {
+                "animalId": "b7f90d84-e112-4f00-862d-207fd694fd68",
+                "date": "2018-12-06T00:00:00.000+00:00",
+                "weight": null,
+                "anamnesis": "клинически здорово",
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/health-check/4a274d5a-21b4-4085-ba49-3f46de400d09"
+                    },
+                    "healthCheckEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/health-check/4a274d5a-21b4-4085-ba49-3f46de400d09"
+                    }
+                }
+            },
+            {
+                "animalId": "42c6c4d1-0464-4bde-98d6-86152b836ced",
+                "date": "2019-10-02T00:00:00.000+00:00",
+                "weight": null,
+                "anamnesis": "клинически здорово",
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/health-check/b52c0e91-5184-49e3-bd5c-38ac0223b0a8"
+                    },
+                    "healthCheckEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/health-check/b52c0e91-5184-49e3-bd5c-38ac0223b0a8"
+                    }
+                }
+            },
+            {
+                "animalId": "6a61df43-2e22-45d9-9119-d43dff74c004",
+                "date": "2020-07-26T00:00:00.000+00:00",
+                "weight": null,
+                "anamnesis": "клинически здорово",
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/health-check/4b43d259-0b94-4f55-8119-f04529445977"
+                    },
+                    "healthCheckEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/health-check/4b43d259-0b94-4f55-8119-f04529445977"
+                    }
+                }
+            },
+            {
+                "animalId": "fc297da2-c7fa-46e6-893a-fc3c28182780",
+                "date": "2020-06-29T00:00:00.000+00:00",
+                "weight": null,
+                "anamnesis": "клинически здорово",
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/health-check/dbdeea19-38a1-4e67-b0cf-87291ae50a13"
+                    },
+                    "healthCheckEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/health-check/dbdeea19-38a1-4e67-b0cf-87291ae50a13"
+                    }
+                }
+            },
+            {
+                "animalId": "4815c397-9879-4b76-a543-5deec16077cc",
+                "date": "2020-08-03T00:00:00.000+00:00",
+                "weight": null,
+                "anamnesis": "клинически здорово",
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/health-check/9b5a5cf2-a9b9-47e4-8e48-8c82c626a494"
+                    },
+                    "healthCheckEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/health-check/9b5a5cf2-a9b9-47e4-8e48-8c82c626a494"
+                    }
+                }
+            },
+            {
+                "animalId": "74a3613d-687d-415c-be6e-84e8efd284c7",
+                "date": "2020-08-03T00:00:00.000+00:00",
+                "weight": null,
+                "anamnesis": "клинически здорово",
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/health-check/54571f13-7cf3-4122-9e50-aac1f86ae08c"
+                    },
+                    "healthCheckEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/health-check/54571f13-7cf3-4122-9e50-aac1f86ae08c"
+                    }
+                }
+            },
+            {
+                "animalId": "a2488bae-fd41-4a2f-a6db-965ab227912b",
+                "date": "2020-08-03T00:00:00.000+00:00",
+                "weight": null,
+                "anamnesis": "клинически здорово",
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/health-check/0ff25db5-ad66-421e-b4e8-2c82b7a931a9"
+                    },
+                    "healthCheckEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/health-check/0ff25db5-ad66-421e-b4e8-2c82b7a931a9"
+                    }
+                }
+            },
+            {
+                "animalId": "3d5daa85-0866-4a14-9b9b-97d5e63d2252",
+                "date": "2020-06-08T00:00:00.000+00:00",
+                "weight": null,
+                "anamnesis": "клинически здорово",
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/health-check/29c399a1-5a66-4c18-ade6-648a2e88241e"
+                    },
+                    "healthCheckEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/health-check/29c399a1-5a66-4c18-ade6-648a2e88241e"
+                    }
+                }
+            },
+            {
+                "animalId": "d19af010-49cf-4591-ba65-e950107144b7",
+                "date": "2020-09-21T00:00:00.000+00:00",
+                "weight": null,
+                "anamnesis": "клинически здорово",
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/health-check/d197cfa3-1d48-42be-bc6c-631b0474b207"
+                    },
+                    "healthCheckEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/health-check/d197cfa3-1d48-42be-bc6c-631b0474b207"
+                    }
+                }
+            },
+            {
+                "animalId": "6b6a8afb-6973-4c38-8f2e-1ca3a85cc13d",
+                "date": "2020-09-21T00:00:00.000+00:00",
+                "weight": null,
+                "anamnesis": "клинически здорово",
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/health-check/20f6892d-0eea-4648-a0b6-650322349c50"
+                    },
+                    "healthCheckEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/health-check/20f6892d-0eea-4648-a0b6-650322349c50"
+                    }
+                }
+            },
+            {
+                "animalId": "e0ce65a7-e9e3-4b94-9d7c-05bb8db9dd45",
+                "date": "2020-09-21T00:00:00.000+00:00",
+                "weight": null,
+                "anamnesis": "клинически здорово",
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/health-check/882aef01-3219-4f6e-8703-cfc4882922dd"
+                    },
+                    "healthCheckEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/health-check/882aef01-3219-4f6e-8703-cfc4882922dd"
+                    }
+                }
+            },
+            {
+                "animalId": "01fb82d5-eab2-4bc3-94af-be7ee2bdd3af",
+                "date": "2020-09-21T00:00:00.000+00:00",
+                "weight": null,
+                "anamnesis": "клинически здорово",
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/health-check/c0662496-aac4-4621-aa8e-3f722daf4599"
+                    },
+                    "healthCheckEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/health-check/c0662496-aac4-4621-aa8e-3f722daf4599"
+                    }
+                }
+            },
+            {
+                "animalId": "fbfb9bb9-44da-44ff-9633-01f0b245b12f",
+                "date": "2020-09-21T00:00:00.000+00:00",
+                "weight": null,
+                "anamnesis": "клинически здорово",
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/health-check/14b3cab2-69da-4ca8-9eb6-2b478679942f"
+                    },
+                    "healthCheckEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/health-check/14b3cab2-69da-4ca8-9eb6-2b478679942f"
+                    }
+                }
+            },
+            {
+                "animalId": "54711c9f-0ed9-4593-b30e-95054670de55",
+                "date": "2020-09-01T00:00:00.000+00:00",
+                "weight": null,
+                "anamnesis": "клинически здорово",
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/health-check/db7ebd68-a5e6-4127-b87c-81f05c86144d"
+                    },
+                    "healthCheckEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/health-check/db7ebd68-a5e6-4127-b87c-81f05c86144d"
+                    }
+                }
+            },
+            {
+                "animalId": "244e062e-b0b0-4add-812e-1cc2e7c27e8f",
+                "date": "2020-09-01T00:00:00.000+00:00",
+                "weight": null,
+                "anamnesis": "клинически здорово",
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/health-check/9ba196fd-296f-46ec-8934-5f3e6b18992c"
+                    },
+                    "healthCheckEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/health-check/9ba196fd-296f-46ec-8934-5f3e6b18992c"
+                    }
+                }
+            },
+            {
+                "animalId": "fad5157e-c05b-4cef-953e-602521a12ec8",
+                "date": "2020-09-01T00:00:00.000+00:00",
+                "weight": null,
+                "anamnesis": "клинически здорово",
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/health-check/c9cd08c8-1bc4-4620-bc63-6438425df896"
+                    },
+                    "healthCheckEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/health-check/c9cd08c8-1bc4-4620-bc63-6438425df896"
+                    }
+                }
+            },
+            {
+                "animalId": "d20a8032-dd9f-4ee5-8373-1602bce9c3f5",
+                "date": "2020-09-01T00:00:00.000+00:00",
+                "weight": null,
+                "anamnesis": "клинически здорово",
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/health-check/d837f7d5-47e4-44d9-a264-1ab953a8d08f"
+                    },
+                    "healthCheckEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/health-check/d837f7d5-47e4-44d9-a264-1ab953a8d08f"
+                    }
+                }
+            },
+            {
+                "animalId": "f26d5da5-54e8-43d7-90f8-a54a7c1e0311",
+                "date": "2020-09-01T00:00:00.000+00:00",
+                "weight": null,
+                "anamnesis": "клинически здорово",
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/health-check/db2ed963-1804-4a11-8675-9cd165922382"
+                    },
+                    "healthCheckEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/health-check/db2ed963-1804-4a11-8675-9cd165922382"
+                    }
+                }
+            },
+            {
+                "animalId": "30e15cbf-0a22-4fe2-84c1-a1921709a059",
+                "date": "2020-09-01T00:00:00.000+00:00",
+                "weight": null,
+                "anamnesis": "клинически здорово",
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/health-check/2be73af1-7860-481d-9459-cf79c44f4f91"
+                    },
+                    "healthCheckEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/health-check/2be73af1-7860-481d-9459-cf79c44f4f91"
+                    }
+                }
+            },
+            {
+                "animalId": "7a917d5d-d3d0-4b3d-8e1e-48d3beb033af",
+                "date": "2020-09-01T00:00:00.000+00:00",
+                "weight": null,
+                "anamnesis": "клинически здорово",
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/health-check/4e41ec66-052c-4883-be9f-b4cbe10e14cd"
+                    },
+                    "healthCheckEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/health-check/4e41ec66-052c-4883-be9f-b4cbe10e14cd"
+                    }
+                }
+            },
+            {
+                "animalId": "c00796a9-d415-4f1e-ba38-273058e0c4ad",
+                "date": "2020-09-01T00:00:00.000+00:00",
+                "weight": null,
+                "anamnesis": "клинически здорово",
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/health-check/2f6330f9-e3b5-4988-ad4b-f5d40d941cfb"
+                    },
+                    "healthCheckEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/health-check/2f6330f9-e3b5-4988-ad4b-f5d40d941cfb"
+                    }
+                }
+            },
+            {
+                "animalId": "58ff24a2-fb3a-4d44-a0a6-d3ca188461d2",
+                "date": "2020-09-01T00:00:00.000+00:00",
+                "weight": null,
+                "anamnesis": "клинически здорово",
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/health-check/a9298a11-2212-4bb9-a08d-3cd6436d4bee"
+                    },
+                    "healthCheckEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/health-check/a9298a11-2212-4bb9-a08d-3cd6436d4bee"
+                    }
+                }
+            },
+            {
+                "animalId": "43ca80a7-2b94-497b-97dd-66d0e4dc1d50",
+                "date": "2020-09-01T00:00:00.000+00:00",
+                "weight": null,
+                "anamnesis": "клинически здорово",
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/health-check/9bb8a7da-fa2b-458c-887b-c6ebcf02723b"
+                    },
+                    "healthCheckEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/health-check/9bb8a7da-fa2b-458c-887b-c6ebcf02723b"
+                    }
+                }
+            },
+            {
+                "animalId": "0fa956fc-0a0f-4881-8cea-05122c387714",
+                "date": "2020-05-10T00:00:00.000+00:00",
+                "weight": null,
+                "anamnesis": "клинически здорово",
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/health-check/2b50b70f-848d-4ddc-a16d-a7df5be5e8ff"
+                    },
+                    "healthCheckEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/health-check/2b50b70f-848d-4ddc-a16d-a7df5be5e8ff"
+                    }
+                }
+            },
+            {
+                "animalId": "219fbe12-7c71-4ff3-8e73-19f5fe0b2311",
+                "date": null,
+                "weight": null,
+                "anamnesis": "клинически здорово",
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/health-check/4fb6571f-777d-4893-a998-e2e84111cbd1"
+                    },
+                    "healthCheckEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/health-check/4fb6571f-777d-4893-a998-e2e84111cbd1"
+                    }
+                }
+            },
+            {
+                "animalId": "3115b7dd-6dbc-4861-a777-7f530da739c9",
+                "date": null,
+                "weight": null,
+                "anamnesis": "клинически здорово",
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/health-check/fc3b0c99-ba2a-46f2-811a-4200b4840934"
+                    },
+                    "healthCheckEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/health-check/fc3b0c99-ba2a-46f2-811a-4200b4840934"
+                    }
+                }
+            },
+            {
+                "animalId": "474d49f9-1927-4ef6-b7a9-5ccb4fa27b9e",
+                "date": null,
+                "weight": null,
+                "anamnesis": "клинически здорово",
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/health-check/8c3c57bc-bc2a-4580-84c0-16850d36d0c3"
+                    },
+                    "healthCheckEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/health-check/8c3c57bc-bc2a-4580-84c0-16850d36d0c3"
+                    }
+                }
+            },
+            {
+                "animalId": "72184087-441e-49c5-bc7a-e0fb8e4fbcdf",
+                "date": "2020-07-20T00:00:00.000+00:00",
+                "weight": null,
+                "anamnesis": "клинически здорово",
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/health-check/ea13bec1-d228-4d29-b027-b28f88bf5395"
+                    },
+                    "healthCheckEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/health-check/ea13bec1-d228-4d29-b027-b28f88bf5395"
+                    }
+                }
+            },
+            {
+                "animalId": "ee6406cc-010c-462f-a441-2d4f2679db3e",
+                "date": "2020-07-20T00:00:00.000+00:00",
+                "weight": null,
+                "anamnesis": "клинически здорово",
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/health-check/531c4d58-992d-4ba6-94a5-561105327e54"
+                    },
+                    "healthCheckEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/health-check/531c4d58-992d-4ba6-94a5-561105327e54"
+                    }
+                }
+            },
+            {
+                "animalId": "e6d1a76b-f42c-4aab-8721-b3f68c0bcc74",
+                "date": "2020-06-16T00:00:00.000+00:00",
+                "weight": null,
+                "anamnesis": "клинически здорово",
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/health-check/92a8aa84-1201-4588-9a1d-eeb131216ff9"
+                    },
+                    "healthCheckEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/health-check/92a8aa84-1201-4588-9a1d-eeb131216ff9"
+                    }
+                }
+            },
+            {
+                "animalId": "b223b239-74df-4dfa-a120-abc8bb6b36f6",
+                "date": null,
+                "weight": null,
+                "anamnesis": "клинически здорово",
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/health-check/b82108be-b893-4547-b1ed-d6391a5bf731"
+                    },
+                    "healthCheckEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/health-check/b82108be-b893-4547-b1ed-d6391a5bf731"
+                    }
+                }
+            },
+            {
+                "animalId": "1d5ca2a9-0dda-4b69-9f65-8a28c16702a9",
+                "date": "2020-07-01T00:00:00.000+00:00",
+                "weight": null,
+                "anamnesis": "клинически здорово",
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/health-check/6bde36df-cdda-4d71-a64c-9b51a3c09de3"
+                    },
+                    "healthCheckEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/health-check/6bde36df-cdda-4d71-a64c-9b51a3c09de3"
+                    }
+                }
+            },
+            {
+                "animalId": "9a078b8f-77fd-416b-af32-41af25503320",
+                "date": "2020-04-30T00:00:00.000+00:00",
+                "weight": null,
+                "anamnesis": "печеночная недостаточность",
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/health-check/cff5c07e-07f5-4839-93dd-41713247e36e"
+                    },
+                    "healthCheckEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/health-check/cff5c07e-07f5-4839-93dd-41713247e36e"
+                    }
+                }
+            },
+            {
+                "animalId": "6f269152-754e-42d6-ae63-2125be68fdb4",
+                "date": "2020-08-19T00:00:00.000+00:00",
+                "weight": null,
+                "anamnesis": "клинически здорово",
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/health-check/aef839bb-2402-4eb4-bc76-f152b0a1d415"
+                    },
+                    "healthCheckEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/health-check/aef839bb-2402-4eb4-bc76-f152b0a1d415"
+                    }
+                }
+            },
+            {
+                "animalId": "f68b627f-0d20-45ad-a46d-f489382cc6ff",
+                "date": "2020-08-15T00:00:00.000+00:00",
+                "weight": null,
+                "anamnesis": "клинически здорово",
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/health-check/cac15a86-ef11-43f3-a63c-94cb9f3c673f"
+                    },
+                    "healthCheckEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/health-check/cac15a86-ef11-43f3-a63c-94cb9f3c673f"
+                    }
+                }
+            },
+            {
+                "animalId": "9640e7c3-b758-4516-aa03-b6295b8940e5",
+                "date": null,
+                "weight": null,
+                "anamnesis": "клинически здорово",
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/health-check/5b72917e-ea7f-4b8f-aac4-93d25ff049cd"
+                    },
+                    "healthCheckEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/health-check/5b72917e-ea7f-4b8f-aac4-93d25ff049cd"
+                    }
+                }
+            },
+            {
+                "animalId": "7e9b7d33-92c1-4005-b0ed-53936e6b2a5b",
+                "date": null,
+                "weight": null,
+                "anamnesis": "клинически здорово",
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/health-check/f5fb41a7-07d7-4d5b-b3f0-c4057a12460e"
+                    },
+                    "healthCheckEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/health-check/f5fb41a7-07d7-4d5b-b3f0-c4057a12460e"
+                    }
+                }
+            },
+            {
+                "animalId": "2f5a4911-79e9-47c4-8e79-42b8a60bfcef",
+                "date": null,
+                "weight": null,
+                "anamnesis": "клинически здорово",
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/health-check/8e4a3770-62ee-43f4-9600-c62335456e3d"
+                    },
+                    "healthCheckEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/health-check/8e4a3770-62ee-43f4-9600-c62335456e3d"
+                    }
+                }
+            },
+            {
+                "animalId": "3c5fb48e-619d-45a3-b0b5-9ecc5e716351",
+                "date": "2020-08-05T00:00:00.000+00:00",
+                "weight": null,
+                "anamnesis": "клинически здорово",
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/health-check/2a522c9f-8580-4f07-bcb1-252cddd98191"
+                    },
+                    "healthCheckEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/health-check/2a522c9f-8580-4f07-bcb1-252cddd98191"
+                    }
+                }
+            },
+            {
+                "animalId": "99721536-b7e0-4fb5-9dd8-0c2184952e73",
+                "date": "2020-09-26T00:00:00.000+00:00",
+                "weight": null,
+                "anamnesis": "клинически здорово",
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/health-check/a271f31d-124a-4816-8064-b2838d8d64a3"
+                    },
+                    "healthCheckEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/health-check/a271f31d-124a-4816-8064-b2838d8d64a3"
+                    }
+                }
+            },
+            {
+                "animalId": "c3be03f2-59be-49b8-97aa-4b013ce27f72",
+                "date": "2020-04-20T00:00:00.000+00:00",
+                "weight": null,
+                "anamnesis": "клинически здорово",
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/health-check/9f4dd72d-0f1a-4a9a-adf2-eff0417ef47a"
+                    },
+                    "healthCheckEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/health-check/9f4dd72d-0f1a-4a9a-adf2-eff0417ef47a"
+                    }
+                }
+            },
+            {
+                "animalId": "fdaad1eb-bf09-4cdb-b35e-b9f73ec8af14",
+                "date": "2020-04-20T00:00:00.000+00:00",
+                "weight": null,
+                "anamnesis": "клинически здорово",
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/health-check/47746445-07d2-4a93-a6a5-fc2439c1cbdd"
+                    },
+                    "healthCheckEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/health-check/47746445-07d2-4a93-a6a5-fc2439c1cbdd"
+                    }
+                }
+            },
+            {
+                "animalId": "fc9d4659-ec9a-49cd-aeb7-b8a021ac4010",
+                "date": "2020-04-24T00:00:00.000+00:00",
+                "weight": null,
+                "anamnesis": "клинически здорово",
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/health-check/d7fc4d2e-c5fa-45aa-bf95-5e3057355454"
+                    },
+                    "healthCheckEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/health-check/d7fc4d2e-c5fa-45aa-bf95-5e3057355454"
+                    }
+                }
+            },
+            {
+                "animalId": "aea23eb8-e7a7-445d-8e1b-820d8a5d773c",
+                "date": "2020-06-17T00:00:00.000+00:00",
+                "weight": null,
+                "anamnesis": "клинически здорово",
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/health-check/2d726d96-468f-49ba-978a-39434c1f0b50"
+                    },
+                    "healthCheckEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/health-check/2d726d96-468f-49ba-978a-39434c1f0b50"
+                    }
+                }
+            },
+            {
+                "animalId": "e881f272-940b-4ae5-b3af-7ed933045685",
+                "date": "2020-06-17T00:00:00.000+00:00",
+                "weight": null,
+                "anamnesis": "клинически здорово",
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/health-check/3818614c-6b39-4c6b-a77e-4028f49a8330"
+                    },
+                    "healthCheckEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/health-check/3818614c-6b39-4c6b-a77e-4028f49a8330"
+                    }
+                }
+            },
+            {
+                "animalId": "bc59d680-7846-4fd6-a364-f66ecd3723b3",
+                "date": "2020-06-17T00:00:00.000+00:00",
+                "weight": null,
+                "anamnesis": "клинически здорово",
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/health-check/1005ec47-f21c-4a30-9709-a1ae8f2015a4"
+                    },
+                    "healthCheckEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/health-check/1005ec47-f21c-4a30-9709-a1ae8f2015a4"
+                    }
+                }
+            },
+            {
+                "animalId": "4e6b79e8-0607-47f6-8691-e9719602ce43",
+                "date": null,
+                "weight": null,
+                "anamnesis": "клинически здорово",
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/health-check/0c05dcbb-d969-42f9-a248-85ad4e01c221"
+                    },
+                    "healthCheckEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/health-check/0c05dcbb-d969-42f9-a248-85ad4e01c221"
+                    }
+                }
+            },
+            {
+                "animalId": "f826a764-de73-45ae-8577-44436bbe1681",
+                "date": null,
+                "weight": null,
+                "anamnesis": "клинически здорово",
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/health-check/1383bde1-58b6-40aa-ace2-13224e8fd427"
+                    },
+                    "healthCheckEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/health-check/1383bde1-58b6-40aa-ace2-13224e8fd427"
+                    }
+                }
+            },
+            {
+                "animalId": "78207f00-0af6-41e5-96ba-5494321c000c",
+                "date": null,
+                "weight": null,
+                "anamnesis": "клинически здорово",
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/health-check/dbb56ca4-b78b-4193-875c-e0e42457f251"
+                    },
+                    "healthCheckEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/health-check/dbb56ca4-b78b-4193-875c-e0e42457f251"
+                    }
+                }
+            },
+            {
+                "animalId": "fe0a2ad5-cc19-4161-a82d-d43753411e39",
+                "date": null,
+                "weight": null,
+                "anamnesis": "клинически здорово",
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/health-check/1399c6e4-4726-4ee5-b2ab-421cf4c44a6f"
+                    },
+                    "healthCheckEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/health-check/1399c6e4-4726-4ee5-b2ab-421cf4c44a6f"
+                    }
+                }
+            },
+            {
+                "animalId": "ddae44ac-50b2-4708-8b31-030837f07b4e",
+                "date": null,
+                "weight": null,
+                "anamnesis": "клинически здорово",
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/health-check/a1174e36-18a4-4bd0-a032-b616ddf0cdf4"
+                    },
+                    "healthCheckEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/health-check/a1174e36-18a4-4bd0-a032-b616ddf0cdf4"
+                    }
+                }
+            },
+            {
+                "animalId": "72486392-4b57-465a-9b29-6d816f0dcc22",
+                "date": null,
+                "weight": null,
+                "anamnesis": "клинически здорово",
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/health-check/d31d61b5-87a4-4330-a4fe-27317063c417"
+                    },
+                    "healthCheckEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/health-check/d31d61b5-87a4-4330-a4fe-27317063c417"
+                    }
+                }
+            },
+            {
+                "animalId": "18757439-7b14-41aa-969b-285659e18601",
+                "date": null,
+                "weight": null,
+                "anamnesis": "клинически здорово",
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/health-check/3ed62a92-b2bb-45fa-acc2-d192d2f09fdc"
+                    },
+                    "healthCheckEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/health-check/3ed62a92-b2bb-45fa-acc2-d192d2f09fdc"
+                    }
+                }
+            },
+            {
+                "animalId": "3270e51b-b1ea-44b1-85a2-8a0787a081f5",
+                "date": null,
+                "weight": null,
+                "anamnesis": "клинически здорово",
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/health-check/1d6c9e53-c959-457c-b1eb-8b356fcc0d34"
+                    },
+                    "healthCheckEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/health-check/1d6c9e53-c959-457c-b1eb-8b356fcc0d34"
+                    }
+                }
+            },
+            {
+                "animalId": "f2b31f32-3291-4d31-887a-553fd43e7e9b",
+                "date": null,
+                "weight": null,
+                "anamnesis": "клинически здорово",
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/health-check/65e8304e-cd60-4bc0-83ad-2f61af5d07c2"
+                    },
+                    "healthCheckEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/health-check/65e8304e-cd60-4bc0-83ad-2f61af5d07c2"
+                    }
+                }
+            },
+            {
+                "animalId": "be4fd021-de81-413b-b9d7-55f1720b72f1",
+                "date": null,
+                "weight": null,
+                "anamnesis": "клинически здорово",
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/health-check/073ac825-3dfc-45bd-8ea4-e67fcbec6411"
+                    },
+                    "healthCheckEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/health-check/073ac825-3dfc-45bd-8ea4-e67fcbec6411"
+                    }
+                }
+            },
+            {
+                "animalId": "fde7571c-c6d5-4443-8c11-6dc72c8fa089",
+                "date": null,
+                "weight": null,
+                "anamnesis": "клинически здорово",
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/health-check/591fb2a7-6a44-42bc-a35d-bf8a0226600e"
+                    },
+                    "healthCheckEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/health-check/591fb2a7-6a44-42bc-a35d-bf8a0226600e"
+                    }
+                }
+            },
+            {
+                "animalId": "60acd1f8-9d16-470b-a38d-4dc2c7382689",
+                "date": null,
+                "weight": null,
+                "anamnesis": "клинически здорово",
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/health-check/1732f741-2f94-44b3-8662-a28e37084a1c"
+                    },
+                    "healthCheckEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/health-check/1732f741-2f94-44b3-8662-a28e37084a1c"
+                    }
+                }
+            },
+            {
+                "animalId": "f6c288a9-bb34-4fe5-92dd-2b409c732324",
+                "date": null,
+                "weight": null,
+                "anamnesis": "клинически здорово",
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/health-check/7f129d67-0308-4724-b3ba-f2b0cd8dc8bf"
+                    },
+                    "healthCheckEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/health-check/7f129d67-0308-4724-b3ba-f2b0cd8dc8bf"
+                    }
+                }
+            },
+            {
+                "animalId": "22fdca17-0627-4691-8b04-e9ea1b10714f",
+                "date": null,
+                "weight": null,
+                "anamnesis": "клинически здорово",
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/health-check/0216222e-b2c0-4029-974c-d028f3c934b0"
+                    },
+                    "healthCheckEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/health-check/0216222e-b2c0-4029-974c-d028f3c934b0"
+                    }
+                }
+            },
+            {
+                "animalId": "0bc7e34a-8bb4-49b0-8921-3b1e95ea8d1f",
+                "date": null,
+                "weight": null,
+                "anamnesis": "клинически здорово",
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/health-check/e97324e1-878d-4373-b1d9-82104d6fe73f"
+                    },
+                    "healthCheckEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/health-check/e97324e1-878d-4373-b1d9-82104d6fe73f"
+                    }
+                }
+            },
+            {
+                "animalId": "b2ea06c3-9afa-4a31-9ebe-2abd302cc625",
+                "date": null,
+                "weight": null,
+                "anamnesis": "клинически здорово",
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/health-check/b2e2d280-428a-427c-b4f7-0e12efe03cb2"
+                    },
+                    "healthCheckEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/health-check/b2e2d280-428a-427c-b4f7-0e12efe03cb2"
+                    }
+                }
+            },
+            {
+                "animalId": "0c5f5d30-d6cf-498a-aec9-1e0749bd5c68",
+                "date": null,
+                "weight": null,
+                "anamnesis": "клинически здорово",
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/health-check/68c21704-8d05-4d16-a6f7-fc40cad8bdd1"
+                    },
+                    "healthCheckEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/health-check/68c21704-8d05-4d16-a6f7-fc40cad8bdd1"
+                    }
+                }
+            },
+            {
+                "animalId": "0e98b3a5-5e73-494e-b8ed-17bb77d08a4c",
+                "date": "2020-07-14T00:00:00.000+00:00",
+                "weight": null,
+                "anamnesis": "клинически здорово",
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/health-check/60d3d8c0-e006-4e52-911d-6cb93483663a"
+                    },
+                    "healthCheckEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/health-check/60d3d8c0-e006-4e52-911d-6cb93483663a"
+                    }
+                }
+            },
+            {
+                "animalId": "17b4ec5c-1d24-4aeb-a368-b26edd512b2b",
+                "date": "2020-05-14T00:00:00.000+00:00",
+                "weight": null,
+                "anamnesis": "клинически здорово",
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/health-check/8ad6d853-df73-4118-a526-1196965932b0"
+                    },
+                    "healthCheckEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/health-check/8ad6d853-df73-4118-a526-1196965932b0"
+                    }
+                }
+            },
+            {
+                "animalId": "2ddd3074-eee0-4c41-8afd-39916795f9d2",
+                "date": "2020-07-30T00:00:00.000+00:00",
+                "weight": null,
+                "anamnesis": "клинически здорово",
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/health-check/4116424f-f884-4e1c-8147-6d8a4d72314c"
+                    },
+                    "healthCheckEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/health-check/4116424f-f884-4e1c-8147-6d8a4d72314c"
+                    }
+                }
+            },
+            {
+                "animalId": "b32fcacf-3f15-4440-87b4-309d7d0324dd",
+                "date": "2020-06-17T00:00:00.000+00:00",
+                "weight": null,
+                "anamnesis": "клинически здорово",
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/health-check/806316b8-37e4-4b4c-a6b5-73bd163eaeb6"
+                    },
+                    "healthCheckEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/health-check/806316b8-37e4-4b4c-a6b5-73bd163eaeb6"
+                    }
+                }
+            },
+            {
+                "animalId": "b820f03e-4cb4-4b63-b1ce-4bf3976ff100",
+                "date": "2020-06-17T00:00:00.000+00:00",
+                "weight": null,
+                "anamnesis": "клинически здорово",
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/health-check/9e8b9680-6497-48de-8471-f686f4261c2f"
+                    },
+                    "healthCheckEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/health-check/9e8b9680-6497-48de-8471-f686f4261c2f"
+                    }
+                }
+            },
+            {
+                "animalId": "e3e6dfc6-0688-4b61-9d24-63468c0b60b0",
+                "date": "2020-07-02T00:00:00.000+00:00",
+                "weight": null,
+                "anamnesis": "клинически здорово",
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/health-check/93f15437-9afb-4fb1-8181-50c3fe19ff27"
+                    },
+                    "healthCheckEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/health-check/93f15437-9afb-4fb1-8181-50c3fe19ff27"
+                    }
+                }
+            },
+            {
+                "animalId": "91d5f91f-c414-4fa1-b75e-e5ef92242ecd",
+                "date": "2020-07-02T00:00:00.000+00:00",
+                "weight": null,
+                "anamnesis": "клинически здорово",
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/health-check/c06f8552-e35c-429c-8933-0071d5c7ec5d"
+                    },
+                    "healthCheckEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/health-check/c06f8552-e35c-429c-8933-0071d5c7ec5d"
+                    }
+                }
+            },
+            {
+                "animalId": "960a370c-32a9-40b1-ad35-2af7b1cedc09",
+                "date": "2020-06-17T00:00:00.000+00:00",
+                "weight": null,
+                "anamnesis": "клинически здорово",
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/health-check/2b31fa02-1490-4c24-a5ca-59badedbb8b2"
+                    },
+                    "healthCheckEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/health-check/2b31fa02-1490-4c24-a5ca-59badedbb8b2"
+                    }
+                }
+            },
+            {
+                "animalId": "2d1ff443-9431-4689-99b6-4bdbbcdd0d9e",
+                "date": "2020-06-17T00:00:00.000+00:00",
+                "weight": null,
+                "anamnesis": "клинически здорово",
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/health-check/fb003465-fcd1-45cd-b34a-64fae1a642e2"
+                    },
+                    "healthCheckEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/health-check/fb003465-fcd1-45cd-b34a-64fae1a642e2"
+                    }
+                }
+            },
+            {
+                "animalId": "e8ba1d72-2a26-42d1-9e18-3b2bfe14cc88",
+                "date": "2020-06-04T00:00:00.000+00:00",
+                "weight": null,
+                "anamnesis": "клинически здорово",
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/health-check/0f84ab22-afcc-47e3-9edb-29fe70a7f7e9"
+                    },
+                    "healthCheckEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/health-check/0f84ab22-afcc-47e3-9edb-29fe70a7f7e9"
+                    }
+                }
+            },
+            {
+                "animalId": "4c5bd6bc-5f1f-4e81-be36-05e0b88b504c",
+                "date": "2020-06-04T00:00:00.000+00:00",
+                "weight": null,
+                "anamnesis": "клинически здорово",
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/health-check/612e9001-026e-4cee-8d00-c69c3eba06d6"
+                    },
+                    "healthCheckEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/health-check/612e9001-026e-4cee-8d00-c69c3eba06d6"
+                    }
+                }
+            },
+            {
+                "animalId": "af55c22d-1323-450f-89bd-5c3b123410b3",
+                "date": "2020-06-04T00:00:00.000+00:00",
+                "weight": null,
+                "anamnesis": "клинически здорово",
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/health-check/06b46ff1-359f-4150-b38c-05e5fe1acac8"
+                    },
+                    "healthCheckEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/health-check/06b46ff1-359f-4150-b38c-05e5fe1acac8"
+                    }
+                }
+            },
+            {
+                "animalId": "129295b6-eadb-43e3-98c4-c757936f8a40",
+                "date": "2020-06-04T00:00:00.000+00:00",
+                "weight": null,
+                "anamnesis": "клинически здорово",
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/health-check/f02603bd-7b57-4e60-ad65-f92af86b564d"
+                    },
+                    "healthCheckEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/health-check/f02603bd-7b57-4e60-ad65-f92af86b564d"
+                    }
+                }
+            },
+            {
+                "animalId": "4385ed9b-f20e-4cbf-b957-1c4d63973301",
+                "date": "2020-06-17T00:00:00.000+00:00",
+                "weight": null,
+                "anamnesis": "клинически здорово",
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/health-check/5f47981f-a69c-480b-8349-2e2ab443308d"
+                    },
+                    "healthCheckEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/health-check/5f47981f-a69c-480b-8349-2e2ab443308d"
+                    }
+                }
+            },
+            {
+                "animalId": "abeb3609-7825-4534-b285-09950a2ab5eb",
+                "date": "2020-06-08T00:00:00.000+00:00",
+                "weight": null,
+                "anamnesis": "клинически здорово",
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/health-check/fba19737-2e7e-4c64-8305-312a35a991d1"
+                    },
+                    "healthCheckEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/health-check/fba19737-2e7e-4c64-8305-312a35a991d1"
+                    }
+                }
+            },
+            {
+                "animalId": "553bbcb7-ad04-48cb-b93b-0969ae6dd0b2",
+                "date": "2020-04-17T00:00:00.000+00:00",
+                "weight": null,
+                "anamnesis": "клинически здорово",
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/health-check/8a619fe2-50d4-4c28-8bf4-998f683590ee"
+                    },
+                    "healthCheckEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/health-check/8a619fe2-50d4-4c28-8bf4-998f683590ee"
+                    }
+                }
+            },
+            {
+                "animalId": "87cf1ffc-e05b-4e91-96eb-af1cb3080773",
+                "date": "2020-05-20T00:00:00.000+00:00",
+                "weight": null,
+                "anamnesis": "клинически здорово",
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/health-check/a0e89e05-abc8-4799-b27c-f5b8be245185"
+                    },
+                    "healthCheckEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/health-check/a0e89e05-abc8-4799-b27c-f5b8be245185"
+                    }
+                }
+            },
+            {
+                "animalId": "ca784cdd-a206-4846-b683-7242a8f54367",
+                "date": "2020-03-24T00:00:00.000+00:00",
+                "weight": null,
+                "anamnesis": "клинически здорово",
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/health-check/aae2c694-1eb3-4ae3-beae-4586d602fc15"
+                    },
+                    "healthCheckEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/health-check/aae2c694-1eb3-4ae3-beae-4586d602fc15"
+                    }
+                }
+            },
+            {
+                "animalId": "326e7c1e-e1db-4a32-a51c-6e852cf46558",
+                "date": "2020-04-17T00:00:00.000+00:00",
+                "weight": null,
+                "anamnesis": "клинически здорово",
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/health-check/7397b72e-8e3c-4bae-8d49-85643d34fd6f"
+                    },
+                    "healthCheckEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/health-check/7397b72e-8e3c-4bae-8d49-85643d34fd6f"
+                    }
+                }
+            },
+            {
+                "animalId": "805cc5bc-3f67-4807-9197-180853bcbd11",
+                "date": "2020-04-17T00:00:00.000+00:00",
+                "weight": null,
+                "anamnesis": "клинически здорово",
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/health-check/780797d1-caaf-4871-be4e-0ec6f64220de"
+                    },
+                    "healthCheckEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/health-check/780797d1-caaf-4871-be4e-0ec6f64220de"
+                    }
+                }
+            }
+        ]
+    },
+    "_links": {
+        "self": {
+            "href": "http://34.66.234.105:8095/api/v1/health-check"
+        },
+        "profile": {
+            "href": "http://34.66.234.105:8095/api/v1/profile/health-check"
+        }
+    }
+}

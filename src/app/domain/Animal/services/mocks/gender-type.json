@@ -1,0 +1,39 @@
+{
+    "_embedded": {
+        "gender-type": [
+            {
+                "name": "женский",
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/gender-type/acfdecc8-0130-46ca-9cff-b096196f1b42"
+                    },
+                    "genderTypeEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/gender-type/acfdecc8-0130-46ca-9cff-b096196f1b42"
+                    }
+                }
+            },
+            {
+                "name": "мужской",
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/gender-type/935df5b1-53e8-48db-a414-e52d8094776b"
+                    },
+                    "genderTypeEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/gender-type/935df5b1-53e8-48db-a414-e52d8094776b"
+                    }
+                }
+            }
+        ]   
+    },
+    "_links": {
+        "self": {
+            "href": "http://34.66.234.105:8095/api/v1/gender-type"
+        },
+        "profile": {
+            "href": "http://34.66.234.105:8095/api/v1/profile/gender-type"
+        },
+        "search": {
+            "href": "http://34.66.234.105:8095/api/v1/gender-type/search"
+        }
+    }
+}

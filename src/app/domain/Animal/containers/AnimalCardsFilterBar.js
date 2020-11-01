@@ -65,9 +65,9 @@ const AnimalCardsFilterBar = ({ data }) => {
     <>
     <SearchModal visible={visible} close={closeHandler} updateFilters={updateFiltersHandler} />
       <Row gutter={16}>
-        <Col className="gutter-row" span={3}>
+        <Col className="gutter-row" span={4}>
                 <Tooltip title="Фильтр по карточкам животных">
-                    <Button type="info" onClick={() => setVisible(true)}  icon={<FilterOutlined />}>Фильтр по карточкам</Button>
+                    <Button size="large" type="info" onClick={() => setVisible(true)}  icon={<FilterOutlined />}>Фильтр по карточкам</Button>
                 </Tooltip>                      
         </Col>
 
@@ -89,7 +89,7 @@ const AnimalCardsFilterBar = ({ data }) => {
         </>
     ): undefined}
         
-            <Col span={9}>
+            <Col span={8}>
             <Input
             value={search}
             onChange={ (e) => updateSearch(e.target.value)}

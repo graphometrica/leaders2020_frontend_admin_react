@@ -1,0 +1,83 @@
+{
+    "_embedded": {
+        "tail-type": [
+            {
+                "name": "крючком",
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/tail-type/dfddd66a-ed03-40b8-8dfb-c6097c9be828"
+                    },
+                    "tailTypeEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/tail-type/dfddd66a-ed03-40b8-8dfb-c6097c9be828"
+                    }
+                }
+            },
+            {
+                "name": "саблевидный",
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/tail-type/be3bbc3a-0b3d-4f20-9c92-f89c2d53e5e7"
+                    },
+                    "tailTypeEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/tail-type/be3bbc3a-0b3d-4f20-9c92-f89c2d53e5e7"
+                    }
+                }
+            },
+            {
+                "name": "купированный",
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/tail-type/4fc2baf1-3043-4584-81cb-45f4f07d9c84"
+                    },
+                    "tailTypeEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/tail-type/4fc2baf1-3043-4584-81cb-45f4f07d9c84"
+                    }
+                }
+            },
+            {
+                "name": "прутом",
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/tail-type/c14a0ac2-4920-45f6-8bee-1e62f5005e5e"
+                    },
+                    "tailTypeEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/tail-type/c14a0ac2-4920-45f6-8bee-1e62f5005e5e"
+                    }
+                }
+            },
+            {
+                "name": "поленом",
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/tail-type/a5a3e965-8c32-47a3-9142-f13aa3607fa7"
+                    },
+                    "tailTypeEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/tail-type/a5a3e965-8c32-47a3-9142-f13aa3607fa7"
+                    }
+                }
+            },
+            {
+                "name": "обычный",
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/tail-type/1bab9be0-e6b2-449d-b2e0-40f5c1fe48b0"
+                    },
+                    "tailTypeEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/tail-type/1bab9be0-e6b2-449d-b2e0-40f5c1fe48b0"
+                    }
+                }
+            }
+        ]
+    },
+    "_links": {
+        "self": {
+            "href": "http://34.66.234.105:8095/api/v1/tail-type"
+        },
+        "profile": {
+            "href": "http://34.66.234.105:8095/api/v1/profile/tail-type"
+        },
+        "search": {
+            "href": "http://34.66.234.105:8095/api/v1/tail-type/search"
+        }
+    }
+}

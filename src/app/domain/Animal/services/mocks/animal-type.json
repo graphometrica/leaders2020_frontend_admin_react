@@ -1,0 +1,39 @@
+{
+    "_embedded": {
+        "animal-type": [
+            {
+                "name": "кошка",
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/animal-type/1cb4dc8b-1869-401a-892b-ab1a974f300a"
+                    },
+                    "animalTypeEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/animal-type/1cb4dc8b-1869-401a-892b-ab1a974f300a"
+                    }
+                }
+            },
+            {
+                "name": "собака",
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/animal-type/fe785d00-5605-405c-b5b2-227575f47b97"
+                    },
+                    "animalTypeEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/animal-type/fe785d00-5605-405c-b5b2-227575f47b97"
+                    }
+                }
+            }
+        ]   
+    },
+    "_links": {
+        "self": {
+            "href": "http://34.66.234.105:8095/api/v1/animal-type"
+        },
+        "profile": {
+            "href": "http://34.66.234.105:8095/api/v1/profile/animal-type"
+        },
+        "search": {
+            "href": "http://34.66.234.105:8095/api/v1/animal-type/search"
+        }
+    }
+}

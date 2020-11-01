@@ -1,0 +1,225 @@
+{
+    "_embedded": {
+        "shelter": [
+            {
+                "name": null,
+                "address": "г.москва, востряковский пр-д, вл.10 а",
+                "phone": null,
+                "operatingOrganizationId": null,
+                "districtId": "198f4cd7-9631-4123-8d94-aaa9456cfb99",
+                "bossEmployeeId": null,
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/shelter/6784f75f-2973-4b55-afb7-7ffe28701fc9"
+                    },
+                    "shelterEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/shelter/6784f75f-2973-4b55-afb7-7ffe28701fc9"
+                    }
+                }
+            },
+            {
+                "name": null,
+                "address": "г.москва, ул.2-я вольская, вл.17 стр.3",
+                "phone": null,
+                "operatingOrganizationId": null,
+                "districtId": "a2e5b68d-491e-49b3-9bb3-da1146b01ce3",
+                "bossEmployeeId": null,
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/shelter/8a2581a1-8e41-47c2-9a61-483512685362"
+                    },
+                    "shelterEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/shelter/8a2581a1-8e41-47c2-9a61-483512685362"
+                    }
+                }
+            },
+            {
+                "name": null,
+                "address": "г.москва, зеленоград, фирсановское ш., вл.5а",
+                "phone": null,
+                "operatingOrganizationId": null,
+                "districtId": "111a6b5d-d3f2-46c3-a254-b23182a198fe",
+                "bossEmployeeId": null,
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/shelter/56099bed-39a7-4e0c-aa69-c94d9aff4de5"
+                    },
+                    "shelterEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/shelter/56099bed-39a7-4e0c-aa69-c94d9aff4de5"
+                    }
+                }
+            },
+            {
+                "name": null,
+                "address": "г.москва, ул.брусилова, вл.32, стр.1-5",
+                "phone": null,
+                "operatingOrganizationId": null,
+                "districtId": "8a3fe902-415c-4245-bb84-dd429bc41c99",
+                "bossEmployeeId": null,
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/shelter/dd72e34e-8abb-435b-b5e3-12da5cb11711"
+                    },
+                    "shelterEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/shelter/dd72e34e-8abb-435b-b5e3-12da5cb11711"
+                    }
+                }
+            },
+            {
+                "name": null,
+                "address": "г.москва, проезд дубовой рощи, вл.23-25",
+                "phone": null,
+                "operatingOrganizationId": null,
+                "districtId": "e64ac734-e608-48a1-9230-3467bc3b013d",
+                "bossEmployeeId": null,
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/shelter/2ef47bb2-7633-456a-9c10-fdeb8912fe22"
+                    },
+                    "shelterEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/shelter/2ef47bb2-7633-456a-9c10-fdeb8912fe22"
+                    }
+                }
+            },
+            {
+                "name": null,
+                "address": "г.москва, ул.красной сосны, вл. 30, стр.4",
+                "phone": null,
+                "operatingOrganizationId": null,
+                "districtId": "e64ac734-e608-48a1-9230-3467bc3b013d",
+                "bossEmployeeId": null,
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/shelter/1702abbf-13d1-47cc-968d-fc12b7347d42"
+                    },
+                    "shelterEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/shelter/1702abbf-13d1-47cc-968d-fc12b7347d42"
+                    }
+                }
+            },
+            {
+                "name": null,
+                "address": "г.москва, проектируемый проезд №5112, вл.2\\1",
+                "phone": null,
+                "operatingOrganizationId": null,
+                "districtId": "a2e5b68d-491e-49b3-9bb3-da1146b01ce3",
+                "bossEmployeeId": null,
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/shelter/b8233559-55bd-45bc-9c06-4d05579be364"
+                    },
+                    "shelterEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/shelter/b8233559-55bd-45bc-9c06-4d05579be364"
+                    }
+                }
+            },
+            {
+                "name": null,
+                "address": "г.москва, ул.искры, вл. 23а",
+                "phone": null,
+                "operatingOrganizationId": null,
+                "districtId": "e64ac734-e608-48a1-9230-3467bc3b013d",
+                "bossEmployeeId": null,
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/shelter/4b93b3a5-e9eb-49a1-8c47-cd3a40acd77e"
+                    },
+                    "shelterEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/shelter/4b93b3a5-e9eb-49a1-8c47-cd3a40acd77e"
+                    }
+                }
+            },
+            {
+                "name": null,
+                "address": "г.москва, ул.рассветная аллея, влд.10",
+                "phone": null,
+                "operatingOrganizationId": null,
+                "districtId": "111a6b5d-d3f2-46c3-a254-b23182a198fe",
+                "bossEmployeeId": null,
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/shelter/0e218769-16aa-4414-afb8-06a68fd2ca6f"
+                    },
+                    "shelterEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/shelter/0e218769-16aa-4414-afb8-06a68fd2ca6f"
+                    }
+                }
+            },
+            {
+                "name": null,
+                "address": "г.москва, ул. пехорская 1б, с.6",
+                "phone": null,
+                "operatingOrganizationId": null,
+                "districtId": "93aa629e-cdf5-4fd5-91a0-31d519a24a75",
+                "bossEmployeeId": null,
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/shelter/3ed742d7-3112-4f33-9a2b-76658eab41e7"
+                    },
+                    "shelterEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/shelter/3ed742d7-3112-4f33-9a2b-76658eab41e7"
+                    }
+                }
+            },
+            {
+                "name": null,
+                "address": "г.москва, проектируемый проезд, 727",
+                "phone": null,
+                "operatingOrganizationId": null,
+                "districtId": "e8d138c3-46af-4a70-a550-791f493a5f65",
+                "bossEmployeeId": null,
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/shelter/946f54eb-1a53-4988-a906-993fd5fcac40"
+                    },
+                    "shelterEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/shelter/946f54eb-1a53-4988-a906-993fd5fcac40"
+                    }
+                }
+            },
+            {
+                "name": null,
+                "address": "г.москва, ул. родниковая, вл.26",
+                "phone": null,
+                "operatingOrganizationId": null,
+                "districtId": "17ff9a29-4c72-464d-8c92-11d33b2e4530",
+                "bossEmployeeId": null,
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/shelter/b9430a33-c4e3-4368-8d0f-a2b497033e45"
+                    },
+                    "shelterEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/shelter/b9430a33-c4e3-4368-8d0f-a2b497033e45"
+                    }
+                }
+            },
+            {
+                "name": null,
+                "address": "г.москва, машкинское шоссе, вл. 4",
+                "phone": null,
+                "operatingOrganizationId": null,
+                "districtId": "e8d138c3-46af-4a70-a550-791f493a5f65",
+                "bossEmployeeId": null,
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/shelter/ef966cfb-ef8e-4e3f-871b-50bf68bfa00a"
+                    },
+                    "shelterEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/shelter/ef966cfb-ef8e-4e3f-871b-50bf68bfa00a"
+                    }
+                }
+            }
+        ]
+    },
+    "_links": {
+        "self": {
+            "href": "http://34.66.234.105:8095/api/v1/shelter"
+        },
+        "profile": {
+            "href": "http://34.66.234.105:8095/api/v1/profile/shelter"
+        },
+        "search": {
+            "href": "http://34.66.234.105:8095/api/v1/shelter/search"
+        }
+    }
+}

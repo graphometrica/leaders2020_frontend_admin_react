@@ -1,0 +1,127 @@
+{
+    "_embedded": {
+        "district": [
+            {
+                "name": "вао",
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/district/93aa629e-cdf5-4fd5-91a0-31d519a24a75"
+                    },
+                    "districtEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/district/93aa629e-cdf5-4fd5-91a0-31d519a24a75"
+                    }
+                }
+            },
+            {
+                "name": "свао",
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/district/e64ac734-e608-48a1-9230-3467bc3b013d"
+                    },
+                    "districtEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/district/e64ac734-e608-48a1-9230-3467bc3b013d"
+                    }
+                }
+            },
+            {
+                "name": "юзао",
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/district/8a3fe902-415c-4245-bb84-dd429bc41c99"
+                    },
+                    "districtEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/district/8a3fe902-415c-4245-bb84-dd429bc41c99"
+                    }
+                }
+            },
+            {
+                "name": "зелао",
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/district/a1c5ffad-e9e6-4f0a-9004-9b9601eceea0"
+                    },
+                    "districtEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/district/a1c5ffad-e9e6-4f0a-9004-9b9601eceea0"
+                    }
+                }
+            },
+            {
+                "name": "цао",
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/district/1e989057-6f0c-44ed-9697-21c949a4de17"
+                    },
+                    "districtEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/district/1e989057-6f0c-44ed-9697-21c949a4de17"
+                    }
+                }
+            },
+            {
+                "name": "зао",
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/district/17ff9a29-4c72-464d-8c92-11d33b2e4530"
+                    },
+                    "districtEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/district/17ff9a29-4c72-464d-8c92-11d33b2e4530"
+                    }
+                }
+            },
+            {
+                "name": "ювао",
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/district/a2e5b68d-491e-49b3-9bb3-da1146b01ce3"
+                    },
+                    "districtEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/district/a2e5b68d-491e-49b3-9bb3-da1146b01ce3"
+                    }
+                }
+            },
+            {
+                "name": "сзао",
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/district/111a6b5d-d3f2-46c3-a254-b23182a198fe"
+                    },
+                    "districtEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/district/111a6b5d-d3f2-46c3-a254-b23182a198fe"
+                    }
+                }
+            },
+            {
+                "name": "юао",
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/district/198f4cd7-9631-4123-8d94-aaa9456cfb99"
+                    },
+                    "districtEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/district/198f4cd7-9631-4123-8d94-aaa9456cfb99"
+                    }
+                }
+            },
+            {
+                "name": "сао",
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/district/e8d138c3-46af-4a70-a550-791f493a5f65"
+                    },
+                    "districtEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/district/e8d138c3-46af-4a70-a550-791f493a5f65"
+                    }
+                }
+            }
+        ]
+    },
+    "_links": {
+        "self": {
+            "href": "http://34.66.234.105:8095/api/v1/district"
+        },
+        "profile": {
+            "href": "http://34.66.234.105:8095/api/v1/profile/district"
+        },
+        "search": {
+            "href": "http://34.66.234.105:8095/api/v1/district/search"
+        }
+    }
+}

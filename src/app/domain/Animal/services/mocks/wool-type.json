@@ -1,0 +1,61 @@
+{
+    "_embedded": {
+        "wool-type": [
+            {
+                "name": "длинная",
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/wool-type/c55c033e-26d2-46e6-851b-d28285cc9d4c"
+                    },
+                    "woolTypeEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/wool-type/c55c033e-26d2-46e6-851b-d28285cc9d4c"
+                    }
+                }
+            },
+            {
+                "name": "гладкая",
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/wool-type/b2f174df-37cc-4158-a694-d56853ea6651"
+                    },
+                    "woolTypeEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/wool-type/b2f174df-37cc-4158-a694-d56853ea6651"
+                    }
+                }
+            },
+            {
+                "name": "обычная",
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/wool-type/6d47d529-95b7-452b-a26b-5238338e5ef9"
+                    },
+                    "woolTypeEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/wool-type/6d47d529-95b7-452b-a26b-5238338e5ef9"
+                    }
+                }
+            },
+            {
+                "name": "короткая",
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/wool-type/6f6db37e-1b15-409d-9644-9e105bb66174"
+                    },
+                    "woolTypeEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/wool-type/6f6db37e-1b15-409d-9644-9e105bb66174"
+                    }
+                }
+            }
+        ]
+    },
+    "_links": {
+        "self": {
+            "href": "http://34.66.234.105:8095/api/v1/wool-type"
+        },
+        "profile": {
+            "href": "http://34.66.234.105:8095/api/v1/profile/wool-type"
+        },
+        "search": {
+            "href": "http://34.66.234.105:8095/api/v1/wool-type/search"
+        }
+    }
+}

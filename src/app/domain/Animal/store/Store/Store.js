@@ -8,6 +8,8 @@ import {
     dataUnderFilter: [],
     advFilter: null,
     search: '',
+    dicts: [],
+    isFetchingDics: false,
     isFetching: false,
     userInfo: null
   });

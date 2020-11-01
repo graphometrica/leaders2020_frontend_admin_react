@@ -7,12 +7,13 @@ import {
 
 import {Store} from "@Store"
 import { backend } from "@backend";
-import { updateFetchingStatus } from './updateFetchingStatus'
+import { updateFetchingStatus, downloadDicts, setFetchingDics } from './updateFetchingStatus'
 
 
 const auth = createAsyncAction(
     async ({ username, password }) => {                
-      const result = await backend.auth({username, password});    
+      const result = await backend.auth({username, password});   
+      console.log('auth result', result) 
       if (result.status === 200) return successResult(result.data);      
       return errorResult([], `Status code: ${result.status}`);
     },
@@ -26,12 +27,19 @@ const auth = createAsyncAction(
     
       postActionHook: ({ result, stores }) => {          
         
-        updateFetchingStatus(false);      
+                
         if (!result.error) {
+
           Store.update((s) => {
             s.userInfo = result.payload;
           });
+          updateFetchingStatus(false);             
+
+          
+
+               
         }else {
+          updateFetchingStatus(false);      
             Store.update((s) => {
                 s.userInfo = null;
               });

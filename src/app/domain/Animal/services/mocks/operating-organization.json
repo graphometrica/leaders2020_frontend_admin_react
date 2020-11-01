@@ -1,0 +1,137 @@
+{
+    "_embedded": {
+        "operating-organization": [
+            {
+                "name": "гбу \"автомобильные дороги зао\"",
+                "address": null,
+                "phone": null,
+                "bossEmployeeId": null,
+                "districtId": "17ff9a29-4c72-464d-8c92-11d33b2e4530",
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/operating-organization/49f3467d-01fd-4528-b9fc-301af26f93cf"
+                    },
+                    "operatingOrganizationEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/operating-organization/49f3467d-01fd-4528-b9fc-301af26f93cf"
+                    }
+                }
+            },
+            {
+                "name": "гбу \"автомобильные дороги свао\"",
+                "address": null,
+                "phone": null,
+                "bossEmployeeId": null,
+                "districtId": "e64ac734-e608-48a1-9230-3467bc3b013d",
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/operating-organization/3914d566-d916-4d8a-83be-29eaf080eb83"
+                    },
+                    "operatingOrganizationEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/operating-organization/3914d566-d916-4d8a-83be-29eaf080eb83"
+                    }
+                }
+            },
+            {
+                "name": "гбу \"автомобильные дороги вао\"",
+                "address": null,
+                "phone": null,
+                "bossEmployeeId": null,
+                "districtId": "93aa629e-cdf5-4fd5-91a0-31d519a24a75",
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/operating-organization/7d1f16b2-6597-46be-936e-d6781d3b29d1"
+                    },
+                    "operatingOrganizationEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/operating-organization/7d1f16b2-6597-46be-936e-d6781d3b29d1"
+                    }
+                }
+            },
+            {
+                "name": "гбу \"автомобильные дороги юзао\"",
+                "address": null,
+                "phone": null,
+                "bossEmployeeId": null,
+                "districtId": "8a3fe902-415c-4245-bb84-dd429bc41c99",
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/operating-organization/65a27fb5-df40-49ae-8636-821fcf4d486f"
+                    },
+                    "operatingOrganizationEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/operating-organization/65a27fb5-df40-49ae-8636-821fcf4d486f"
+                    }
+                }
+            },
+            {
+                "name": "гбу \"доринвест\"",
+                "address": null,
+                "phone": null,
+                "bossEmployeeId": null,
+                "districtId": "111a6b5d-d3f2-46c3-a254-b23182a198fe",
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/operating-organization/3a1b7253-2ecd-4d23-bcac-839456b8142c"
+                    },
+                    "operatingOrganizationEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/operating-organization/3a1b7253-2ecd-4d23-bcac-839456b8142c"
+                    }
+                }
+            },
+            {
+                "name": "гбу \"автомобильные дороги юао\"",
+                "address": null,
+                "phone": null,
+                "bossEmployeeId": null,
+                "districtId": "198f4cd7-9631-4123-8d94-aaa9456cfb99",
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/operating-organization/6f88e247-f704-4a38-8a79-c1c87fa421ca"
+                    },
+                    "operatingOrganizationEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/operating-organization/6f88e247-f704-4a38-8a79-c1c87fa421ca"
+                    }
+                }
+            },
+            {
+                "name": "гбу \"автомобильные дороги сао\"",
+                "address": null,
+                "phone": null,
+                "bossEmployeeId": null,
+                "districtId": "e8d138c3-46af-4a70-a550-791f493a5f65",
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/operating-organization/6e7b9b30-7cb1-4ed4-b6b4-2a7cd3aa66ba"
+                    },
+                    "operatingOrganizationEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/operating-organization/6e7b9b30-7cb1-4ed4-b6b4-2a7cd3aa66ba"
+                    }
+                }
+            },
+            {
+                "name": "гбу \"автомобильные\nдороги ювао\"",
+                "address": null,
+                "phone": null,
+                "bossEmployeeId": null,
+                "districtId": "a2e5b68d-491e-49b3-9bb3-da1146b01ce3",
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/operating-organization/a99c125d-e65e-48f9-af8c-e77f1b430eb5"
+                    },
+                    "operatingOrganizationEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/operating-organization/a99c125d-e65e-48f9-af8c-e77f1b430eb5"
+                    }
+                }
+            }
+        ]
+    },
+    "_links": {
+        "self": {
+            "href": "http://34.66.234.105:8095/api/v1/operating-organization"
+        },
+        "profile": {
+            "href": "http://34.66.234.105:8095/api/v1/profile/operating-organization"
+        },
+        "search": {
+            "href": "http://34.66.234.105:8095/api/v1/operating-organization/search"
+        }
+    }
+}

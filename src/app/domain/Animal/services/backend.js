@@ -1,6 +1,8 @@
 import axios from 'axios';
 import  appConfig from '@appConfig'
 
+import { Spin, Space } from 'antd';
+
 const endpoint = appConfig.ENV().animalsEndpoint;
 
 const stub = [
@@ -129,52 +131,196 @@ const stub = [
     }
   ];
 
+
+  
+
 const backend = {    
+    downloadDicts: async () => {                
+        let promises = [];
+        // const res = await axios.post('http://34.66.234.105:8095/auth', {username: 'org1', password: '123'})
+        // return res;
+
         
+promises.push(new Promise(resolve => setTimeout(() => {          
+  resolve(                
+      {
+          status: 200,
+          data: require('./mocks/breed-type.json')
+  });
+}, 150)));
+
+promises.push(new Promise(resolve => setTimeout(() => {          
+  resolve(                
+      {
+          status: 200,
+          data: require('./mocks/color-type.json')
+  });
+}, 150)));
+
+promises.push(new Promise(resolve => setTimeout(() => {          
+  resolve(                
+      {
+          status: 200,
+          data: require('./mocks/district.json')
+  });
+}, 150)));
+
+promises.push(new Promise(resolve => setTimeout(() => {          
+  resolve(                
+      {
+          status: 200,
+          data: require('./mocks/ear-type.json')
+  });
+}, 150)));
+
+
+promises.push(new Promise(resolve => setTimeout(() => {          
+  resolve(                
+      {
+          status: 200,
+          data: require('./mocks/endoparasites.json')
+  });
+}, 150)));
+
+
+
+promises.push(new Promise(resolve => setTimeout(() => {          
+  resolve(                
+      {
+          status: 200,
+          data: require('./mocks/gender-type.json')
+  });
+}, 150)));
+
+promises.push(new Promise(resolve => setTimeout(() => {          
+  resolve(                
+      {
+          status: 200,
+          data: require('./mocks/gender-type.json')
+  });
+}, 150)));
+
+
+promises.push(new Promise(resolve => setTimeout(() => {          
+  resolve(                
+      {
+          status: 200,
+          data: require('./mocks/health-check.json')
+  });
+}, 150)));
+
+promises.push(new Promise(resolve => setTimeout(() => {          
+  resolve(                
+      {
+          status: 200,
+          data: require('./mocks/operating-organization.json')
+  });
+}, 150)));
+
+promises.push(new Promise(resolve => setTimeout(() => {          
+  resolve(                
+      {
+          status: 200,
+          data: require('./mocks/shelter.json')
+  });
+}, 150)));
+
+promises.push(new Promise(resolve => setTimeout(() => {          
+  resolve(                
+      {
+          status: 200,
+          data: require('./mocks/shelter-exit-reason.json')
+  });
+}, 150)));
+
+
+promises.push(new Promise(resolve => setTimeout(() => {          
+  resolve(                
+      {
+          status: 200,
+          data: require('./mocks/tail-type.json')
+  });
+}, 150)));
+
+
+promises.push(new Promise(resolve => setTimeout(() => {          
+  resolve(                
+      {
+          status: 200,
+          data: require('./mocks/vaccination.json')
+  });
+}, 150)));
+
+
+promises.push(new Promise(resolve => setTimeout(() => {          
+  resolve(                
+      {
+          status: 200,
+          data: require('./mocks/wool-type.json')
+  });
+}, 150)));
+
+
+
+
+return Promise.all(promises)
+
+
+
+    },
     getAllAnimals: async () => {                
         return new Promise(resolve => setTimeout(() => {
             resolve(                
                 {
                     status: 200,
-                    data: stub
+                    data: require('./mocks/animals.json')
             });
         }, 10)); 
 
     },
 
-    whoami: async () => {         
-        console.log('whoami called')       
-        return new Promise(resolve => setTimeout(() => {
-            resolve(                
-                {
-                    status: 200,
-                    data: {
-                        "id": "e76d360e-b06a-454a-b0f9-bd5186c7da35",
-                        "login": "shelter1",
-                        "fullName": null,
-                        "secret": "{SHA-256}a665a45920422f9d417e4867efdc4fb8a04a1f3fff1fa07e998e86f7f7a27ae3",
-                        "level": "SHELTER",
-                        "levelAccess": "8d6485f2-355c-4755-a950-8d8b02c8619e"
-                    }
-            });
-        }, 10));        
+    whoami: async () => {      
+        const res = await axios.get(`http://34.66.234.105:8095/whoami`);
+        return res;   
+        // console.log('whoami called')       
+        // return new Promise(resolve => setTimeout(() => {
+        //     resolve(                
+        //         {
+        //             status: 200,
+        //             data: {
+        //                 "id": "e76d360e-b06a-454a-b0f9-bd5186c7da35",
+        //                 "login": "shelter1",
+        //                 "fullName": null,
+        //                 "secret": "{SHA-256}a665a45920422f9d417e4867efdc4fb8a04a1f3fff1fa07e998e86f7f7a27ae3",
+        //                 "level": "SHELTER",
+        //                 "levelAccess": "8d6485f2-355c-4755-a950-8d8b02c8619e"
+        //             }
+        //     });
+        // }, 10));        
     },
     auth: async ({username, password}) => {
+
+        const res = await axios.post('http://34.66.234.105:8095/auth',
+            {
+                username, password
+            })
+            
+        return res;
         
-        return new Promise(resolve => setTimeout(() => {
-            resolve(                
-                {
-                    status: password === '123' ? 200: 401,
-                    data: {
-                        "id": "e76d360e-b06a-454a-b0f9-bd5186c7da35",
-                        "login": "shelter1",
-                        "fullName": null,
-                        "secret": "{SHA-256}a665a45920422f9d417e4867efdc4fb8a04a1f3fff1fa07e998e86f7f7a27ae3",
-                        "level": "SHELTER",
-                        "levelAccess": "8d6485f2-355c-4755-a950-8d8b02c8619e"
-                    }
-            });
-        }, 10)); 
+        // return new Promise(resolve => setTimeout(() => {
+        //     resolve(                
+        //         {
+        //             status: password === '123' ? 200: 401,
+        //             data: {
+        //                 "id": "e76d360e-b06a-454a-b0f9-bd5186c7da35",
+        //                 "login": "shelter1",
+        //                 "fullName": null,
+        //                 "secret": "{SHA-256}a665a45920422f9d417e4867efdc4fb8a04a1f3fff1fa07e998e86f7f7a27ae3",
+        //                 "level": "SHELTER",
+        //                 "levelAccess": "8d6485f2-355c-4755-a950-8d8b02c8619e"
+        //             }
+        //     });
+        // }, 10)); 
     }
 }
 

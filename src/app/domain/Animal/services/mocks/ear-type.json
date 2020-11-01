@@ -1,0 +1,61 @@
+{
+    "_embedded": {
+        "ear-type": [
+            {
+                "name": "стоячие",
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/ear-type/c2d09cec-f488-4cbc-ace5-5e1b9734ce07"
+                    },
+                    "earTypeEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/ear-type/c2d09cec-f488-4cbc-ace5-5e1b9734ce07"
+                    }
+                }
+            },
+            {
+                "name": "купированные",
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/ear-type/b9f7b9fe-43b5-4f6f-aa1b-8a567ba60300"
+                    },
+                    "earTypeEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/ear-type/b9f7b9fe-43b5-4f6f-aa1b-8a567ba60300"
+                    }
+                }
+            },
+            {
+                "name": "полустоячие",
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/ear-type/644e294b-2c2e-4c1f-b6ed-ae1d50cdd4c9"
+                    },
+                    "earTypeEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/ear-type/644e294b-2c2e-4c1f-b6ed-ae1d50cdd4c9"
+                    }
+                }
+            },
+            {
+                "name": "висячие",
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/ear-type/1cbe7940-4370-4177-8e5e-5e9ec4e3e54c"
+                    },
+                    "earTypeEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/ear-type/1cbe7940-4370-4177-8e5e-5e9ec4e3e54c"
+                    }
+                }
+            }
+        ]
+    },
+    "_links": {
+        "self": {
+            "href": "http://34.66.234.105:8095/api/v1/ear-type"
+        },
+        "profile": {
+            "href": "http://34.66.234.105:8095/api/v1/profile/ear-type"
+        },
+        "search": {
+            "href": "http://34.66.234.105:8095/api/v1/ear-type/search"
+        }
+    }
+}

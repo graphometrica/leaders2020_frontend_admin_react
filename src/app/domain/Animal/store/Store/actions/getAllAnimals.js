@@ -10,13 +10,15 @@ import { backend } from "@backend";
 import { updateFetchingStatus } from './updateFetchingStatus'
 
 import { applyFilters} from "./applyFilters"
+import {mapUniversal} from '@helpers/mapUniversal'
 
 
 const getAllAnimals = createAsyncAction(
     async ({ value }) => {                
-      const result = await backend.getAllAnimals();    
-      if (result.status === 200) return successResult(result.data);
-      return errorResult([], `Status code: ${result.status}`);
+      const result = await backend.getAllAnimals();  
+      let d = result.data ? result.data : result;  
+      return successResult(mapUniversal(d));
+      //return errorResult([], `Status code: ${result.status}`);
     },
     {      
       shortCircuitHook: ({args}) => {

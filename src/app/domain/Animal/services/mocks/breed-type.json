@@ -1,0 +1,39 @@
+{
+    "_embedded": {
+        "breed-type": [
+            {
+                "name": "алабай",
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/breed-type/eceb2bde-4c58-408d-8475-7bb8e485a8d9"
+                    },
+                    "breedTypeEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/breed-type/eceb2bde-4c58-408d-8475-7bb8e485a8d9"
+                    }
+                }
+            },
+            {
+                "name": "метис",
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/breed-type/4fd0806c-6449-4680-8473-e2f01a83049a"
+                    },
+                    "breedTypeEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/breed-type/4fd0806c-6449-4680-8473-e2f01a83049a"
+                    }
+                }
+            }
+        ]
+    },
+    "_links": {
+        "self": {
+            "href": "http://34.66.234.105:8095/api/v1/breed-type"
+        },
+        "profile": {
+            "href": "http://34.66.234.105:8095/api/v1/profile/breed-type"
+        },
+        "search": {
+            "href": "http://34.66.234.105:8095/api/v1/breed-type/search"
+        }
+    }
+}

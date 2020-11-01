@@ -30,6 +30,7 @@ const AuthPage = ({ route, router
                         setInputErrorText('Некорректный логин или пароль');
                         setPassword('')
                     }else {
+                        
                         router.navigate("AnimalCardsPage", null, {reload: true})
                     }                 
                 })
@@ -39,16 +40,10 @@ const AuthPage = ({ route, router
         const dataSource = [
             {
               key: '1',
-              login: 'shelter1',              
-              password: 'shelter1',
+              login: 'org',              
+              password: '123',
               text: 'сотрудник приюта 1'
-            },
-            {
-                key: '2',
-                login: 'shelter2',              
-                password: 'shelter2',
-                text: 'сотрудник приюта 2'
-            }
+            }            
         ]
 
         const columns = [
@@ -92,7 +87,9 @@ const AuthPage = ({ route, router
                             <Form.Item>
                                 <Input
                                 type="password"
-                                value={password} onChange={(e) => setPassword(e.target.value) }
+                                value={password}
+                                onKeyDown={(e) => e.keyCode === 13 ? authHandler(): null}
+                                onChange={(e) => setPassword(e.target.value) }
                                 size="large" placeholder="Пароль" />
                             </Form.Item>                            
                         </Col>
@@ -106,7 +103,7 @@ const AuthPage = ({ route, router
                         <Button
                          onClick={authHandler}
                          disabled={isFetching}
-                         size="large" style={{width: '100%'}} type="primary">Войти</Button>
+                         size="large" className="login-button" type="primary">Войти</Button>
                     </Col>
                 </Row>
 

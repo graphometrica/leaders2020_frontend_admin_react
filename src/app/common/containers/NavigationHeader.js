@@ -10,13 +10,13 @@ import {Store} from '@Store'
 
 const LogOut = (router, stay) => {
     
-    let allCookies = document.cookie.split(';'); 
-    console.log('clear all cookies', allCookies)
+    // let allCookies = document.cookie.split(';'); 
+    // console.log('clear all cookies', allCookies)
             
-    for (var i = 0; i < allCookies.length; i++)  {
-        document.cookie = allCookies[i] + "=;expires=" 
-        + new Date(0).toUTCString(); 
-    }
+    // for (var i = 0; i < allCookies.length; i++)  {
+    //     document.cookie = allCookies[i] + "=;expires=" 
+    //     + new Date(0).toUTCString(); 
+    // }
 
     if (!stay) {
         Store.update((s) => ({

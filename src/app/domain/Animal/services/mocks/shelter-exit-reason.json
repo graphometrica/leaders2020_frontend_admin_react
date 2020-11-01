@@ -1,0 +1,39 @@
+{
+    "_embedded": {
+        "shelter-exit-reason": [
+            {
+                "name": "передача в собственность (под опеку)",
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/shelter-exit-reason/995166f8-6e6a-449e-ac33-692d71ce6c9a"
+                    },
+                    "shelterExitReasonEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/shelter-exit-reason/995166f8-6e6a-449e-ac33-692d71ce6c9a"
+                    }
+                }
+            },
+            {
+                "name": "смерть",
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/shelter-exit-reason/68074a2d-6479-4e32-982b-cc934a03930c"
+                    },
+                    "shelterExitReasonEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/shelter-exit-reason/68074a2d-6479-4e32-982b-cc934a03930c"
+                    }
+                }
+            }
+        ]
+    },
+    "_links": {
+        "self": {
+            "href": "http://34.66.234.105:8095/api/v1/shelter-exit-reason"
+        },
+        "profile": {
+            "href": "http://34.66.234.105:8095/api/v1/profile/shelter-exit-reason"
+        },
+        "search": {
+            "href": "http://34.66.234.105:8095/api/v1/shelter-exit-reason/search"
+        }
+    }
+}

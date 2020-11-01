@@ -1,0 +1,336 @@
+{
+    "_embedded": {
+        "color-type": [
+            {
+                "name": "палевый",
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/color-type/1797832e-0d11-4ccf-9ecc-4a51e36bf351"
+                    },
+                    "colorTypeEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/color-type/1797832e-0d11-4ccf-9ecc-4a51e36bf351"
+                    }
+                }
+            },
+            {
+                "name": "черно-белый",
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/color-type/894b5bd3-cecb-41ec-aee3-31c64101ca2c"
+                    },
+                    "colorTypeEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/color-type/894b5bd3-cecb-41ec-aee3-31c64101ca2c"
+                    }
+                }
+            },
+            {
+                "name": "триколор",
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/color-type/036ad5e1-c078-41dd-9d03-fa63977b6d0e"
+                    },
+                    "colorTypeEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/color-type/036ad5e1-c078-41dd-9d03-fa63977b6d0e"
+                    }
+                }
+            },
+            {
+                "name": "голубой с белым",
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/color-type/550ea1e3-7cc7-480d-b53e-f284e7d49a7a"
+                    },
+                    "colorTypeEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/color-type/550ea1e3-7cc7-480d-b53e-f284e7d49a7a"
+                    }
+                }
+            },
+            {
+                "name": "шоколадный",
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/color-type/e38a34c7-3d43-4e46-8bac-6413fb4854b3"
+                    },
+                    "colorTypeEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/color-type/e38a34c7-3d43-4e46-8bac-6413fb4854b3"
+                    }
+                }
+            },
+            {
+                "name": "темно-коричневый",
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/color-type/246e4a93-df5f-4253-97c2-34cbe0b91cda"
+                    },
+                    "colorTypeEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/color-type/246e4a93-df5f-4253-97c2-34cbe0b91cda"
+                    }
+                }
+            },
+            {
+                "name": "черный",
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/color-type/3f6ff6a8-576b-4b48-ae5f-fd9f15db7397"
+                    },
+                    "colorTypeEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/color-type/3f6ff6a8-576b-4b48-ae5f-fd9f15db7397"
+                    }
+                }
+            },
+            {
+                "name": "биколор",
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/color-type/2432fcea-7235-4dbd-b4dc-658bb553b999"
+                    },
+                    "colorTypeEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/color-type/2432fcea-7235-4dbd-b4dc-658bb553b999"
+                    }
+                }
+            },
+            {
+                "name": "мраморный",
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/color-type/68544527-7b6d-44b4-8f9c-6bcd373a3642"
+                    },
+                    "colorTypeEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/color-type/68544527-7b6d-44b4-8f9c-6bcd373a3642"
+                    }
+                }
+            },
+            {
+                "name": "фавн (бежевый)",
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/color-type/f2719827-4217-4df2-aa79-46fa80e7cde1"
+                    },
+                    "colorTypeEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/color-type/f2719827-4217-4df2-aa79-46fa80e7cde1"
+                    }
+                }
+            },
+            {
+                "name": "абркосовый",
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/color-type/04225a66-8fb4-46ef-823f-05992e672dc7"
+                    },
+                    "colorTypeEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/color-type/04225a66-8fb4-46ef-823f-05992e672dc7"
+                    }
+                }
+            },
+            {
+                "name": "дымчатый",
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/color-type/12dc6e50-0284-4c49-ac52-1a4ef3ffd7ce"
+                    },
+                    "colorTypeEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/color-type/12dc6e50-0284-4c49-ac52-1a4ef3ffd7ce"
+                    }
+                }
+            },
+            {
+                "name": "черепаховый",
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/color-type/82213de7-5557-4b55-bc7d-1921750e335b"
+                    },
+                    "colorTypeEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/color-type/82213de7-5557-4b55-bc7d-1921750e335b"
+                    }
+                }
+            },
+            {
+                "name": "черный с белым",
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/color-type/e5631156-a9ef-4650-8e0b-f6cc5fac18a1"
+                    },
+                    "colorTypeEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/color-type/e5631156-a9ef-4650-8e0b-f6cc5fac18a1"
+                    }
+                }
+            },
+            {
+                "name": "соболиный",
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/color-type/5846e44b-b8da-41c4-ab16-15bd2e41a979"
+                    },
+                    "colorTypeEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/color-type/5846e44b-b8da-41c4-ab16-15bd2e41a979"
+                    }
+                }
+            },
+            {
+                "name": "арлекин",
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/color-type/36acfeed-7809-4415-98af-fc33a59b4786"
+                    },
+                    "colorTypeEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/color-type/36acfeed-7809-4415-98af-fc33a59b4786"
+                    }
+                }
+            },
+            {
+                "name": "золотой",
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/color-type/4f03e587-3ceb-4545-8955-2559ab3c9dac"
+                    },
+                    "colorTypeEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/color-type/4f03e587-3ceb-4545-8955-2559ab3c9dac"
+                    }
+                }
+            },
+            {
+                "name": "кремовый",
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/color-type/a6ba0c3e-5f2d-4b87-b0f5-55e79f16bad7"
+                    },
+                    "colorTypeEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/color-type/a6ba0c3e-5f2d-4b87-b0f5-55e79f16bad7"
+                    }
+                }
+            },
+            {
+                "name": "черно-красный-белый",
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/color-type/66aa8bd3-d4cb-4f28-9f4f-8018c8f3716a"
+                    },
+                    "colorTypeEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/color-type/66aa8bd3-d4cb-4f28-9f4f-8018c8f3716a"
+                    }
+                }
+            },
+            {
+                "name": "красный",
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/color-type/3081b42d-58ab-4547-a727-7bbb0e7375fb"
+                    },
+                    "colorTypeEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/color-type/3081b42d-58ab-4547-a727-7bbb0e7375fb"
+                    }
+                }
+            },
+            {
+                "name": "серебристый",
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/color-type/35ec58c0-fc40-4b9f-ad75-b2eb514320f9"
+                    },
+                    "colorTypeEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/color-type/35ec58c0-fc40-4b9f-ad75-b2eb514320f9"
+                    }
+                }
+            },
+            {
+                "name": "рыжий",
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/color-type/d152ba8b-4d92-4c3d-8227-67a629d83eee"
+                    },
+                    "colorTypeEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/color-type/d152ba8b-4d92-4c3d-8227-67a629d83eee"
+                    }
+                }
+            },
+            {
+                "name": "белый",
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/color-type/c924f40d-5e4c-415f-a731-431aa5d8125a"
+                    },
+                    "colorTypeEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/color-type/c924f40d-5e4c-415f-a731-431aa5d8125a"
+                    }
+                }
+            },
+            {
+                "name": "голубо-кремовый черепаховый",
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/color-type/0068083f-bbf4-47e5-a064-8479e2959db8"
+                    },
+                    "colorTypeEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/color-type/0068083f-bbf4-47e5-a064-8479e2959db8"
+                    }
+                }
+            },
+            {
+                "name": "тигровый",
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/color-type/0900769f-c6bb-4999-8c59-c25cda6a041c"
+                    },
+                    "colorTypeEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/color-type/0900769f-c6bb-4999-8c59-c25cda6a041c"
+                    }
+                }
+            },
+            {
+                "name": "красный с белым",
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/color-type/dfc78745-2e3e-402a-ad54-e41858735c6d"
+                    },
+                    "colorTypeEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/color-type/dfc78745-2e3e-402a-ad54-e41858735c6d"
+                    }
+                }
+            },
+            {
+                "name": "перец с солью",
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/color-type/71ddc641-84fb-4fae-b5e9-f0136ccf59ce"
+                    },
+                    "colorTypeEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/color-type/71ddc641-84fb-4fae-b5e9-f0136ccf59ce"
+                    }
+                }
+            },
+            {
+                "name": "светло-коричневый",
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/color-type/2b8fc761-88cd-41c9-856e-604eec9d9194"
+                    },
+                    "colorTypeEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/color-type/2b8fc761-88cd-41c9-856e-604eec9d9194"
+                    }
+                }
+            },
+            {
+                "name": "чепрачный",
+                "_links": {
+                    "self": {
+                        "href": "http://34.66.234.105:8095/api/v1/color-type/f6772397-ed9a-48c3-aaff-27867c62983c"
+                    },
+                    "colorTypeEntity": {
+                        "href": "http://34.66.234.105:8095/api/v1/color-type/f6772397-ed9a-48c3-aaff-27867c62983c"
+                    }
+                }
+            }
+        ]
+    },
+    "_links": {
+        "self": {
+            "href": "http://34.66.234.105:8095/api/v1/color-type"
+        },
+        "profile": {
+            "href": "http://34.66.234.105:8095/api/v1/profile/color-type"
+        },
+        "search": {
+            "href": "http://34.66.234.105:8095/api/v1/color-type/search"
+        }
+    }
+}
