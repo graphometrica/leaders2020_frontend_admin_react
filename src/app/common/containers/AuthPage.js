@@ -40,7 +40,7 @@ const AuthPage = ({ route, router
         const dataSource = [
             {
               key: '1',
-              login: 'org',              
+              login: 'org1',              
               password: '123',
               text: 'сотрудник приюта 1'
             }            
