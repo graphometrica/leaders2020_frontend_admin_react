@@ -17,7 +17,7 @@ import './AnimalCardsTable.scoped.scss'
     {
         title: 'фото',
         dataIndex: 'pictureId',
-        render: value => <a target="_blank" href={`http://35.199.48.193:7001/load_from_db?id=${value}`}><img style={{maxWidth:'128px', maxHeight: '128px'}} src={`http://35.199.48.193:7001/load_from_db?id=${value}`}/></a>
+        render: value => <a target="_blank" href={`https://kotik.dog/imgstore/load_from_db?id=${value}`}><img style={{maxWidth:'128px', maxHeight: '128px'}} src={`https://kotik.dog/imgstore/load_from_db?id=${value}`}/></a>
     },
     {
         title: 'возраст',
