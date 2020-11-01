@@ -1,5 +1,0 @@
-const {router} = props;
-
-  setTimeout(() => {
-    router.navigate("service_id", {id: 77}, {reload: true})
-  })

@@ -37,6 +37,7 @@ const getExtraButtons = (router, userInfo) => {
 
     if (userInfo) {
         return [
+                <span>для отчетов логин: org1 пароль: 123</span>,
                 <Button key="1" onClick={reportHandler} className="reports-button">Конструктор отчетов</Button>,
                 <Button key="2" onClick={ () => LogOut(router)}>Выйти</Button>
         ]
