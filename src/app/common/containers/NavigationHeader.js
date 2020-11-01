@@ -30,7 +30,7 @@ const LogOut = (router, stay) => {
 }
 
 const reportHandler = (e) => {
-    window.open('http://35.245.196.56:8088/superset/dashboard/8/', '_blank');        
+    window.open('http://35.245.196.56:8088/', '_blank');        
 }
 
 const getExtraButtons = (router, userInfo) => {
